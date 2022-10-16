@@ -46,7 +46,7 @@
 ## C
 ## D
 
-### [Dark and Darker]( https://store.steampowered.com/app/2016590/Dark_and_Darker/ ) ( 2023 Q4 예정 | Steam | [IRONMACE]( https://www.ironmace.com/ ) | [IRONMACE]( https://www.ironmace.com/ ) )
+### [Dark and Darker]( https://store.steampowered.com/app/2016590/Dark_and_Darker/ ) ( 2023 Q4 예정 | 64-bit Windows 10, 11 | [IRONMACE]( https://www.ironmace.com/ ) | [IRONMACE]( https://www.ironmace.com/ ) )
 
 ## E
 ## F
