@@ -51,6 +51,8 @@
 
 ### [Dark and Darker]( https://store.steampowered.com/app/2016590/Dark_and_Darker/ ) ( 2023 Q4 예정 | 64-bit Windows 10, 11 | [IRONMACE]( https://www.ironmace.com/ ) | [IRONMACE]( https://www.ironmace.com/ ) )
 
+### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | Windows 7+ | TEAM HORAY | TEAM HORAY )
+
 ## E
 ## F
 ## G
