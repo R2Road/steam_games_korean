@@ -22,6 +22,9 @@
 ## ㄴ
 ## ㄷ
 ## ㄹ
+
+### [린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/_/ ) ( 2021 | Windows 7 / 8 / 8.1 / 10 (64-Bit) | DOTORIS | DOTORIS )
+
 ## ㅁ
 ## ㅂ
 ## ㅅ
@@ -56,6 +59,9 @@
 ## J
 ## K
 ## L
+
+### [Lynn , The Girl Drawn On Puzzles]( https://store.steampowered.com/app/1249080/_/ ) ( 2021 | Windows 7 / 8 / 8.1 / 10 (64-Bit) | DOTORIS | DOTORIS )
+
 ## M
 ## N
 ## O
