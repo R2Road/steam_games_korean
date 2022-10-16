@@ -41,7 +41,7 @@
 ## A
 ## B
 
-### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | Windows | TeamSuneat | Neowiz )
+### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | Windows 7+ | TeamSuneat | Neowiz )
 
 ## C
 ## D
