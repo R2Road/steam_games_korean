@@ -64,7 +64,7 @@
 ## R
 ## S
 
-### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | Steam | [Southpaw Games Co., Ltd.](https://southpaw.games/) | Neowiz )
+### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | Windows 7+ | [Southpaw Games Co., Ltd.](https://southpaw.games/) | Neowiz )
 
 ## T
 ## U
