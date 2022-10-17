@@ -29,6 +29,7 @@
 ### ㅂ
 ### ㅅ
 
+#### [사망여각 | 8Doors: Arum's Afterlife Adventure]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | Windows 7 | Rootless Studio | Neowiz )
 #### [산나비 | SANABI: The Revenant]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | Windows 7+ | WONDER POTION | Neowiz )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/_/ ) ( 2022 | Win 10 x64 | SUNNY SIDE UP | SUNNY SIDE UP )
 
