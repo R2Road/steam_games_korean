@@ -33,7 +33,7 @@
 ### ㄷ
 
 #### [던전 로드 | Dungeon Lord]( https://store.steampowered.com/app/1429670/_/ ) ( 2020 | Windows® XP or higher | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
-#### [데이브 더 다이버 | Dave The Diver]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 Early | Windows 7 64 bit | MINTROCKET | MINTROCKET )
+#### [데이브 더 다이버 | DAVE THE DIVER]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 Early | Windows 7 64 bit | MINTROCKET | MINTROCKET )
 
 ### ㄹ
 
@@ -69,7 +69,7 @@
 ### C
 ### D
 
-#### [Dave The Diver | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 Early | Windows 7 64 bit | MINTROCKET | MINTROCKET )
+#### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 Early | Windows 7 64 bit | MINTROCKET | MINTROCKET )
 #### [Dark and Darker]( https://store.steampowered.com/app/2016590/Dark_and_Darker/ ) ( 2023 Q4 예정 | 64-bit Windows 10, 11 | [IRONMACE]( https://www.ironmace.com/ ) | [IRONMACE]( https://www.ironmace.com/ ) )
 #### [Dungeon Lord | 던전 로드]( https://store.steampowered.com/app/1429670/_/ ) ( 2020 | Windows® XP or higher | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | Windows 7+ | TEAM HORAY | TEAM HORAY )
