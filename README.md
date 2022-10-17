@@ -29,6 +29,7 @@
 ### ㅂ
 ### ㅅ
 
+#### [산나비 | SANABI: The Revenant]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | Windows 7+ | WONDER POTION | Neowiz )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/_/ ) ( 2022 | Win 10 x64 | SUNNY SIDE UP | SUNNY SIDE UP )
 
 ### ㅇ
@@ -76,6 +77,7 @@
 ### R
 ### S
 
+#### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | Windows 7+ | WONDER POTION | Neowiz )
 #### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | Windows 7+ | [Southpaw Games Co., Ltd.](https://southpaw.games/) | Neowiz )
 
 ### T
