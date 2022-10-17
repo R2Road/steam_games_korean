@@ -26,6 +26,9 @@
 ## 한국어 제목
 
 ### ㄱ
+
+#### [기적의 분식집 | Miracle Snack Shop]( https://store.steampowered.com/app/995460/_/ ) ( 2018 | Windows® XP or higher | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
+
 ### ㄴ
 ### ㄷ
 
@@ -82,6 +85,9 @@
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/_/ ) ( 2021 | Windows 7 / 8 / 8.1 / 10 (64-Bit) | DOTORIS | DOTORIS )
 
 ### M
+
+#### [Miracle Snack Shop | 기적의 분식집]( https://store.steampowered.com/app/995460/_/ ) ( 2018 | Windows® XP or higher | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
+
 ### N
 ### O
 ### P
