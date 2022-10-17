@@ -1,3 +1,5 @@
+<a href="https://discord.com/channels/970932025802489866/1031499005923958794"><img src="https://img.shields.io/badge/Discord-steam__game__korean-orange" alt="discord"></a>
+
 <h1 align=center>
 한국산 스팀 게임 | Steam Game Korean
 </h1>
@@ -13,6 +15,11 @@
 * 제목 ( 출시년도 | 플랫폼 | 개발사 | 퍼블리셔 ) : 꼭 다 작성해야 하는건 아닙니다.
 * 영어 제목, 한글 제목이 따로 있다면 둘 다 작성해도 된다.
 * 링크가 있다면 넣어도 된다.
+
+
+
+## 제보
+* 상단에 링크되어 있는 Discord 에 남겨 주세요.
 
 
 
