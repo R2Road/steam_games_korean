@@ -21,6 +21,9 @@
 ### ㄱ
 ### ㄴ
 ### ㄷ
+
+#### [데이브 더 다이버 | Dave The Diver]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 Early | Windows 7 64 bit | MINTROCKET | MINTROCKET )
+
 ### ㄹ
 
 #### [린, 퍼즐에 그려진 소녀 이야기 | Lynn , The Girl Drawn On Puzzles]( https://store.steampowered.com/app/1249080/_/ ) ( 2021 | Windows 7 / 8 / 8.1 / 10 (64-Bit) | DOTORIS | DOTORIS )
@@ -53,6 +56,8 @@
 
 ### C
 ### D
+
+#### [Dave The Diver | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 Early | Windows 7 64 bit | MINTROCKET | MINTROCKET )
 
 #### [Dark and Darker]( https://store.steampowered.com/app/2016590/Dark_and_Darker/ ) ( 2023 Q4 예정 | 64-bit Windows 10, 11 | [IRONMACE]( https://www.ironmace.com/ ) | [IRONMACE]( https://www.ironmace.com/ ) )
 
