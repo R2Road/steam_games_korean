@@ -137,6 +137,9 @@
 
 ### V
 ### W
+
+#### [White Day: A Labyrinth Named School]( https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/ ) ( 2017 | Windows 7, Windows 8, Windows 10 | SONNORI Corp | PQube, SONNORI Corp )
+
 ### X
 ### Y
 ### Z
