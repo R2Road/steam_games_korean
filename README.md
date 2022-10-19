@@ -140,6 +140,9 @@
 #### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | Windows 7 or Later | Megusta Game | NEOWIZ )
 
 ### V
+
+#### [Vambrace: Cold Soul]( https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/ ) ( 2019 | Windows XP (64Bit) | Devespresso Games | Headup, WhisperGames )
+
 ### W
 
 #### [White Day: A Labyrinth Named School]( https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/ ) ( 2017 | Windows 7, Windows 8, Windows 10 | SONNORI Corp | PQube, SONNORI Corp )
