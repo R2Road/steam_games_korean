@@ -133,6 +133,7 @@
 ### T
 
 #### [The Coma: Recut]( https://store.steampowered.com/app/600090/The_Coma_Recut/ ) ( 2017 | Windows XP | Devespresso Games | Headup )
+#### [The Coma 2: Vicious Sisters]( https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/ ) ( 2020 | Windows XP (64Bit) | Devespresso Games | Headup, WhisperGames )
 
 ### U
 
