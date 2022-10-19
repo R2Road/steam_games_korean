@@ -88,6 +88,7 @@
 #### [Library Of Ruina]( https://store.steampowered.com/app/1256670/Library_Of_Ruina ) ( 2021 | Windows 7 | ProjectMoon | ProjectMoon )
 #### [Little Witch in the Woods | 숲속의 작은 마녀 ]( https://store.steampowered.com/app/1594940/_/ ) ( 2022 | Win 10 x64 | SUNNY SIDE UP | SUNNY SIDE UP )
 #### [Lobotomy Corporation | Monster Management Simulation]( https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/ ) ( 2018 | Windows 8.1 or later | ProjectMoon | ProjectMoon )
+#### [Lost Eidolons]( https://store.steampowered.com/app/1580520/Lost_Eidolons/ ) ( 2022 | Windows 10 x64 | Ocean Drive Studio, Inc. | Ocean Drive Studio, Inc. )
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/_/ ) ( 2021 | Windows 7 / 8 / 8.1 / 10 (64-Bit) | DOTORIS | DOTORIS )
 
 ### M
