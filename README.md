@@ -97,6 +97,9 @@
 #### [Miracle Snack Shop | 기적의 분식집]( https://store.steampowered.com/app/995460/_/ ) ( 2018 | Windows® XP or higher | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 
 ### N
+
+#### [Night of the Dead]( https://store.steampowered.com/app/1377380/Night_of_the_Dead/ ) ( 2020 | Windows 7/8/10 64-bit | jacktostudios | jacktostudios )
+
 ### O
 ### P
 ### Q
