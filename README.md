@@ -127,9 +127,9 @@
 
 #### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | Windows 7+ | WONDER POTION | NEOWIZ )
 #### [Scarlet Hood and the Wicked Wood]( https://store.steampowered.com/app/1141120/Scarlet_Hood_and_the_Wicked_Wood/ ) ( 2021 | Windows XP (64Bit) | Devespresso Games | Headup, WhisperGames )
+#### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | Windows 7+ | [Southpaw Games Co., Ltd.](https://southpaw.games/) | NEOWIZ )
 #### [SMASHING THE BATTLE]( https://store.steampowered.com/app/467930/SMASHING_THE_BATTLE/ ) ( 2016 | Windows 7 | Action Square(Studio HG) | Action Square )
 #### [Some Some Convenience Store | 썸썸 편의점]( https://store.steampowered.com/app/1217390/_/ ) ( 2020 | Windows® XP or higher | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
-#### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | Windows 7+ | [Southpaw Games Co., Ltd.](https://southpaw.games/) | NEOWIZ )
 
 ### T
 
