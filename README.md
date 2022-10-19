@@ -57,6 +57,9 @@
 ### ㅋ
 ### ㅌ
 ### ㅍ
+
+#### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/_/ ) ( 2020 | Windows 7+ | PiedPipers Team | NEOWIZ )
+
 ### ㅎ
 
 
@@ -102,6 +105,9 @@
 
 ### O
 ### P
+
+#### [Plebby Quest: The Crusades | 플레비 퀘스트: 더 크루세이즈]( https://store.steampowered.com/app/334310/_/ ) ( 2020 | Windows 7+ | PiedPipers Team | NEOWIZ )
+
 ### Q
 ### R
 ### S
