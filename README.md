@@ -46,8 +46,8 @@
 ### ㅂ
 ### ㅅ
 
-#### [사망여각 | 8Doors: Arum's Afterlife Adventure]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | Windows 7 | Rootless Studio | Neowiz )
-#### [산나비 | SANABI: The Revenant]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | Windows 7+ | WONDER POTION | Neowiz )
+#### [사망여각 | 8Doors: Arum's Afterlife Adventure]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | Windows 7 | Rootless Studio | NEOWIZ )
+#### [산나비 | SANABI: The Revenant]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | Windows 7+ | WONDER POTION | NEOWIZ )
 #### [썸썸 편의점 | Some Some Convenience Store]( https://store.steampowered.com/app/1217390/_/ ) ( 2020 | Windows® XP or higher | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/_/ ) ( 2022 | Win 10 x64 | SUNNY SIDE UP | SUNNY SIDE UP )
 
@@ -112,15 +112,15 @@
 ### R
 ### S
 
-#### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | Windows 7+ | WONDER POTION | Neowiz )
+#### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | Windows 7+ | WONDER POTION | NEOWIZ )
 #### [SMASHING THE BATTLE]( https://store.steampowered.com/app/467930/SMASHING_THE_BATTLE/ ) ( 2016 | Windows 7 | Action Square(Studio HG) | Action Square )
 #### [Some Some Convenience Store | 썸썸 편의점]( https://store.steampowered.com/app/1217390/_/ ) ( 2020 | Windows® XP or higher | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
-#### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | Windows 7+ | [Southpaw Games Co., Ltd.](https://southpaw.games/) | Neowiz )
+#### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | Windows 7+ | [Southpaw Games Co., Ltd.](https://southpaw.games/) | NEOWIZ )
 
 ### T
 ### U
 
-#### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | Windows 7 or Later | Megusta Game | Neowiz )
+#### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | Windows 7 or Later | Megusta Game | NEOWIZ )
 
 ### V
 ### W
@@ -144,7 +144,7 @@
 ### 7
 ### 8
 
-#### [8Doors: Arum's Afterlife Adventure | 사망여각]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | Windows 7 | Rootless Studio | Neowiz )
+#### [8Doors: Arum's Afterlife Adventure | 사망여각]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | Windows 7 | Rootless Studio | NEOWIZ )
 
 ### 9
 ### 0
