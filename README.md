@@ -53,6 +53,9 @@
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/_/ ) ( 2022 | Win 10 x64 | SUNNY SIDE UP | SUNNY SIDE UP )
 
 ### ㅇ
+
+#### [아라하 : 이은도의 저주 | Araha : Curse of Yieun Island]( https://store.steampowered.com/app/1190130/_/ ) ( 2020 | Windows 7 / 8 / 8.1 / 10 (64-bit) | Palmsoft | Palmsoft )
+
 ### ㅈ
 ### ㅊ
 ### ㅋ
@@ -68,6 +71,9 @@
 ## 영어 제목
 
 ### A
+
+#### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/_/ ) ( 2020 | Windows 7 / 8 / 8.1 / 10 (64-bit) | Palmsoft | Palmsoft )
+
 ### B
 
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | Windows 7+ | TeamSuneat | Neowiz )
