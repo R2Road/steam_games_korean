@@ -40,6 +40,9 @@
 #### [린, 퍼즐에 그려진 소녀 이야기 | Lynn , The Girl Drawn On Puzzles]( https://store.steampowered.com/app/1249080/_/ ) ( 2021 | Windows 7 / 8 / 8.1 / 10 (64-Bit) | DOTORIS | DOTORIS )
 
 ### ㅁ
+
+#### [메탈릭 차일드 | METALLIC CHILD]( https://store.steampowered.com/app/1490610/_/ ) ( 2021 | Windows®10 64-bit | Action Square(STUDIO HG) | CREST )
+
 ### ㅂ
 ### ㅅ
 
@@ -87,6 +90,7 @@
 
 ### M
 
+#### [METALLIC CHILD | 메탈릭 차일드]( https://store.steampowered.com/app/1490610/_/ ) ( 2021 | Windows®10 64-bit | Action Square(STUDIO HG) | CREST )
 #### [Miracle Snack Shop | 기적의 분식집]( https://store.steampowered.com/app/995460/_/ ) ( 2018 | Windows® XP or higher | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 
 ### N
