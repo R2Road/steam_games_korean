@@ -72,6 +72,9 @@
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | Windows 7+ | TeamSuneat | Neowiz )
 
 ### C
+
+#### [Chicken in the Darkness]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | Windows 7 or higher | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
+
 ### D
 
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 Early | Windows 7 64 bit | MINTROCKET | MINTROCKET )
