@@ -100,6 +100,9 @@
 
 ### E
 ### F
+
+#### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | Windows 7 or later | WIDStudio | CFK Co., Ltd. )
+
 ### G
 ### H
 
