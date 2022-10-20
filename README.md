@@ -124,6 +124,9 @@
 
 ### Q
 ### R
+
+#### [Ratropolis]( https://store.steampowered.com/app/1108370/Ratropolis/ ) ( 2020 | Window 7, 8, 10 (64-bits) | Cassel Games | Cassel Games )
+
 ### S
 
 #### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | Windows 7+ | WONDER POTION | NEOWIZ )
