@@ -64,6 +64,9 @@
 #### [크로노 아크 | Chrono Ark]( https://store.steampowered.com/app/1188930/_/ ) ( 2019 | Windows 7 or later | Al Fine | Al Fine )
 
 ### ㅌ
+
+#### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/_/ ) ( 2020 | 64-bit Windows 7 SP 1, Windows 8.1, Windows 10 | Dandylion | Dandylion )
+
 ### ㅍ
 
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/_/ ) ( 2020 | Windows 7+ | PiedPipers Team | NEOWIZ )
@@ -148,6 +151,7 @@
 
 #### [The Coma: Recut]( https://store.steampowered.com/app/600090/The_Coma_Recut/ ) ( 2017 | Windows XP | Devespresso Games | Headup )
 #### [The Coma 2: Vicious Sisters]( https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/ ) ( 2020 | Windows XP (64Bit) | Devespresso Games | Headup, WhisperGames )
+#### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/_/ ) ( 2020 | 64-bit Windows 7 SP 1, Windows 8.1, Windows 10 | Dandylion | Dandylion )
 
 ### U
 
