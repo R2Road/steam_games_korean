@@ -1,7 +1,8 @@
 <a href="https://discord.com/channels/970932025802489866/1031499005923958794"><img src="https://img.shields.io/badge/Discord-steam__games__korean-orange" alt="discord"></a>
 
+<div align=center>Steam Games Korean</div>
 <h1 align=center>
-스팀의 한국 게임 목록 | Steam Games Korean
+스팀의 한국 게임 목록
 </h1>
 
 
