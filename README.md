@@ -76,6 +76,7 @@
 
 ### B
 
+#### [BLACK WITCHCRAFT]( https://store.steampowered.com/app/1557410/BLACK_WITCHCRAFT/ ) ( 2022 | Windows10 64bit | QuattroGear | CREST )
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | Windows 7+ | TeamSuneat | Neowiz )
 
 ### C
