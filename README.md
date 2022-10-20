@@ -60,6 +60,9 @@
 ### ㅈ
 ### ㅊ
 ### ㅋ
+
+#### [크로노 아크 | Chrono Ark]( https://store.steampowered.com/app/1188930/_/ ) ( 2019 | Windows 7 or later | Al Fine | Al Fine )
+
 ### ㅌ
 ### ㅍ
 
@@ -83,6 +86,7 @@
 ### C
 
 #### [Chicken in the Darkness]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | Windows 7 or higher | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
+#### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/_/ ) ( 2019 | Windows 7 or later | Al Fine | Al Fine )
 
 ### D
 
