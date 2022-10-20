@@ -124,6 +124,9 @@
 #### [No Umbrellas Allowed]( https://store.steampowered.com/app/1301390/No_Umbrellas_Allowed/ ) ( 2021 | Windows 10 | Hoochoo Game Studios | Hoochoo Game Studios )
 
 ### O
+
+#### [One Day : The Sun Disappeared]( https://store.steampowered.com/app/492610/One_Day__The_Sun_Disappeared/ ) ( 2016 | Window 7 | Teemo Soft | Teemo Soft )
+
 ### P
 
 #### [Plebby Quest: The Crusades | 플레비 퀘스트: 더 크루세이즈]( https://store.steampowered.com/app/334310/_/ ) ( 2020 | Windows 7+ | PiedPipers Team | NEOWIZ )
