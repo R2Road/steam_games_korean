@@ -142,6 +142,7 @@
 
 #### [Ratropolis]( https://store.steampowered.com/app/1108370/Ratropolis/ ) ( 2020 | Window 7, 8, 10 (64-bits) | Cassel Games | Cassel Games )
 #### [Replica]( https://store.steampowered.com/app/496890/Replica/ ) ( 2016 | Windows XP/Vista/7/8 or above | Somi | Somi, Zero Rock Entertainment )
+#### [RETSNOM]( https://store.steampowered.com/app/382920/RETSNOM/ ) ( 2015 | Windows XP/Vista/7/8 or above | Somi | Zero Rock Entertainment )
 
 ### S
 
