@@ -145,6 +145,7 @@
 
 #### [Rabbit Hole 3D: Steam Edition]( https://store.steampowered.com/app/283660/Rabbit_Hole_3D_Steam_Edition/ ) ( 2014 | Windows XP | Somi | Zero Rock Entertainment )
 #### [Ratropolis]( https://store.steampowered.com/app/1108370/Ratropolis/ ) ( 2020 | Window 7, 8, 10 (64-bits) | Cassel Games | Cassel Games )
+#### [RemiLore: Lost Girl in the Lands of Lore]( https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/ ) ( 2019 | Windows 7 or above | Pixellore Inc, REMIMORY | Nicalis, Inc. )
 #### [Replica]( https://store.steampowered.com/app/496890/Replica/ ) ( 2016 | Windows XP/Vista/7/8 or above | Somi | Somi, Zero Rock Entertainment )
 #### [RETSNOM]( https://store.steampowered.com/app/382920/RETSNOM/ ) ( 2015 | Windows XP/Vista/7/8 or above | Somi | Zero Rock Entertainment )
 
