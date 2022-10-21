@@ -40,6 +40,7 @@
 
 ### ㄹ
 
+#### [루바토: 오리지널 콤플렉스 | Ruvato: Original Complex]( https://store.steampowered.com/app/1464500/_/ ) ( 2020 | Windows 7 or above | REMIMORY | REMIMORY )
 #### [린, 퍼즐에 그려진 소녀 이야기 | Lynn , The Girl Drawn On Puzzles]( https://store.steampowered.com/app/1249080/_/ ) ( 2021 | Windows 7 / 8 / 8.1 / 10 (64-Bit) | DOTORIS | DOTORIS )
 
 ### ㅁ
@@ -148,6 +149,7 @@
 #### [RemiLore: Lost Girl in the Lands of Lore]( https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/ ) ( 2019 | Windows 7 or above | Pixellore Inc, REMIMORY | Nicalis, Inc. )
 #### [Replica]( https://store.steampowered.com/app/496890/Replica/ ) ( 2016 | Windows XP/Vista/7/8 or above | Somi | Somi, Zero Rock Entertainment )
 #### [RETSNOM]( https://store.steampowered.com/app/382920/RETSNOM/ ) ( 2015 | Windows XP/Vista/7/8 or above | Somi | Zero Rock Entertainment )
+#### [Ruvato: Original Complex | 루바토: 오리지널 콤플렉스]( https://store.steampowered.com/app/1464500/_/ ) ( 2020 | Windows 7 or above | REMIMORY | REMIMORY )
 
 ### S
 
