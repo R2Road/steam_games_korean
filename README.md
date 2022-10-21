@@ -30,6 +30,7 @@
 ### ㄱ
 
 #### [기적의 분식집 | Miracle Snack Shop]( https://store.steampowered.com/app/995460/_/ ) ( 2018 | Windows® XP or higher | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
+#### [길고양이 이야기 | A Street Cat's Tale]( https://store.steampowered.com/app/1140570/_/ ) ( 2019 | Windows Vista or greater | feemodev | CFK Co., Ltd. )
 
 ### ㄴ
 ### ㄷ
@@ -79,6 +80,7 @@
 
 ### A
 
+#### [A Street Cat's Tale | 길고양이 이야기]( https://store.steampowered.com/app/1140570/_/ ) ( 2019 | Windows Vista or greater | feemodev | CFK Co., Ltd. )
 #### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/_/ ) ( 2020 | Windows 7 / 8 / 8.1 / 10 (64-bit) | Palmsoft | Palmsoft )
 
 ### B
