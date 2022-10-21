@@ -156,6 +156,7 @@
 
 #### [The Coma: Recut]( https://store.steampowered.com/app/600090/The_Coma_Recut/ ) ( 2017 | Windows XP | Devespresso Games | Headup )
 #### [The Coma 2: Vicious Sisters]( https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/ ) ( 2020 | Windows XP (64Bit) | Devespresso Games | Headup, WhisperGames )
+#### [The Wake: Mourning Father, Mourning Mother]( https://store.steampowered.com/app/1311540/The_Wake_Mourning_Father_Mourning_Mother/ ) ( 2020 | Windows XP/Vista/7/8 or above | Somi | Somi, indienova )
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/_/ ) ( 2020 | 64-bit Windows 7 SP 1, Windows 8.1, Windows 10 | Dandylion | Dandylion )
 
 ### U
