@@ -113,6 +113,7 @@
 ### K
 ### L
 
+#### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | Windows XP/Vista/7/8 or above | Somi | Somi )
 #### [Library Of Ruina]( https://store.steampowered.com/app/1256670/Library_Of_Ruina ) ( 2021 | Windows 7 | ProjectMoon | ProjectMoon )
 #### [Little Witch in the Woods | 숲속의 작은 마녀 ]( https://store.steampowered.com/app/1594940/_/ ) ( 2022 | Win 10 x64 | SUNNY SIDE UP | SUNNY SIDE UP )
 #### [Lobotomy Corporation | Monster Management Simulation]( https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/ ) ( 2018 | Windows 8.1 or later | ProjectMoon | ProjectMoon )
