@@ -149,6 +149,7 @@
 ### S
 
 #### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | Windows 7+ | WONDER POTION | NEOWIZ )
+#### [Sally's Law]( https://store.steampowered.com/app/512230/Sallys_Law/ ) ( 2016 | Windows XP | Nanali Studios | Nanali Studios )
 #### [Scarlet Hood and the Wicked Wood]( https://store.steampowered.com/app/1141120/Scarlet_Hood_and_the_Wicked_Wood/ ) ( 2021 | Windows XP (64Bit) | Devespresso Games | Headup, WhisperGames )
 #### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | Windows 7+ | [Southpaw Games Co., Ltd.](https://southpaw.games/) | NEOWIZ )
 #### [SMASHING THE BATTLE]( https://store.steampowered.com/app/467930/SMASHING_THE_BATTLE/ ) ( 2016 | Windows 7 | Action Square(Studio HG) | Action Square )
