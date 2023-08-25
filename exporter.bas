@@ -3,7 +3,7 @@
 Option Explicit
 
 
-Const StartX = 1
+Const StartX = 0
 Const StartY = 2
 
 Type Size
@@ -58,7 +58,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
     	'
     	' Check Export Flag
     	'
-    	If sheet.getCellByPosition( 0, i ).String = "x" Then
+    	If sheet.getCellByPosition( StartX, i ).String = "x" Then
     		GoTo Continue
     	EndIf
     	
@@ -147,16 +147,13 @@ Sub Main
 		    sort_description(0).Name = "SortFields"
 		    sort_description(0).Value = sort_field()
 		    
-	    range4sort.Sort( sort_description() )
-	    
-	    
     	
 	    '
 	    ' Write : Korean List
 	    '
 	    pf.WriteLine( "## 한국어 제목" & Chr( 10 ) )
-		    sort_field(0).Field = 0
-		    sort_field(1).Field = 1
+		    sort_field(0).Field = 1
+		    sort_field(1).Field = 2
 		    sort_description(0).Value = sort_field()
 		    range4sort.Sort( sort_description() )
 	    ExportList( sheet, active_area.h, 1, 2, pf )
@@ -169,8 +166,8 @@ Sub Main
 	    ' Write : Number, English List
 	    '
 	    pf.WriteLine( "## 숫자, 영어 제목" & Chr( 10 ) )
-		    sort_field(0).Field = 1
-		    sort_field(1).Field = 0
+		    sort_field(0).Field = 2
+		    sort_field(1).Field = 1
 		    sort_description(0).Value = sort_field()
 	    	range4sort.Sort( sort_description() )
 	    ExportList( sheet, active_area.h, 2, 1, pf )
