@@ -33,7 +33,7 @@ Function CalculateSheetActiveArea( sheet as Variant ) as Size
 	' H
 	'
 	j = sheet.Rows.Count - 1
-	For i = 2 to j
+	For i = StartY to j
 		If sheet.getCellByPosition( 0, i ).String = "" Then
 			Exit For
 		EndIf
@@ -123,13 +123,13 @@ Sub Main
     '
     Dim active_area as Size
     active_area = CalculateSheetActiveArea( sheet )
-    MsgBox( active_area.w & " : " & active_area.h )
+    MsgBox( "Active Area : " & StartX & " : " & StartY & " ~ " & active_area.w & " : " & active_area.h )
     
     
     '
     ' Export List
     '
-    On Error GoTo ErrorEnd 'Error 발생시 File 해제 용도
+    On Error GoTo ERROR_END 'Error 발생시 File 해제 용도
     
     	'
     	'
@@ -140,7 +140,6 @@ Sub Main
     	Dim sort_field(1) as new com.sun.star.util.SortField
 			sort_field(0).SortAscending = TRUE
 		    sort_field(0).FieldType = com.sun.star.util.SortFieldType.ALPHANUMERIC
-		    
 		    sort_field(1).SortAscending = TRUE
 		    sort_field(1).FieldType = com.sun.star.util.SortFieldType.ALPHANUMERIC
 	    
@@ -179,7 +178,7 @@ Sub Main
 	    
     	MsgBox( "Success" )
     	
-    ErrorEnd:
+    ERROR_END:
     
     
     '
