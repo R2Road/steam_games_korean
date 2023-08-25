@@ -49,7 +49,7 @@ End Function
 
 
 
-Function LoadFile( header_fine_name as String, pf as Variant )
+Function LoadFile( header_fine_name as String, out_file as Variant )
 
 	'
 	' File Open
@@ -68,7 +68,7 @@ Function LoadFile( header_fine_name as String, pf as Variant )
 	'
 	'
 	'
-	pf.WriteLine( header_pf.ReadAll() )
+	out_file.WriteLine( header_pf.ReadAll() )
 	
 	
 	'
@@ -81,7 +81,7 @@ End Function
 
 
 
-Function ExportList( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, pf as Variant )
+Function ExportList( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, out_file as Variant )
 	
 	Dim title, result as String
     Dim i, j as Integer
@@ -143,7 +143,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
     	'
     	'
     	'
-    	pf.WriteLine( result )
+    	out_file.WriteLine( result )
     	'MsgBox( result )
     	
     Continue:
