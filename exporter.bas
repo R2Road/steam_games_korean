@@ -131,10 +131,35 @@ Sub Main
     '
     On Error GoTo ErrorEnd 'Error 발생시 File 해제 용도
     
+    	'
+    	'
+    	'
+    	Dim range4sort
+    		range4sort = sheet.getCellRangeByPosition( StartX, StartY, active_area.w, active_area.h )
+    	
+    	Dim sort_field(1) as new com.sun.star.util.SortField
+			sort_field(0).SortAscending = TRUE
+		    sort_field(0).FieldType = com.sun.star.util.SortFieldType.ALPHANUMERIC
+		    
+		    sort_field(1).SortAscending = TRUE
+		    sort_field(1).FieldType = com.sun.star.util.SortFieldType.ALPHANUMERIC
+	    
+	    Dim sort_description(0) as new com.sun.star.beans.PropertyValue
+		    sort_description(0).Name = "SortFields"
+		    sort_description(0).Value = sort_field()
+		    
+	    range4sort.Sort( sort_description() )
+	    
+	    
+    	
 	    '
 	    ' Write : Korean List
 	    '
 	    pf.WriteLine( "## 한국어 제목" & Chr( 10 ) )
+		    sort_field(0).Field = 0
+		    sort_field(1).Field = 1
+		    sort_description(0).Value = sort_field()
+		    range4sort.Sort( sort_description() )
 	    ExportList( sheet, active_area.h, 1, 2, pf )
 	    
 	    
@@ -145,6 +170,10 @@ Sub Main
 	    ' Write : Number, English List
 	    '
 	    pf.WriteLine( "## 숫자, 영어 제목" & Chr( 10 ) )
+		    sort_field(0).Field = 1
+		    sort_field(1).Field = 0
+		    sort_description(0).Value = sort_field()
+	    	range4sort.Sort( sort_description() )
 	    ExportList( sheet, active_area.h, 2, 1, pf )
 	    
 	    
