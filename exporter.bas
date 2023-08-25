@@ -51,7 +51,7 @@ End Function
 
 Function ExportList( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, pf as Variant )
 	
-	Dim s as String
+	Dim title, result as String
     Dim i, j as Integer
     For i = StartY to active_area_h
     
@@ -62,14 +62,43 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
     		GoTo Continue
     	EndIf
     	
+    	
+    	'
+    	' Empty is End
+    	'
     	If sheet.getCellByPosition( key_index, i ).String = "" Then
     		Exit For
     	EndIf
     	
-    	s = _
+    	
+    	'
+    	' Title : [ Key Title, Sub Title ] or [ Key Title ]
+    	'
+    	If sheet.getCellByPosition( sub_index, i ).String = "" Then
+    		title = _
+    				"[" _
+	    		& 	sheet.getCellByPosition( key_index, i ).String _
+    			&	"]"
+    	Else
+    		title = _
+    				"[" _
+	    		& 	sheet.getCellByPosition( key_index, i ).String _
+	    		& 	" | " _
+	    		& 	sheet.getCellByPosition( sub_index, i ).String _
+    			&	"]"
+    	EndIf
+    	
+    	
+    	'
+    	' Build Info
+    	'
+    	result = _
     			"####" _
     		& 	" " _
-    		& 	"[" & sheet.getCellByPosition( key_index, i ).String & " | " & sheet.getCellByPosition( sub_index, i ).String & "]( " &  sheet.getCellByPosition( 3, i ).String & " )" _
+    		& 	title _
+    		& 	"( " _
+    		&  		sheet.getCellByPosition( 3, i ).String _
+    		& 	" )" _
     		& 	" " _
     		&	"( " _
 	    		& 	sheet.getCellByPosition( 4, i ).String _
@@ -78,8 +107,12 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 	    		&	" | " & sheet.getCellByPosition( 7, i ).String _
     		& " )"
     	
-    	pf.WriteLine( s )
-    	'MsgBox( s )
+    	
+    	'
+    	'
+    	'
+    	pf.WriteLine( result )
+    	'MsgBox( result )
     	
     Continue:
     Next i
