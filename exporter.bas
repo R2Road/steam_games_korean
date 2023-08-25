@@ -3,15 +3,32 @@
 Option Explicit
 
 
+Const StartX = 1
 Const StartY = 2
 
+Type Size
+    w as Integer
+    h as Integer
+End Type
 
 
-Function CalculateSheetActiveArea( sheet as Variant ) as Integer
+
+Function CalculateSheetActiveArea( sheet as Variant ) as Size
 	
+	Dim ret as Size
 	Dim i, j, h as Integer
 	
-	
+	'
+	' W
+	'
+	j = sheet.Rows.Count - 1
+	For i = StartX to j
+		If sheet.getCellByPosition( i, 0 ).String = "" Then
+			Exit For
+		EndIf
+	Next i
+	ret.w = i - 1
+		
 	'
 	' H
 	'
@@ -20,12 +37,13 @@ Function CalculateSheetActiveArea( sheet as Variant ) as Integer
 		If sheet.getCellByPosition( 0, i ).String = "" Then
 			Exit For
 		EndIf
-	Next i	
+	Next i
+	ret.h = i - 1
 	
 	'
 	' Return
 	'
-	CalculateSheetActiveArea = i - 1
+	CalculateSheetActiveArea = ret
 	
 End Function
 
@@ -94,7 +112,7 @@ Sub Main
 	
 	
 	'
-	'
+	' Sheet
 	'
     Dim sheet as Object
     sheet = ThisComponent.Sheets.getByName( "list" )
@@ -103,21 +121,21 @@ Sub Main
     '
     ' Max X, Y
     '
-    Dim active_area_h as Integer
-    active_area_h = CalculateSheetActiveArea( sheet )
-    MsgBox( active_area_h )
+    Dim active_area as Size
+    active_area = CalculateSheetActiveArea( sheet )
+    MsgBox( active_area.w & " : " & active_area.h )
     
     
     '
     ' Export List
     '
-    On Error GoTo ErrorEnd
+    On Error GoTo ErrorEnd 'Error 발생시 File 해제 용도
     
 	    '
 	    ' Write : Korean List
 	    '
 	    pf.WriteLine( "## 한국어 제목" & Chr( 10 ) )
-	    ExportList( sheet, active_area_h, 1, 2, pf )
+	    ExportList( sheet, active_area.h, 1, 2, pf )
 	    
 	    
 	    pf.WriteLine( Chr( 10 ) & Chr( 10 ) )
@@ -127,7 +145,7 @@ Sub Main
 	    ' Write : Number, English List
 	    '
 	    pf.WriteLine( "## 숫자, 영어 제목" & Chr( 10 ) )
-	    ExportList( sheet, active_area_h, 2, 1, pf )
+	    ExportList( sheet, active_area.h, 2, 1, pf )
 	    
 	    
     	MsgBox( "Success" )
