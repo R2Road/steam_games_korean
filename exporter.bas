@@ -31,6 +31,45 @@ End Function
 
 
 
+Function ExportList( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, pf as Variant )
+	
+	Dim s as String
+    Dim i, j as Integer
+    For i = StartY to active_area_h
+    
+    	'
+    	' Check Export Flag
+    	'
+    	If sheet.getCellByPosition( 0, i ).String = "x" Then
+    		GoTo Continue
+    	EndIf
+    	
+    	If sheet.getCellByPosition( key_index, i ).String = "" Then
+    		Exit For
+    	EndIf
+    	
+    	s = _
+    			"####" _
+    		& 	" " _
+    		& 	"[" & sheet.getCellByPosition( key_index, i ).String & " | " & sheet.getCellByPosition( sub_index, i ).String & "]( " &  sheet.getCellByPosition( 3, i ).String & " )" _
+    		& 	" " _
+    		&	"( " _
+	    		& 	sheet.getCellByPosition( 4, i ).String _
+	    		& 	" | " & sheet.getCellByPosition( 5, i ).String _
+	    		& 	" | " & sheet.getCellByPosition( 6, i ).String _
+	    		&	" | " & sheet.getCellByPosition( 7, i ).String _
+    		& " )"
+    	
+    	pf.WriteLine( s )
+    	'MsgBox( s )
+    	
+    Continue:
+    Next i
+	
+End Function
+
+
+
 Sub Main
 
 	'
@@ -70,40 +109,30 @@ Sub Main
     
     
     '
-    ' Write : Korean List
+    ' Export List
     '
-    Dim s as String
-    Dim i, j as Integer
-    For i = StartY to active_area_h
+    On Error GoTo ErrorEnd
     
-    	'
-    	' Check Export Flag
-    	'
-    	If sheet.getCellByPosition( 0, i ).String = "x" Then
-    		GoTo Continue
-    	EndIf
+	    '
+	    ' Write : Korean List
+	    '
+	    pf.WriteLine( "## 한국어 제목" & Chr( 10 ) )
+	    ExportList( sheet, active_area_h, 1, 2, pf )
+	    
+	    
+	    pf.WriteLine( Chr( 10 ) & Chr( 10 ) )
+	    
+	    
+	    '
+	    ' Write : Number, English List
+	    '
+	    pf.WriteLine( "## 숫자, 영어 제목" & Chr( 10 ) )
+	    ExportList( sheet, active_area_h, 2, 1, pf )
+	    
+	    
+    	MsgBox( "Success" )
     	
-    	If sheet.getCellByPosition( 1, i ).String = "" Then
-    		Exit For
-    	EndIf
-    	
-    	s = _
-    			"####" _
-    		& 	" " _
-    		& 	"[" & sheet.getCellByPosition( 1, i ).String & " | " & sheet.getCellByPosition( 2, i ).String & "]( " &  sheet.getCellByPosition( 3, i ).String & " )" _
-    		& 	" " _
-    		&	"( " _
-	    		& 	sheet.getCellByPosition( 4, i ).String _
-	    		& 	" | " & sheet.getCellByPosition( 5, i ).String _
-	    		& 	" | " & sheet.getCellByPosition( 6, i ).String _
-	    		&	" | " & sheet.getCellByPosition( 7, i ).String _
-    		& " )"
-    	
-    	pf.WriteLine( s )
-    	'MsgBox( s )
-    	
-    Continue:
-    Next i
+    ErrorEnd:
     
     
     '
