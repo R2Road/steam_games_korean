@@ -87,67 +87,67 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 	Dim i, j as Integer
 	For i = StartY to active_area_h
     
-    	'
-    	' Check Export Flag
-    	'
-    	If sheet.getCellByPosition( StartX, i ).String = "x" Then
-    		GoTo Continue
-    	EndIf
+		'
+		' Check Export Flag
+		'
+		If sheet.getCellByPosition( StartX, i ).String = "x" Then
+			GoTo Continue
+		EndIf
     	
     	
-    	'
-    	' Empty is End
-    	'
-    	If sheet.getCellByPosition( key_index, i ).String = "" Then
-    		Exit For
-    	EndIf
+		'
+		' Empty is End
+		'
+		If sheet.getCellByPosition( key_index, i ).String = "" Then
+			Exit For
+		EndIf
     	
     	
-    	'
-    	' Title : [ Key Title, Sub Title ] or [ Key Title ]
-    	'
-    	If sheet.getCellByPosition( sub_index, i ).String = "" Then
-    		title = _
-    				"[" _
-	    		& 	sheet.getCellByPosition( key_index, i ).String _
-    			&	"]"
-    	Else
-    		title = _
-    				"[" _
-	    		& 	sheet.getCellByPosition( key_index, i ).String _
-	    		& 	" | " _
-	    		& 	sheet.getCellByPosition( sub_index, i ).String _
-    			&	"]"
-    	EndIf
+		'
+		' Title : [ Key Title, Sub Title ] or [ Key Title ]
+		'
+		If sheet.getCellByPosition( sub_index, i ).String = "" Then
+			title = _
+					"[" _
+				& 	sheet.getCellByPosition( key_index, i ).String _
+				&	"]"
+		Else
+			title = _
+					"[" _
+				& 	sheet.getCellByPosition( key_index, i ).String _
+				& 	" | " _
+				& 	sheet.getCellByPosition( sub_index, i ).String _
+				&	"]"
+		EndIf
     	
     	
-    	'
-    	' Build Info
-    	'
-    	result = _
-    			"####" _
-    		& 	" " _
-    		& 	title _
-    		& 	"( " _
-    		&  		sheet.getCellByPosition( 3, i ).String _
-    		& 	" )" _
-    		& 	" " _
-    		&	"( " _
-	    		& 	sheet.getCellByPosition( 4, i ).String _
-	    		& 	" | " & sheet.getCellByPosition( 5, i ).String _
-	    		& 	" | " & sheet.getCellByPosition( 6, i ).String _
-	    		&	" | " & sheet.getCellByPosition( 7, i ).String _
-    		& " )"
+		'
+		' Build Info
+		'
+		result = _
+				"####" _
+			& 	" " _
+			& 	title _
+			& 	"( " _
+			&  		sheet.getCellByPosition( 3, i ).String _
+			& 	" )" _
+			& 	" " _
+			&	"( " _
+				& 	sheet.getCellByPosition( 4, i ).String _
+				& 	" | " & sheet.getCellByPosition( 5, i ).String _
+				& 	" | " & sheet.getCellByPosition( 6, i ).String _
+				&	" | " & sheet.getCellByPosition( 7, i ).String _
+			& " )"
     	
     	
-    	'
-    	'
-    	'
-    	out_file.WriteLine( result )
-    	'MsgBox( result )
+		'
+		'
+		'
+		out_file.WriteLine( result )
+		'MsgBox( result )
     	
-    Continue:
-    Next i
+	Continue:
+	Next i
 	
 End Function
 
@@ -190,11 +190,11 @@ Sub Main
 	sheet = ThisComponent.Sheets.getByName( "list" )
     
     
-    '
-    ' Max X, Y
-    '
-    Dim active_area as Size
-    active_area = CalculateSheetActiveArea( sheet )
+	'
+	' Max X, Y
+	'
+	Dim active_area as Size
+	active_area = CalculateSheetActiveArea( sheet )
 	MsgBox( "Active Area : " & StartX & " : " & StartY & " ~ " & active_area.w & " : " & active_area.h )
     
     
@@ -253,8 +253,8 @@ Sub Main
 	'
 	' File Close
 	'
-    pf.CloseFile()
-    pf = pf.Dispose()
+	pf.CloseFile()
+	pf = pf.Dispose()
     
 End Sub
 
