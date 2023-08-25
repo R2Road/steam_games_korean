@@ -72,9 +72,9 @@ Function LoadFile( header_fine_name as String, out_file as Variant )
 	
 	
 	'
-    ' File Close
-    '
-    header_pf.CloseFile()
+	' File Close
+	'
+	header_pf.CloseFile()
 	header_pf = header_pf.Dispose()	
 
 End Function
@@ -186,8 +186,8 @@ Sub Main
 	'
 	' Sheet
 	'
-    Dim sheet as Object
-    sheet = ThisComponent.Sheets.getByName( "list" )
+	Dim sheet as Object
+	sheet = ThisComponent.Sheets.getByName( "list" )
     
     
     '
@@ -195,66 +195,66 @@ Sub Main
     '
     Dim active_area as Size
     active_area = CalculateSheetActiveArea( sheet )
-    MsgBox( "Active Area : " & StartX & " : " & StartY & " ~ " & active_area.w & " : " & active_area.h )
+	MsgBox( "Active Area : " & StartX & " : " & StartY & " ~ " & active_area.w & " : " & active_area.h )
     
     
-    '
-    ' Export List
-    '
-    On Error GoTo ERROR_END 'Error 발생시 File 해제 용도
-    
-    	'
-    	'
-    	'
-    	Dim range4sort
-    		range4sort = sheet.getCellRangeByPosition( StartX, StartY, active_area.w, active_area.h )
-    	
-    	Dim sort_field(1) as new com.sun.star.util.SortField
+	'
+	' Export List
+	'
+	On Error GoTo ERROR_END 'Error 발생시 File 해제 용도
+	
+		'
+		'
+		'
+		Dim range4sort
+			range4sort = sheet.getCellRangeByPosition( StartX, StartY, active_area.w, active_area.h )
+		
+		Dim sort_field(1) as new com.sun.star.util.SortField
 			sort_field(0).SortAscending = TRUE
-		    sort_field(0).FieldType = com.sun.star.util.SortFieldType.ALPHANUMERIC
-		    sort_field(1).SortAscending = TRUE
-		    sort_field(1).FieldType = com.sun.star.util.SortFieldType.ALPHANUMERIC
-	    
-	    Dim sort_description(0) as new com.sun.star.beans.PropertyValue
-		    sort_description(0).Name = "SortFields"
-		    sort_description(0).Value = sort_field()
-		    
-    	
-	    '
-	    ' Write : Korean List
-	    '
-	    pf.WriteLine( "## 한국어 제목" & Chr( 10 ) )
-		    sort_field(0).Field = 1
-		    sort_field(1).Field = 2
-		    sort_description(0).Value = sort_field()
-		    range4sort.Sort( sort_description() )
-	    ExportList( sheet, active_area.h, 1, 2, pf )
-	    
-	    
-	    pf.WriteLine( Chr( 10 ) & Chr( 10 ) )
-	    
-	    
-	    '
-	    ' Write : Number, English List
-	    '
-	    pf.WriteLine( "## 숫자, 영어 제목" & Chr( 10 ) )
-		    sort_field(0).Field = 2
-		    sort_field(1).Field = 1
-		    sort_description(0).Value = sort_field()
-	    	range4sort.Sort( sort_description() )
-	    ExportList( sheet, active_area.h, 2, 1, pf )
-	    
-	    
-    	MsgBox( "Success" )
-    	
-    ERROR_END:
+			sort_field(0).FieldType = com.sun.star.util.SortFieldType.ALPHANUMERIC
+			sort_field(1).SortAscending = TRUE
+			sort_field(1).FieldType = com.sun.star.util.SortFieldType.ALPHANUMERIC
+		
+		Dim sort_description(0) as new com.sun.star.beans.PropertyValue
+			sort_description(0).Name = "SortFields"
+			sort_description(0).Value = sort_field()
+		
+		
+		'
+		' Write : Korean List
+		'
+		pf.WriteLine( "## 한국어 제목" & Chr( 10 ) )
+			sort_field(0).Field = 1
+			sort_field(1).Field = 2
+			sort_description(0).Value = sort_field()
+			range4sort.Sort( sort_description() )
+		ExportList( sheet, active_area.h, 1, 2, pf )
+		
+		
+		pf.WriteLine( Chr( 10 ) & Chr( 10 ) )
+		
+		
+		'
+		' Write : Number, English List
+		'
+		pf.WriteLine( "## 숫자, 영어 제목" & Chr( 10 ) )
+			sort_field(0).Field = 2
+			sort_field(1).Field = 1
+			sort_description(0).Value = sort_field()
+			range4sort.Sort( sort_description() )
+		ExportList( sheet, active_area.h, 2, 1, pf )
+		
+		
+		MsgBox( "Success" )
+	
+	ERROR_END:
     
     
-    '
-    ' File Close
-    '
+	'
+	' File Close
+	'
     pf.CloseFile()
-	pf = pf.Dispose()
+    pf = pf.Dispose()
     
 End Sub
 
