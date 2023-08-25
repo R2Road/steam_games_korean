@@ -65,7 +65,6 @@
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | - | TeamSuneat | Neowiz )
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | - | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/_/ ) ( 2019 | - | Al Fine | Al Fine )
-#### [Dark and Darker]( https://store.steampowered.com/app/2016590/Dark_and_Darker/ ) ( 2023 Q4 예정 | - | IRONMACE  | IRONMACE  )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 | - | MINTROCKET | MINTROCKET )
 #### [Dungeon Lord | 던전 로드]( https://store.steampowered.com/app/1429670/_/ ) ( 2020 | - | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | - | TEAM HORAY | TEAM HORAY )
