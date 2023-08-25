@@ -166,7 +166,7 @@ Sub Main
 	' File Open
 	'
 	Dim file_path as String
-	file_path = ( Tools.Strings.DirectoryNameoutofPath(ThisComponent.getURL(),"/" ) & "/" & "rme.txt" )
+	file_path = ( Tools.Strings.DirectoryNameoutofPath(ThisComponent.getURL(),"/" ) & "/" & "README.md" )
 	MsgBox( file_path )
 	
 	Dim file_system As Variant
