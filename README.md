@@ -12,9 +12,9 @@
 
 
 
-## 작성 대상
-* 플레이 가능한 버전이 "대중" 에게 공개된적이 있는 한국산 게임.
-* 자회사 또는 해외 스튜디오가 개발해도 한국산 게임으로 인정.
+## 대상
+* 플레이 가능한 버전이 "대중" 에게 공개된 적이 있는 한국산 게임.
+* 해외 자회사 또는 해외 스튜디오가 개발해도 한국산 게임으로 인정.
 
 
 
@@ -31,7 +31,7 @@
 
 
 ## 제보
-* 상단에 링크되어 있는 Discord 에 남겨 주세요.
+* 상단에 링크된 Discord 에 남겨 주세요.
 
 
 
@@ -69,6 +69,7 @@
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 | - | MINTROCKET | MINTROCKET )
 #### [Dungeon Lord | 던전 로드]( https://store.steampowered.com/app/1429670/_/ ) ( 2020 | - | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | - | TEAM HORAY | TEAM HORAY )
+#### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼, 횡스크롤 | Jaemin Park | PsychoFlux Entertainment )
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | - | WIDStudio | CFK Co., Ltd. )
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | - | Studio Sott | Studio Sott )
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | - | Somi | Somi )
@@ -88,12 +89,15 @@
 #### [RemiLore: Lost Girl in the Lands of Lore]( https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/ ) ( 2019 | - | Pixellore Inc, REMIMORY | Nicalis, Inc. )
 #### [Replica]( https://store.steampowered.com/app/496890/Replica/ ) ( 2016 | - | Somi | Somi, Zero Rock Entertainment )
 #### [RETSNOM]( https://store.steampowered.com/app/382920/RETSNOM/ ) ( 2015 | - | Somi | Zero Rock Entertainment )
+#### [Riffle Effect]( https://store.steampowered.com/app/1479400/Riffle_Effect/ ) ( 2023 | 3인칭슈팅, 액션 | OutsiderKids Corp. | HIKE Inc. )
+#### [Rocco's Island: Ring to End the Pain]( https://store.steampowered.com/app/1394480/Roccos_Island_Ring_to_End_the_Pain/ ) ( 2022 | 포인트앤클릭, 퍼즐, 어드벤처 | Cogoo | Cogoo )
 #### [Ruvato: Original Complex | 루바토: 오리지널 콤플렉스]( https://store.steampowered.com/app/1464500/_/ ) ( 2020 | - | REMIMORY | REMIMORY )
 #### [Sally's Law]( https://store.steampowered.com/app/512230/Sallys_Law/ ) ( 2016 | - | Nanali Studios | Nanali Studios )
 #### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | - | WONDER POTION | NEOWIZ )
 #### [Scarlet Hood and the Wicked Wood]( https://store.steampowered.com/app/1141120/Scarlet_Hood_and_the_Wicked_Wood/ ) ( 2021 | - | Devespresso Games | Headup, WhisperGames )
 #### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | - | Southpaw Games Co., Ltd. | NEOWIZ )
 #### [SMASHING THE BATTLE]( https://store.steampowered.com/app/467930/SMASHING_THE_BATTLE/ ) ( 2016 | - | Action Square(Studio HG) | Action Square )
+#### [Smilemo]( https://store.steampowered.com/app/1933700/Smilemo/ ) ( 2022 | 액션, 어드벤쳐, 플랫포머, 2D | REXECHO | CFK Co., Ltd. )
 #### [Some Some Convenience Store | 썸썸 편의점]( https://store.steampowered.com/app/1217390/_/ ) ( 2020 | - | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [Subterrain]( https://store.steampowered.com/app/340490/Subterrain/ ) ( 2016 | - | Pixellore Inc | Pixellore Inc )
 #### [The Coma 2: Vicious Sisters]( https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/ ) ( 2020 | - | Devespresso Games | Headup, WhisperGames )
@@ -103,4 +107,4 @@
 #### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | - | Megusta Game | NEOWIZ )
 #### [Vambrace: Cold Soul]( https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/ ) ( 2019 | - | Devespresso Games | Headup, WhisperGames )
 #### [White Day: A Labyrinth Named School]( https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/ ) ( 2017 | - | SONNORI Corp | Pqube, SONNORI Corp )
-#### [Zelter]( https://store.steampowered.com/app/1193340/Zelter/ ) ( 2020 | - | G1 Playground | SuperGG.com )
+#### [Zelter]( https://store.steampowered.com/app/1193340/Zelter/ ) ( 2020 | 포스트아포칼립스, 생존 | G1 Playground | SuperGG.com )
