@@ -84,8 +84,8 @@ End Function
 Function ExportList( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, out_file as Variant )
 	
 	Dim title, result as String
-    Dim i, j as Integer
-    For i = StartY to active_area_h
+	Dim i, j as Integer
+	For i = StartY to active_area_h
     
     	'
     	' Check Export Flag
