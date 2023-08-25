@@ -49,7 +49,7 @@ End Function
 
 
 
-Function LoadHeader( header_fine_name as String, pf as Variant )
+Function LoadFile( header_fine_name as String, pf as Variant )
 
 	'
 	' File Open
@@ -180,7 +180,7 @@ Sub Main
 	'
 	'
 	'
-	LoadHeader( "header.txt", pf )
+	LoadFile( "header.txt", pf )
 	
 	
 	'
