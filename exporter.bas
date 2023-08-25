@@ -1,4 +1,4 @@
-﻿REM  *****  BASIC  *****
+﻿REM  *****  LibreOffice VBA  *****
 
 Option Explicit
 
