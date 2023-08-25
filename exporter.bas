@@ -49,6 +49,38 @@ End Function
 
 
 
+Function LoadHeader( header_fine_name as String, pf as Variant )
+
+	'
+	' File Open
+	'
+	Dim file_path as String
+	file_path = ( Tools.Strings.DirectoryNameoutofPath(ThisComponent.getURL(),"/" ) & "/" & header_fine_name )
+	MsgBox( file_path )
+	
+	Dim file_system As Variant
+	file_system = CreateScriptService("FileSystem")
+	
+	Dim header_pf As Variant
+	Set header_pf = file_system.OpenTextFile(file_path, file_system.ForReading)
+	
+	
+	'
+	'
+	'
+	pf.WriteLine( header_pf.ReadAll() )
+	
+	
+	'
+    ' File Close
+    '
+    header_pf.CloseFile()
+	header_pf = header_pf.Dispose()	
+
+End Function
+
+
+
 Function ExportList( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, pf as Variant )
 	
 	Dim title, result as String
@@ -142,6 +174,13 @@ Sub Main
 	
 	Dim pf As Variant
 	Set pf = file_system.CreateTextFile(file_path, Overwrite := true)
+	
+	
+	
+	'
+	'
+	'
+	LoadHeader( "header.txt", pf )
 	
 	
 	'
