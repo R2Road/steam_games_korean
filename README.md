@@ -52,6 +52,7 @@
 #### [장화홍련: 기억의 조각 | Rose and Lotus: Petals of Memories]( https://store.steampowered.com/app/699710/_/ ) ( 2023 | 2D, 포인트앤클릭 | 5minlab Corp. | 5minlab Corp. )
 #### [크로노 아크 | Chrono Ark]( https://store.steampowered.com/app/1188930/_/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine | Al Fine )
 #### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/_/ ) ( 2020 | 턴제 SRPG | Dandylion | Dandylion )
+#### [파이널나이트 | FINAL KNIGHT]( https://store.steampowered.com/app/2072980/_/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/_/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 
 
@@ -73,6 +74,7 @@
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | - | TEAM HORAY | TEAM HORAY )
 #### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼 | Jaemin Park | PsychoFlux Entertainment )
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | - | WIDStudio | CFK Co., Ltd. )
+#### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/_/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | - | Studio Sott | Studio Sott )
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. | 5minlab Corp. )
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | - | Somi | Somi )
