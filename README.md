@@ -69,7 +69,7 @@
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 | 어드벤처, RPG | MINTROCKET | MINTROCKET )
 #### [Dungeon Lord | 던전 로드]( https://store.steampowered.com/app/1429670/_/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | - | TEAM HORAY | TEAM HORAY )
-#### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼, 횡스크롤 | Jaemin Park | PsychoFlux Entertainment )
+#### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼 | Jaemin Park | PsychoFlux Entertainment )
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | - | WIDStudio | CFK Co., Ltd. )
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | - | Studio Sott | Studio Sott )
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) (  | 탑다운 슈팅 | 5minlab Corp. | 5minlab Corp. )
