@@ -246,6 +246,15 @@ Sub Main
 		
 		
 		MsgBox( "Success" )
+		
+		
+		'
+		' Rollback
+		'
+		sort_field(0).Field = 1
+		sort_field(1).Field = 2
+		sort_description(0).Value = sort_field()
+		range4sort.Sort( sort_description() )
 	
 	ERROR_END:
     
