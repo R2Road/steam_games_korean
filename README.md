@@ -52,7 +52,6 @@
 #### [크로노 아크 | Chrono Ark]( https://store.steampowered.com/app/1188930/_/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine | Al Fine )
 #### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/_/ ) ( 2020 | 턴제 SRPG | Dandylion | Dandylion )
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/_/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
-#### [dummy | dummy]( dummy ) ( dummy | dummy | dummy | dummy )
 
 
 
@@ -66,9 +65,7 @@
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | - | TeamSuneat | Neowiz )
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | - | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/_/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine | Al Fine )
-#### [Dark and Darker]( https://store.steampowered.com/app/2016590/Dark_and_Darker/ ) ( 2023 Q4 예정 | - | IRONMACE  | IRONMACE  )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 | 어드벤처, RPG | MINTROCKET | MINTROCKET )
-#### [dummy | dummy]( dummy ) ( dummy | dummy | dummy | dummy )
 #### [Dungeon Lord | 던전 로드]( https://store.steampowered.com/app/1429670/_/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | - | TEAM HORAY | TEAM HORAY )
 #### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼, 횡스크롤 | Jaemin Park | PsychoFlux Entertainment )
@@ -91,12 +88,14 @@
 #### [RemiLore: Lost Girl in the Lands of Lore]( https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/ ) ( 2019 | - | Pixellore Inc, REMIMORY | Nicalis, Inc. )
 #### [Replica]( https://store.steampowered.com/app/496890/Replica/ ) ( 2016 | - | Somi | Somi, Zero Rock Entertainment )
 #### [RETSNOM]( https://store.steampowered.com/app/382920/RETSNOM/ ) ( 2015 | - | Somi | Zero Rock Entertainment )
+#### [Riffle Effect]( https://store.steampowered.com/app/1479400/Riffle_Effect/ ) ( 2023 | 3인칭슈팅, 액션 | OutsiderKids Corp. | HIKE Inc. )
 #### [Rocco's Island: Ring to End the Pain]( https://store.steampowered.com/app/1394480/Roccos_Island_Ring_to_End_the_Pain/ ) ( 2022 | 2D, 포인트앤클릭, 퍼즐, 어드벤처 | Cogoo | Cogoo )
 #### [Ruvato: Original Complex | 루바토: 오리지널 콤플렉스]( https://store.steampowered.com/app/1464500/_/ ) ( 2020 | 액션, 플랫폼, 핵앤슬래시 | REMIMORY | REMIMORY )
 #### [Sally's Law]( https://store.steampowered.com/app/512230/Sallys_Law/ ) ( 2016 | - | Nanali Studios | Nanali Studios )
 #### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
 #### [Scarlet Hood and the Wicked Wood]( https://store.steampowered.com/app/1141120/Scarlet_Hood_and_the_Wicked_Wood/ ) ( 2021 | - | Devespresso Games | Headup, WhisperGames )
 #### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | - | Southpaw Games Co., Ltd. | NEOWIZ )
+#### [SMASHING THE BATTLE]( https://store.steampowered.com/app/467930/SMASHING_THE_BATTLE/ ) ( 2016 | - | Action Square(Studio HG) | Action Square )
 #### [Smilemo]( https://store.steampowered.com/app/1933700/Smilemo/ ) ( 2022 | 액션, 어드벤쳐, 플랫포머, 2D | REXECHO | CFK Co., Ltd. )
 #### [Some Some Convenience Store | 썸썸 편의점]( https://store.steampowered.com/app/1217390/_/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [Subterrain]( https://store.steampowered.com/app/340490/Subterrain/ ) ( 2016 | - | Pixellore Inc | Pixellore Inc )
