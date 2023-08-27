@@ -61,14 +61,14 @@
 
 ## 숫자, 영어 제목
 
-#### [3000th Duel]( https://store.steampowered.com/app/1098080/3000th_Duel/ ) ( 2019 | - | NEOPOPCORN Corp | NEOPOPCORN Corp )
+#### [3000th Duel]( https://store.steampowered.com/app/1098080/3000th_Duel/ ) ( 2019 | 메트로베니아, 소울라이크 | NEOPOPCORN Corp | NEOPOPCORN Corp )
 #### [8Doors: Arum's Afterlife Adventure | 사망여각]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
 #### [A Street Cat's Tale | 길고양이 이야기]( https://store.steampowered.com/app/1140570/_/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
-#### [ALTF4]( https://store.steampowered.com/app/1137460/ALTF4/ ) ( 2021 | 3D, 3인칭, 영구죽음, 어드벤처 | PUMPKIM | PUMPKIM )
-#### [ALTF42]( https://store.steampowered.com/app/2187230/ALTF42/ ) ( 2023 | 3D, 3인칭, 영구죽음, 어드벤처 | PUMPKIM | GRAVITY )
+#### [ALTF4]( https://store.steampowered.com/app/1137460/ALTF4/ ) ( 2021 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM | PUMPKIM )
+#### [ALTF42]( https://store.steampowered.com/app/2187230/ALTF42/ ) ( 2023 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM | GRAVITY )
 #### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/_/ ) ( 2020 | 1인칭 공포 | Palmsoft | Palmsoft )
-#### [BLACK WITCHCRAFT]( https://store.steampowered.com/app/1557410/BLACK_WITCHCRAFT/ ) ( 2022 | - | QuattroGear | CREST )
-#### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | - | TeamSuneat | Neowiz )
+#### [BLACK WITCHCRAFT]( https://store.steampowered.com/app/1557410/BLACK_WITCHCRAFT/ ) ( 2022 | 2D, 고딕, 액션RPG | QuattroGear | CREST )
+#### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | 2D, 액션, 로그라이크, 플랫폼 | TeamSuneat | Neowiz )
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | - | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/_/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine | Al Fine )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 | 어드벤처, RPG | MINTROCKET | MINTROCKET )
@@ -116,5 +116,5 @@
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/_/ ) ( 2020 | 턴제 SRPG | Dandylion | Dandylion )
 #### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | - | Megusta Game | NEOWIZ )
 #### [Vambrace: Cold Soul]( https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/ ) ( 2019 | - | Devespresso Games | Headup, WhisperGames )
-#### [White Day: A Labyrinth Named School]( https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/ ) ( 2017 | - | SONNORI Corp | Pqube, SONNORI Corp )
+#### [White Day: A Labyrinth Named School]( https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/ ) ( 2017 | 1인칭 공포 | SONNORI Corp | Pqube, SONNORI Corp )
 #### [Zelter]( https://store.steampowered.com/app/1193340/Zelter/ ) ( 2020 | 포스트아포칼립스, 생존 | G1 Playground | SuperGG.com )
