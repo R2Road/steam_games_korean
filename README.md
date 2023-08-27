@@ -39,6 +39,7 @@
 
 #### [기적의 분식집 | Miracle Snack Shop]( https://store.steampowered.com/app/995460/_/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [길고양이 이야기 | A Street Cat's Tale]( https://store.steampowered.com/app/1140570/_/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
+#### [더 램지 | The Ramsey]( https://store.steampowered.com/app/2108060/_/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES | IKINAGAMES )
 #### [던전 로드 | Dungeon Lord]( https://store.steampowered.com/app/1429670/_/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [데이브 더 다이버 | DAVE THE DIVER]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 | 어드벤처, RPG | MINTROCKET | MINTROCKET )
 #### [루바토: 오리지널 콤플렉스 | Ruvato: Original Complex]( https://store.steampowered.com/app/1464500/_/ ) ( 2020 | 액션, 플랫폼, 핵앤슬래시 | REMIMORY | REMIMORY )
@@ -108,6 +109,7 @@
 #### [Subterrain]( https://store.steampowered.com/app/340490/Subterrain/ ) ( 2016 | - | Pixellore Inc | Pixellore Inc )
 #### [The Coma 2: Vicious Sisters]( https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/ ) ( 2020 | - | Devespresso Games | Headup, WhisperGames )
 #### [The Coma: Recut]( https://store.steampowered.com/app/600090/The_Coma_Recut/ ) ( 2017 | - | Devespresso Games | Headup )
+#### [The Ramsey | 더 램지]( https://store.steampowered.com/app/2108060/_/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES | IKINAGAMES )
 #### [The Wake: Mourning Father, Mourning Mother]( https://store.steampowered.com/app/1311540/The_Wake_Mourning_Father_Mourning_Mother/ ) ( 2020 | - | Somi | Somi, indienova )
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/_/ ) ( 2020 | 턴제 SRPG | Dandylion | Dandylion )
 #### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | - | Megusta Game | NEOWIZ )
