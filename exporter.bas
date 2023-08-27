@@ -56,7 +56,7 @@ Function LoadFile( header_fine_name as String, out_file as Variant )
 	'
 	Dim file_path as String
 	file_path = ( Tools.Strings.DirectoryNameoutofPath(ThisComponent.getURL(),"/" ) & "/" & header_fine_name )
-	MsgBox( file_path )
+	'MsgBox( file_path )
 	
 	Dim file_system As Variant
 	file_system = CreateScriptService("FileSystem")
