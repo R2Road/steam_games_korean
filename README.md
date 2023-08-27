@@ -117,4 +117,5 @@
 #### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | - | Megusta Game | NEOWIZ )
 #### [Vambrace: Cold Soul]( https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/ ) ( 2019 | - | Devespresso Games | Headup, WhisperGames )
 #### [White Day: A Labyrinth Named School]( https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/ ) ( 2017 | 1인칭 공포 | SONNORI Corp | Pqube, SONNORI Corp )
+#### [White Day2: The Flower That Tells Lies]( https://store.steampowered.com/app/2078040/White_Day2_The_Flower_That_Tells_Lies__EP1/ ) ( 2023 | 1인칭 공포 | Rootnstudio Ltd. | Rootnstudio Ltd. )
 #### [Zelter]( https://store.steampowered.com/app/1193340/Zelter/ ) ( 2020 | 포스트아포칼립스, 생존 | G1 Playground | SuperGG.com )
