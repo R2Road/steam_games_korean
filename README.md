@@ -86,6 +86,7 @@
 #### [Lobotomy Corporation | Monster Management Simulation]( https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/ ) ( 2018 | - | ProjectMoon | ProjectMoon )
 #### [Lost Eidolons]( https://store.steampowered.com/app/1580520/Lost_Eidolons/ ) ( 2022 | - | Ocean Drive Studio, Inc. | Ocean Drive Studio, Inc. )
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/_/ ) ( 2021 | 퍼즐 | DOTORIS | DOTORIS )
+#### [Metal Unit]( https://store.steampowered.com/app/1173200/Metal_Unit/ ) ( 2021 | 액션, 플랫폼, 로그라이트 | JellySnow Studio | NEOWIZ )
 #### [METALLIC CHILD | 메탈릭 차일드]( https://store.steampowered.com/app/1490610/_/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
 #### [Miracle Snack Shop | 기적의 분식집]( https://store.steampowered.com/app/995460/_/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [Night of the Dead]( https://store.steampowered.com/app/1377380/Night_of_the_Dead/ ) ( 2020 | - | jacktostudios | jacktostudios )
