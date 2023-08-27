@@ -98,6 +98,7 @@
 #### [One Day : The Sun Disappeared]( https://store.steampowered.com/app/492610/One_Day__The_Sun_Disappeared/ ) ( 2016 | 2D, 액션, 플랫폼, RPG | Teemo Soft | Teemo Soft )
 #### [Plebby Quest: The Crusades | 플레비 퀘스트: 더 크루세이즈]( https://store.steampowered.com/app/334310/_/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 #### [Rabbit Hole 3D: Steam Edition]( https://store.steampowered.com/app/283660/Rabbit_Hole_3D_Steam_Edition/ ) ( 2014 | - | Somi | Zero Rock Entertainment )
+#### [Ratopia]( https://store.steampowered.com/app/2244130/Ratopia/ ) ( 2023Q4 예정 | 경제 전략 서바이벌, 샌드박스, 도시건설 | Cassel Games | Cassel Games )
 #### [Ratropolis]( https://store.steampowered.com/app/1108370/Ratropolis/ ) ( 2020 | 덱빌딩, 타워 디펜스 | Cassel Games | Cassel Games )
 #### [RemiLore: Lost Girl in the Lands of Lore]( https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/ ) ( 2019 | 액션, 로그라이크 | Pixellore Inc, REMIMORY | Nicalis, Inc. )
 #### [Replica]( https://store.steampowered.com/app/496890/Replica/ ) ( 2016 | 퍼즐, 공포, 어드벤처 | Somi | Somi, Zero Rock Entertainment )
