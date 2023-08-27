@@ -91,6 +91,7 @@
 #### [Metal Unit]( https://store.steampowered.com/app/1173200/Metal_Unit/ ) ( 2021 | 액션, 플랫폼, 로그라이트 | JellySnow Studio | NEOWIZ )
 #### [METALLIC CHILD | 메탈릭 차일드]( https://store.steampowered.com/app/1490610/_/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
 #### [Miracle Snack Shop | 기적의 분식집]( https://store.steampowered.com/app/995460/_/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
+#### [NEOVERSE]( https://store.steampowered.com/app/994220/NEOVERSE/ ) ( 2020 | 덱빌딩, 전략, 액션, 로그라이트 | Tinogames Inc. | Tinogames Inc. )
 #### [Night of the Dead]( https://store.steampowered.com/app/1377380/Night_of_the_Dead/ ) ( 2020 | - | jacktostudios | jacktostudios )
 #### [No Umbrellas Allowed]( https://store.steampowered.com/app/1301390/No_Umbrellas_Allowed/ ) ( 2021 | 상점 운영 시뮬레이션 | Hoochoo Game Studios | Hoochoo Game Studios )
 #### [Ogu and the Secret Forest | 오구와 비밀의 숲]( https://store.steampowered.com/app/1985960/_/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
