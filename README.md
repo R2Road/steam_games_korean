@@ -57,6 +57,7 @@
 #### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/_/ ) ( 2020 | 턴제 SRPG | Dandylion | Dandylion )
 #### [파이널나이트 | FINAL KNIGHT]( https://store.steampowered.com/app/2072980/_/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/_/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
+#### [P의 거짓 | Lies of P]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ | NEOWIZ )
 
 
 
@@ -82,6 +83,7 @@
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. | 5minlab Corp. )
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | - | Somi | Somi )
 #### [Library Of Ruina]( https://store.steampowered.com/app/1256670/Library_Of_Ruina ) ( 2021 | - | ProjectMoon | ProjectMoon )
+#### [Lies of P | P의 거짓]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ | NEOWIZ )
 #### [Little Witch in the Woods | 숲속의 작은 마녀]( https://store.steampowered.com/app/1594940/_/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP | SUNNY SIDE UP )
 #### [Lobotomy Corporation | Monster Management Simulation]( https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/ ) ( 2018 | - | ProjectMoon | ProjectMoon )
 #### [Lost Eidolons]( https://store.steampowered.com/app/1580520/Lost_Eidolons/ ) ( 2022 | - | Ocean Drive Studio, Inc. | Ocean Drive Studio, Inc. )
