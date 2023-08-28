@@ -237,7 +237,7 @@ Sub Main
 		'
 		' Write : Number, English List
 		'
-		pf.WriteLine( "## 숫자, 영어 제목" & Chr( 10 ) )
+		pf.WriteLine( "## 영어 제목" & Chr( 10 ) )
 			sort_field(0).Field = 2
 			sort_field(1).Field = 1
 			sort_description(0).Value = sort_field()

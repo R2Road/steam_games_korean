@@ -66,7 +66,7 @@
 
 
 
-## 숫자, 영어 제목
+## 영어 제목
 
 #### [3000th Duel]( https://store.steampowered.com/app/1098080/3000th_Duel/ ) ( 2019 | 메트로베니아, 소울라이크 | NEOPOPCORN Corp | NEOPOPCORN Corp )
 #### [7Days Origins | 세븐데이즈 오리진]( https://store.steampowered.com/app/1494140/_/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio | Buff Studio )
