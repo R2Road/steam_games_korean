@@ -46,9 +46,11 @@
 #### [린, 퍼즐에 그려진 소녀 이야기 | Lynn , The Girl Drawn On Puzzles]( https://store.steampowered.com/app/1249080/_/ ) ( 2021 | 퍼즐 | DOTORIS | DOTORIS )
 #### [마녀의샘3 Re:Fine －인형 마녀 아이루디의 이야기－ | WitchSpring3 Re:Fine - The Story of Eirudy -]( https://store.steampowered.com/app/1592520/WitchSpring3_ReFine__The_Story_of_Eirudy/ ) ( 2021 | RPG | KIWIWALKS, IKINAGAMES | KIWIWALKS )
 #### [메탈릭 차일드 | METALLIC CHILD]( https://store.steampowered.com/app/1490610/_/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
+#### [블루 웬즈데이 | Blue Wednesday]( https://store.steampowered.com/app/2129160/_/ ) ( 2023 | 스토리 어드벤처 | Buff Studio | Buff Studio )
 #### [사그레스 | Sagres]( https://store.steampowered.com/app/2120310/sagres/ ) ( 2023 | 역사, 항해, 어드벤처 | ooze | Kakehashi Games )
 #### [사망여각 | 8Doors: Arum's Afterlife Adventure]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
 #### [산나비 | SANABI: The Revenant]( https://store.steampowered.com/app/1562700/_/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
+#### [세븐데이즈 오리진 | 7Days Origins]( https://store.steampowered.com/app/1494140/_/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio | Buff Studio )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/_/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP | SUNNY SIDE UP )
 #### [썸썸 편의점 | Some Some Convenience Store]( https://store.steampowered.com/app/1217390/_/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [아라하 : 이은도의 저주 | Araha : Curse of Yieun Island]( https://store.steampowered.com/app/1190130/_/ ) ( 2020 | 1인칭 공포 | Palmsoft | Palmsoft )
@@ -67,6 +69,7 @@
 ## 숫자, 영어 제목
 
 #### [3000th Duel]( https://store.steampowered.com/app/1098080/3000th_Duel/ ) ( 2019 | 메트로베니아, 소울라이크 | NEOPOPCORN Corp | NEOPOPCORN Corp )
+#### [7Days Origins | 세븐데이즈 오리진]( https://store.steampowered.com/app/1494140/_/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio | Buff Studio )
 #### [8Doors: Arum's Afterlife Adventure | 사망여각]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
 #### [A Street Cat's Tale | 길고양이 이야기]( https://store.steampowered.com/app/1140570/_/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
 #### [Alchemist of Pipi Forest | 피피숲의 연금술사]( https://store.steampowered.com/app/1587240/_/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 | 깡토 스튜디오 )
@@ -75,6 +78,8 @@
 #### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/_/ ) ( 2020 | 1인칭 공포 | Palmsoft | Palmsoft )
 #### [BLACK WITCHCRAFT]( https://store.steampowered.com/app/1557410/BLACK_WITCHCRAFT/ ) ( 2022 | 2D, 고딕, 액션RPG | QuattroGear | CREST )
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | 2D, 액션, 로그라이크, 플랫폼 | TeamSuneat | Neowiz )
+#### [Blue Wednesday | 블루 웬즈데이]( https://store.steampowered.com/app/2129160/_/ ) ( 2023 | 스토리 어드벤처 | Buff Studio | Buff Studio )
+#### [Buff Knight Advanced]( https://store.steampowered.com/app/385440/Buff_Knight_Advanced/ ) ( 2015 | 2D, RPG | Buff Studio Co.,Ltd. | Buff Studio Co.,Ltd. )
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | - | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/_/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine | Al Fine )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/_/ ) ( 2022 | 어드벤처, RPG | MINTROCKET | MINTROCKET )
