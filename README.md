@@ -134,6 +134,7 @@
 #### [Some Some Convenience Store | 썸썸 편의점]( https://store.steampowered.com/app/1217390/_/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [Subterrain]( https://store.steampowered.com/app/340490/Subterrain/ ) ( 2016 | - | Pixellore Inc | Pixellore Inc )
 #### [Teamfight Manager | 팀파이트 매니저]( https://store.steampowered.com/app/1372810/_/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed | Team Samoyed )
+#### [The Callisto Protocol™]( https://store.steampowered.com/app/1544020/The_Callisto_Protocol/ ) ( 2022 | SF, 생존, 공포, 3인칭 슈팅 | Striking Distance Studios | KRAFTON, Inc. )
 #### [The Coma 2: Vicious Sisters]( https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/ ) ( 2020 | 2D, 공포, 어드벤처 | Devespresso Games | Headup, WhisperGames )
 #### [The Coma: Recut]( https://store.steampowered.com/app/600090/The_Coma_Recut/ ) ( 2017 | 2D, 공포, 어드벤처 | Devespresso Games | Headup )
 #### [The Ramsey | 더 램지]( https://store.steampowered.com/app/2108060/_/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES | IKINAGAMES )
