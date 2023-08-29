@@ -37,6 +37,7 @@
 
 ## 한국어 제목
 
+#### [과몰입금지 | Love Too Easily]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
 #### [기적의 분식집 | Miracle Snack Shop]( https://store.steampowered.com/app/995460/_/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. | TALESSHOP Co., Ltd. )
 #### [길고양이 이야기 | A Street Cat's Tale]( https://store.steampowered.com/app/1140570/_/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
 #### [더 램지 | The Ramsey]( https://store.steampowered.com/app/2108060/_/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES | IKINAGAMES )
@@ -101,6 +102,7 @@
 #### [Lobotomy Corporation | Monster Management Simulation]( https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/ ) ( 2018 | 괴물 관리, 로그라이트, 시뮬레이션 | ProjectMoon | ProjectMoon )
 #### [Lost Eidolons]( https://store.steampowered.com/app/1580520/Lost_Eidolons/ ) ( 2022 | 턴제, SRPG | Ocean Drive Studio, Inc. | Ocean Drive Studio, Inc. )
 #### [Lost Ruins]( https://store.steampowered.com/app/1306630/Lost_Ruins/ ) ( 2021 | 2D, 횡스크롤, 생존, 액션 | ALTARI GAMES | DANGEN Entertainment )
+#### [Love Too Easily | 과몰입금지]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/_/ ) ( 2021 | 퍼즐 | DOTORIS | DOTORIS )
 #### [Metal Unit]( https://store.steampowered.com/app/1173200/Metal_Unit/ ) ( 2021 | 액션, 플랫폼, 로그라이트 | JellySnow Studio | NEOWIZ )
 #### [METALLIC CHILD | 메탈릭 차일드]( https://store.steampowered.com/app/1490610/_/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
