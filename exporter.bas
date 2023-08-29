@@ -83,7 +83,7 @@ End Function
 
 Function ExportList( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, out_file as Variant )
 	
-	Dim title, result as String
+	Dim title, company, result as String
 	Dim i, j as Integer
 	For i = StartY to active_area_h
     
@@ -119,6 +119,16 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 				& 	sheet.getCellByPosition( sub_index, i ).String _
 				&	"]"
 		EndIf
+		
+		
+		'
+		' Company : 개발사, 퍼블리셔 정보가 같다면 하나로 표시한다.
+		'
+		If sheet.getCellByPosition( 6, i ).String = sheet.getCellByPosition( 7, i ).String Then
+			company = sheet.getCellByPosition( 6, i ).String
+		Else
+			company = sheet.getCellByPosition( 6, i ).String & " | " & sheet.getCellByPosition( 7, i ).String
+		EndIf
     	
     	
 		'
@@ -135,8 +145,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 			&	"( " _
 				& 	sheet.getCellByPosition( 4, i ).String _
 				& 	" | " & sheet.getCellByPosition( 5, i ).String _
-				& 	" | " & sheet.getCellByPosition( 6, i ).String _
-				&	" | " & sheet.getCellByPosition( 7, i ).String _
+				& 	" | " & company _
 			& " )"
     	
     	
