@@ -89,6 +89,7 @@
 #### [ALTF4]( https://store.steampowered.com/app/1137460/ALTF4/ ) ( 2021 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM )
 #### [ALTF42]( https://store.steampowered.com/app/2187230/ALTF42/ ) ( 2023 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM | GRAVITY )
 #### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
+#### [Battery Samurai]( https://store.steampowered.com/app/2376780/Battery_Samurai/ ) ( 2023 | 어드벤처 | Matthewstone )
 #### [BLACK WITCHCRAFT]( https://store.steampowered.com/app/1557410/BLACK_WITCHCRAFT/ ) ( 2022 | 2D, 고딕, 액션RPG | QuattroGear | CREST )
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | 2D, 액션, 로그라이크, 플랫폼 | TeamSuneat | Neowiz )
 #### [Blue Wednesday | 블루 웬즈데이]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
