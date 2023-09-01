@@ -103,6 +103,7 @@
 #### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼 | Jaemin Park | PsychoFlux Entertainment )
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | 퍼즐 RPG | WIDStudio | CFK Co., Ltd. )
 #### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
+#### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. )
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | 시뮬레이션, 어드벤처 | Somi )
