@@ -105,6 +105,8 @@
 #### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
+#### [in My MIND.]( https://store.steampowered.com/app/859370/in_My_MIND/ ) ( 2018 | 슈팅 | P.S.B (iNsOoL) | PsychoFlux Entertainment )
+#### [Infinite Sunshine Dust]( https://store.steampowered.com/app/673810/Infinite_Sunshine_Dust/ ) ( 2018 | 공포, 어드벤처 | Kena MAKF )
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. )
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | 시뮬레이션, 어드벤처 | Somi )
 #### [Library Of Ruina]( https://store.steampowered.com/app/1256670/Library_Of_Ruina ) ( 2021 | 도서관 배틀 시뮬레이션 | ProjectMoon )
