@@ -82,6 +82,7 @@
 
 ## 영어 제목
 
+#### [21 Days]( https://store.steampowered.com/app/607660/21_Days/ ) ( 2017 | 난민 시뮬레이션 | Hardtalk Studio )
 #### [3000th Duel]( https://store.steampowered.com/app/1098080/3000th_Duel/ ) ( 2019 | 메트로베니아, 소울라이크 | NEOPOPCORN Corp )
 #### [7Days Origins | 세븐데이즈 오리진]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
 #### [8Doors: Arum's Afterlife Adventure | 사망여각]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
