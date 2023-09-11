@@ -142,6 +142,7 @@
 #### [PLUTONIUM]( https://store.steampowered.com/app/634700/PLUTONIUM/ ) ( 2017 | 2D, 어드벤처 | Ch.ZBK )
 #### [PUBG: BATTLEGROUNDS]( https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/ ) ( 2017 | 배틀로얄 건플레이 | KRAFTON, Inc. )
 #### [Rabbit Hole 3D: Steam Edition]( https://store.steampowered.com/app/283660/Rabbit_Hole_3D_Steam_Edition/ ) ( 2014 | 퍼즐 | Somi | Zero Rock Entertainment )
+#### [RaidTitans]( https://store.steampowered.com/app/1203140/RaidTitans/ ) ( 2020 | 실시간 전략 RPG | RainbowStudio )
 #### [Ratopia]( https://store.steampowered.com/app/2244130/Ratopia/ ) ( 2023Q4 예정 | 경제 전략 서바이벌, 샌드박스, 도시건설 | Cassel Games )
 #### [Ratropolis]( https://store.steampowered.com/app/1108370/Ratropolis/ ) ( 2020 | 덱빌딩, 타워 디펜스 | Cassel Games )
 #### [RemiLore: Lost Girl in the Lands of Lore]( https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/ ) ( 2019 | 액션, 로그라이크 | Pixellore Inc, REMIMORY | Nicalis, Inc. )
