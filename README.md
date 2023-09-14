@@ -137,6 +137,7 @@
 #### [NEOVERSE]( https://store.steampowered.com/app/994220/NEOVERSE/ ) ( 2020 | 덱빌딩, 전략, 액션, 로그라이트 | Tinogames Inc. )
 #### [Nevaeh | 네바에]( https://store.steampowered.com/app/1222090/Nevaeh/ ) ( 2020 | 2D, 액션, 퍼즐, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
 #### [Night of the Dead]( https://store.steampowered.com/app/1377380/Night_of_the_Dead/ ) ( 2020 | 생존, 기지건설 | jacktostudios )
+#### [Ninja Issen (忍者一閃)]( https://store.steampowered.com/app/1714550/Ninja_Issen/ ) ( ? | 닌자 액션 | ASTEROID-J | CFK Co., Ltd. )
 #### [No Umbrellas Allowed]( https://store.steampowered.com/app/1301390/No_Umbrellas_Allowed/ ) ( 2021 | 상점 운영 시뮬레이션 | Hoochoo Game Studios )
 #### [Ogu and the Secret Forest | 오구와 비밀의 숲]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
 #### [One Day : The Sun Disappeared]( https://store.steampowered.com/app/492610/One_Day__The_Sun_Disappeared/ ) ( 2016 | 2D, 액션, 플랫폼, RPG | Teemo Soft )
