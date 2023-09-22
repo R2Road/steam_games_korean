@@ -173,6 +173,7 @@
 #### [Sally's Law]( https://store.steampowered.com/app/512230/Sallys_Law/ ) ( 2016 | 퍼즐, 플랫폼 | Nanali Studios )
 #### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/SANABI/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
 #### [Scarlet Hood and the Wicked Wood]( https://store.steampowered.com/app/1141120/Scarlet_Hood_and_the_Wicked_Wood/ ) ( 2021 | 퍼즐, 어드벤처 | Devespresso Games | Headup, WhisperGames )
+#### [Shikhondo(食魂徒) - Soul Eater]( https://store.steampowered.com/app/720150/Shikhondo__Soul_Eater/ ) ( 2017 | 탄막 슈팅게임 | DeerFarm )
 #### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | 2D, 로그라이트, 액션, 플랫포머 | Southpaw Games Co., Ltd. | NEOWIZ )
 #### [SMASHING THE BATTLE]( https://store.steampowered.com/app/467930/SMASHING_THE_BATTLE/ ) ( 2016 | 핵앤슬래시 | Action Square(Studio HG) | Action Square )
 #### [Smilemo]( https://store.steampowered.com/app/1933700/Smilemo/ ) ( 2022 | 액션, 어드벤쳐, 플랫포머, 2D | REXECHO | CFK Co., Ltd. )
