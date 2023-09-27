@@ -143,6 +143,7 @@
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
 #### [Metal Unit]( https://store.steampowered.com/app/1173200/Metal_Unit/ ) ( 2021 | 액션, 플랫폼, 로그라이트 | JellySnow Studio | NEOWIZ )
 #### [METALLIC CHILD | 메탈릭 차일드]( https://store.steampowered.com/app/1490610/METALLIC_CHILD/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
+#### [Meteor 60 Seconds!]( https://store.steampowered.com/app/788770/Meteor_60_Seconds/ ) ( 2018 | 횡스크롤 액션 | AvoCavo )
 #### [Miracle Snack Shop | 기적의 분식집]( https://store.steampowered.com/app/995460/Miracle_Snack_Shop/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. )
 #### [Monads | 모나드의 겨울]( https://store.steampowered.com/app/814870/Monads/ ) ( 2019 | SRPG | Team Monad )
 #### [Monads II | 모나드의 겨울 II]( https://store.steampowered.com/app/1386340/Monads_II/ ) ( 2020 | SRPG | Team Monad )
