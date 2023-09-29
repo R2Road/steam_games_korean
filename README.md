@@ -78,6 +78,7 @@
 #### [엑스 인베이더 | X Invader]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
 #### [여포키우기 | Lu Bu Maker]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [오구와 비밀의 숲 | Ogu and the Secret Forest]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
+#### [유튜버 서바이버즈 | Youtuber Survivors]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
 #### [이터널 리턴 | Eternal Return]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
 #### [장화홍련: 기억의 조각 | Rose and Lotus: Petals of Memories]( https://store.steampowered.com/app/699710/Rose_and_Lotus_Petals_of_Memories/ ) ( 2023 | 2D, 포인트앤클릭 | 5minlab Corp. )
 #### [지구멸망 60초전! -운석배구 편- | Meteor Volleyball!]( https://store.steampowered.com/app/1816080/Meteor_Volleyball/ ) ( 2022 | 횡스크롤 2d 배구 게임 | AvoCavo )
@@ -203,4 +204,5 @@
 #### [Wicce]( https://store.steampowered.com/app/465130/Wicce/ ) ( 2016 | 2D, 액션, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
 #### [WitchSpring3 Re:Fine - The Story of Eirudy - | 마녀의샘3 Re:Fine －인형 마녀 아이루디의 이야기－]( https://store.steampowered.com/app/1592520/WitchSpring3_ReFine__The_Story_of_Eirudy/ ) ( 2021 | RPG | KIWIWALKS, IKINAGAMES | KIWIWALKS )
 #### [X Invader | 엑스 인베이더]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
+#### [Youtuber Survivors | 유튜버 서바이버즈]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
 #### [Zelter]( https://store.steampowered.com/app/1193340/Zelter/ ) ( 2020 | 포스트아포칼립스, 생존 | G1 Playground | SuperGG.com )
