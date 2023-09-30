@@ -210,7 +210,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 			current_initial_consonant = Extract_InitialConsonant( current_code )
 			
 			If last_initial_consonant <> current_initial_consonant Then
-				out_file.WriteLine( "####" & list_initial_consonaant( Extract_InitialConsonant( current_code ) ) )
+				out_file.WriteLine( "#### " & list_initial_consonaant( Extract_InitialConsonant( current_code ) ) )
 			End If
 			
 		Else
@@ -219,7 +219,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 			' 한글 이외의 문자는 code 비교만으로 다른 초성임을 확인 할 수 있다.
 			'
 			If last_code <> current_code Then
-				out_file.WriteLine( "####" & b )
+				out_file.WriteLine( "#### " & b )
 			End If
 		
 		End If
