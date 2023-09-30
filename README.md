@@ -47,25 +47,32 @@
 
 ## 한국어 제목
 
+####ㄱ
 #### [과몰입금지 | Love Too Easily]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
 #### [기적의 분식집 | Miracle Snack Shop]( https://store.steampowered.com/app/995460/Miracle_Snack_Shop/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. )
 #### [길고양이 이야기 | A Street Cat's Tale]( https://store.steampowered.com/app/1140570/A_Street_Cats_Tale/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
+####ㄴ
 #### [난중설화 | The Tales of Imjin War]( https://store.steampowered.com/app/1963080/_The_Tales_of_Imjin_War/ ) ( 2022 | 벨트스크롤 액션 RPG | Devmaru Inc. )
 #### [네바에 | Nevaeh]( https://store.steampowered.com/app/1222090/Nevaeh/ ) ( 2020 | 2D, 액션, 퍼즐, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
+####ㄷ
 #### [더 램지 | The Ramsey]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
 #### [던전 로드 | Dungeon Lord]( https://store.steampowered.com/app/1429670/Dungeon_Lord/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. )
 #### [데네브: 별을 건너서 | Deneb: Across the Stars]( https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars/ ) ( 2022 | 탑다운 하드코어 플랫포머 | SEROSOO )
 #### [데이브 더 다이버 | DAVE THE DIVER]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
+####ㄹ
 #### [라핀 | LAPIN]( https://store.steampowered.com/app/1454540/LAPIN/ ) ( 2023 | 2D 정밀 플랫포머 | Studio Doodal )
 #### [루바토: 오리지널 콤플렉스 | Ruvato: Original Complex]( https://store.steampowered.com/app/1464500/Ruvato_Original_Complex/ ) ( 2020 | 액션, 플랫폼, 핵앤슬래시 | REMIMORY )
 #### [루시의 일기 | Diary of Lucie]( https://store.steampowered.com/app/1454010/Diary_of_Lucie/ ) ( 2023 | 액션, 로그라이트 | Parange Project )
 #### [린, 퍼즐에 그려진 소녀 이야기 | Lynn , The Girl Drawn On Puzzles]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
+####ㅁ
 #### [마녀의샘3 Re:Fine －인형 마녀 아이루디의 이야기－ | WitchSpring3 Re:Fine - The Story of Eirudy -]( https://store.steampowered.com/app/1592520/WitchSpring3_ReFine__The_Story_of_Eirudy/ ) ( 2021 | RPG | KIWIWALKS, IKINAGAMES | KIWIWALKS )
 #### [메탈릭 차일드 | METALLIC CHILD]( https://store.steampowered.com/app/1490610/METALLIC_CHILD/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
 #### [모나드의 겨울 | Monads]( https://store.steampowered.com/app/814870/Monads/ ) ( 2019 | SRPG | Team Monad )
 #### [모나드의 겨울 II | Monads II]( https://store.steampowered.com/app/1386340/Monads_II/ ) ( 2020 | SRPG | Team Monad )
 #### [모태솔로 | Motesolo : No Girlfriend Since Birth]( https://store.steampowered.com/app/1414180/Motesolo__No_Girlfriend_Since_Birth/ ) ( 2021 | 인터렉티브 무비 | INDICAVA INTERACTIVE )
+####ㅂ
 #### [블루 웬즈데이 | Blue Wednesday]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
+####ㅅ
 #### [사그레스 | Sagres]( https://store.steampowered.com/app/2120310/sagres/ ) ( 2023 | 역사, 항해, 어드벤처 | ooze | Kakehashi Games )
 #### [사망여각 | 8Doors: Arum's Afterlife Adventure]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
 #### [산나비 | SANABI: The Revenant]( https://store.steampowered.com/app/1562700/SANABI/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
@@ -73,47 +80,63 @@
 #### [세븐데이즈 오리진 | 7Days Origins]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
 #### [실망실업자]( https://store.steampowered.com/app/371120/_/ ) ( 2015 | 진보적 시각 소설 | YGGDRASIL STUDIO )
+####ㅆ
 #### [썸썸 편의점 | Some Some Convenience Store]( https://store.steampowered.com/app/1217390/Some_Some_Convenience_Store/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. )
+####ㅇ
 #### [아라하 : 이은도의 저주 | Araha : Curse of Yieun Island]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
 #### [엑스 인베이더 | X Invader]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
 #### [여포키우기 | Lu Bu Maker]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [오구와 비밀의 숲 | Ogu and the Secret Forest]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
 #### [유튜버 서바이버즈 | Youtuber Survivors]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
 #### [이터널 리턴 | Eternal Return]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
+####ㅈ
 #### [장화홍련: 기억의 조각 | Rose and Lotus: Petals of Memories]( https://store.steampowered.com/app/699710/Rose_and_Lotus_Petals_of_Memories/ ) ( 2023 | 2D, 포인트앤클릭 | 5minlab Corp. )
 #### [지구멸망 60초전! -운석배구 편- | Meteor Volleyball!]( https://store.steampowered.com/app/1816080/Meteor_Volleyball/ ) ( 2022 | 횡스크롤 2d 배구 게임 | AvoCavo )
+####ㅋ
 #### [크로노 아크 | Chrono Ark]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
+####ㅌ
 #### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
 #### [팀파이트 매니저 | Teamfight Manager]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
+####ㅍ
 #### [파이널나이트 | FINAL KNIGHT]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 #### [피피숲의 연금술사 | Alchemist of Pipi Forest]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
+####P
 #### [P의 거짓 | Lies of P]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ )
 
 
 
 ## 영어 제목
 
+####2
 #### [21 Days]( https://store.steampowered.com/app/607660/21_Days/ ) ( 2017 | 난민 시뮬레이션 | Hardtalk Studio )
+####3
 #### [3000th Duel]( https://store.steampowered.com/app/1098080/3000th_Duel/ ) ( 2019 | 메트로베니아, 소울라이크 | NEOPOPCORN Corp )
+####6
 #### [6180 the moon]( https://store.steampowered.com/app/299660/6180_the_moon/ ) ( 2014 | 2D, 퍼즐, 플랫폼 | Turtle Cream, PokPoong Games | Turtle Cream )
+####7
 #### [7Days Origins | 세븐데이즈 오리진]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
+####8
 #### [8Doors: Arum's Afterlife Adventure | 사망여각]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
+####A
 #### [A Street Cat's Tale | 길고양이 이야기]( https://store.steampowered.com/app/1140570/A_Street_Cats_Tale/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
 #### [Adolescent Santa Claus | 산타는 교복을 입을 수 밖에 없어]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
 #### [Alchemist of Pipi Forest | 피피숲의 연금술사]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
 #### [ALTF4]( https://store.steampowered.com/app/1137460/ALTF4/ ) ( 2021 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM )
 #### [ALTF42]( https://store.steampowered.com/app/2187230/ALTF42/ ) ( 2023 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM | GRAVITY )
 #### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
+####B
 #### [Battery Samurai]( https://store.steampowered.com/app/2376780/Battery_Samurai/ ) ( 2023 | 어드벤처 | Matthewstone )
 #### [BLACK WITCHCRAFT]( https://store.steampowered.com/app/1557410/BLACK_WITCHCRAFT/ ) ( 2022 | 2D, 고딕, 액션RPG | QuattroGear | CREST )
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | 2D, 액션, 로그라이크, 플랫폼 | TeamSuneat | Neowiz )
 #### [Blue Wednesday | 블루 웬즈데이]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
 #### [Buff Knight Advanced]( https://store.steampowered.com/app/385440/Buff_Knight_Advanced/ ) ( 2015 | 2D, RPG | Buff Studio Co.,Ltd. )
+####C
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | 로그라이트, 1인칭 공포 | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
 #### [CRANGA!: Harbor Frenzy]( https://store.steampowered.com/app/517970/CRANGA_Harbor_Frenzy/ ) ( 2016 | VR 퍼즐 | HandMade Game )
 #### [Crazy Farm : VRGROUND]( https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/ ) ( 2018 | 파티 게임 | Jamong Inc. )
+####D
 #### [Dandelion - Wishes brought to you -]( https://store.steampowered.com/app/321290/Dandelion__Wishes_brought_to_you/ ) ( 2012 | 여성향 연애 육성 시뮬레이션 | Sujin Ri, Marcos Arroyo, Seona Lee, Somi Lee, Sohyeon Jeon | Cheritz )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
 #### [Deep Dark Dungeon]( https://store.steampowered.com/app/496290/Deep_Dark_Dungeon/ ) ( 2018 | 로그라이트, 액션 | GlassCats | GlassCats, PsychoFlux Entertainment )
@@ -123,15 +146,22 @@
 #### [Dungeon Warfare]( https://store.steampowered.com/app/355980/Dungeon_Warfare/ ) ( 2015 | 타워 디펜스 | Valsar )
 #### [Dungeon Warfare 2]( https://store.steampowered.com/app/698540/Dungeon_Warfare_2/ ) ( 2018 | 타워 디펜스 | Valsar )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | 2D, 로그라이트, 횡스크롤 액션 | TEAM HORAY )
+####E
 #### [Eternal Return | 이터널 리턴]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
 #### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼 | Jaemin Park | PsychoFlux Entertainment )
+####F
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | 퍼즐 RPG | WIDStudio | CFK Co., Ltd. )
 #### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
+####H
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
+####i
 #### [in My MIND.]( https://store.steampowered.com/app/859370/in_My_MIND/ ) ( 2018 | 슈팅 | P.S.B (iNsOoL) | PsychoFlux Entertainment )
+####I
 #### [Infinite Sunshine Dust]( https://store.steampowered.com/app/673810/Infinite_Sunshine_Dust/ ) ( 2018 | 공포, 어드벤처 | Kena MAKF )
+####K
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. )
+####L
 #### [LAPIN | 라핀]( https://store.steampowered.com/app/1454540/LAPIN/ ) ( 2023 | 2D 정밀 플랫포머 | Studio Doodal )
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | 시뮬레이션, 어드벤처 | Somi )
 #### [Library Of Ruina]( https://store.steampowered.com/app/1256670/Library_Of_Ruina ) ( 2021 | 도서관 배틀 시뮬레이션 | ProjectMoon )
@@ -143,6 +173,7 @@
 #### [Love Too Easily | 과몰입금지]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
 #### [Lu Bu Maker | 여포키우기]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
+####M
 #### [Metal Unit]( https://store.steampowered.com/app/1173200/Metal_Unit/ ) ( 2021 | 액션, 플랫폼, 로그라이트 | JellySnow Studio | NEOWIZ )
 #### [METALLIC CHILD | 메탈릭 차일드]( https://store.steampowered.com/app/1490610/METALLIC_CHILD/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
 #### [Meteor 60 Seconds!]( https://store.steampowered.com/app/788770/Meteor_60_Seconds/ ) ( 2018 | 횡스크롤 액션 | AvoCavo )
@@ -152,19 +183,25 @@
 #### [Monads II | 모나드의 겨울 II]( https://store.steampowered.com/app/1386340/Monads_II/ ) ( 2020 | SRPG | Team Monad )
 #### [Moonlight thief]( https://store.steampowered.com/app/1006830/Moonlight_thief/ ) ( 2019 | 탑뷰, 액션, 잠입, 추리 | Alpheratz* )
 #### [Motesolo : No Girlfriend Since Birth | 모태솔로]( https://store.steampowered.com/app/1414180/Motesolo__No_Girlfriend_Since_Birth/ ) ( 2021 | 인터렉티브 무비 | INDICAVA INTERACTIVE )
+####N
 #### [Nameless ~The one thing you must recall~]( https://store.steampowered.com/app/337930/Nameless_The_one_thing_you_must_recall/ ) ( 2013 | 여성향 비주얼 노벨 | Sujin Ri, Yunjeong Yun, Hyein Go, Minsu Ock, Marcos Arroyo, Seona Lee, Sohyeon Jeon | Cheritz )
 #### [NEOVERSE]( https://store.steampowered.com/app/994220/NEOVERSE/ ) ( 2020 | 덱빌딩, 전략, 액션, 로그라이트 | Tinogames Inc. )
 #### [Nevaeh | 네바에]( https://store.steampowered.com/app/1222090/Nevaeh/ ) ( 2020 | 2D, 액션, 퍼즐, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
 #### [Night of the Dead]( https://store.steampowered.com/app/1377380/Night_of_the_Dead/ ) ( 2020 | 생존, 기지건설 | jacktostudios )
 #### [No Umbrellas Allowed]( https://store.steampowered.com/app/1301390/No_Umbrellas_Allowed/ ) ( 2021 | 상점 운영 시뮬레이션 | Hoochoo Game Studios )
+####O
 #### [Ogu and the Secret Forest | 오구와 비밀의 숲]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
+####o
 #### [oldTail]( https://store.steampowered.com/app/813920/oldTail/ ) ( 2018 | 3인칭 액션 | BK dddDang )
+####O
 #### [One Day : The Sun Disappeared]( https://store.steampowered.com/app/492610/One_Day__The_Sun_Disappeared/ ) ( 2016 | 2D, 액션, 플랫폼, RPG | Teemo Soft )
 #### [OVERTURN]( https://store.steampowered.com/app/650070/OVERTURN/ ) ( 2017 | FMS, 액션 퍼즐, 어드벤처 | STUDIO HG | YJM GAMES )
+####P
 #### [Plebby Quest: The Crusades | 플레비 퀘스트: 더 크루세이즈]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 #### [PLUTONIUM]( https://store.steampowered.com/app/634700/PLUTONIUM/ ) ( 2017 | 2D, 어드벤처 | Ch.ZBK )
 #### [Project Rhombus]( https://store.steampowered.com/app/735570/Project_Rhombus/ ) ( 2017 | 리듬기반 캐주얼 액션 | SEROSOO | PsychoFlux Entertainment )
 #### [PUBG: BATTLEGROUNDS]( https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/ ) ( 2017 | 배틀로얄 건플레이 | KRAFTON, Inc. )
+####R
 #### [Rabbit Hole 3D: Steam Edition]( https://store.steampowered.com/app/283660/Rabbit_Hole_3D_Steam_Edition/ ) ( 2014 | 퍼즐 | Somi | Zero Rock Entertainment )
 #### [RaidTitans]( https://store.steampowered.com/app/1203140/RaidTitans/ ) ( 2020 | 실시간 전략 RPG | RainbowStudio )
 #### [Ratopia]( https://store.steampowered.com/app/2244130/Ratopia/ ) ( 2023Q4 예정 | 경제 전략 서바이벌, 샌드박스, 도시건설 | Cassel Games )
@@ -178,6 +215,7 @@
 #### [ROOMS: The Toymaker's Mansion]( https://store.steampowered.com/app/331460/ROOMS_The_Toymakers_Mansion/ ) ( 2015 | 퍼즐 | HandMade Game )
 #### [Rose and Lotus: Petals of Memories | 장화홍련: 기억의 조각]( https://store.steampowered.com/app/699710/Rose_and_Lotus_Petals_of_Memories/ ) ( 2023 | 2D, 포인트앤클릭 | 5minlab Corp. )
 #### [Ruvato: Original Complex | 루바토: 오리지널 콤플렉스]( https://store.steampowered.com/app/1464500/Ruvato_Original_Complex/ ) ( 2020 | 액션, 플랫폼, 핵앤슬래시 | REMIMORY )
+####S
 #### [Sagres | 사그레스]( https://store.steampowered.com/app/2120310/sagres/ ) ( 2023 | 역사, 항해, 어드벤처 | ooze | Kakehashi Games )
 #### [Sally's Law]( https://store.steampowered.com/app/512230/Sallys_Law/ ) ( 2016 | 퍼즐, 플랫폼 | Nanali Studios )
 #### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/SANABI/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
@@ -189,6 +227,7 @@
 #### [Some Some Convenience Store | 썸썸 편의점]( https://store.steampowered.com/app/1217390/Some_Some_Convenience_Store/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [Space God]( https://store.steampowered.com/app/637120/Space_God/ ) ( 2018 | 탑 다운 슈팅 | Jellypig Games | Jellypig Games, PsychoFlux Entertainment )
 #### [Subterrain]( https://store.steampowered.com/app/340490/Subterrain/ ) ( 2016 | 턴 기반 생존 RPG | Pixellore Inc )
+####T
 #### [Teamfight Manager | 팀파이트 매니저]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
 #### [The Callisto Protocol™]( https://store.steampowered.com/app/1544020/The_Callisto_Protocol/ ) ( 2022 | SF, 생존, 공포, 3인칭 슈팅 | Striking Distance Studios | KRAFTON, Inc. )
 #### [The Coma 2: Vicious Sisters]( https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/ ) ( 2020 | 2D, 공포, 어드벤처 | Devespresso Games | Headup, WhisperGames )
@@ -197,12 +236,18 @@
 #### [The Tales of Imjin War | 난중설화]( https://store.steampowered.com/app/1963080/_The_Tales_of_Imjin_War/ ) ( 2022 | 벨트스크롤 액션 RPG | Devmaru Inc. )
 #### [The Wake: Mourning Father, Mourning Mother]( https://store.steampowered.com/app/1311540/The_Wake_Mourning_Father_Mourning_Mother/ ) ( 2020 | 텍스트, 퍼즐, 어드벤처 | Somi | Somi, indienova )
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
+####U
 #### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | 소울라이크, 액션RPG | Megusta Game | NEOWIZ )
+####V
 #### [Vambrace: Cold Soul]( https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/ ) ( 2019 | 로그라이트, 어드벤처 | Devespresso Games | Headup, WhisperGames )
+####W
 #### [White Day: A Labyrinth Named School]( https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/ ) ( 2017 | 1인칭 공포 | SONNORI Corp | Pqube, SONNORI Corp )
 #### [White Day2: The Flower That Tells Lies]( https://store.steampowered.com/app/2078040/White_Day2_The_Flower_That_Tells_Lies__EP1/ ) ( 2023 | 1인칭 공포 | Rootnstudio Ltd. )
 #### [Wicce]( https://store.steampowered.com/app/465130/Wicce/ ) ( 2016 | 2D, 액션, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
 #### [WitchSpring3 Re:Fine - The Story of Eirudy - | 마녀의샘3 Re:Fine －인형 마녀 아이루디의 이야기－]( https://store.steampowered.com/app/1592520/WitchSpring3_ReFine__The_Story_of_Eirudy/ ) ( 2021 | RPG | KIWIWALKS, IKINAGAMES | KIWIWALKS )
+####X
 #### [X Invader | 엑스 인베이더]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
+####Y
 #### [Youtuber Survivors | 유튜버 서바이버즈]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
+####Z
 #### [Zelter]( https://store.steampowered.com/app/1193340/Zelter/ ) ( 2020 | 포스트아포칼립스, 생존 | G1 Playground | SuperGG.com )
