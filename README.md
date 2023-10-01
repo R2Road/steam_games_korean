@@ -174,6 +174,7 @@
 #### [Lu Bu Maker | 여포키우기]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
 #### M
+#### [Merge & Blade]( https://store.steampowered.com/app/1446930/Merge__Blade/ ) ( 2023 | 세계 최초 퍼즐 오토 배틀러 | Magic Cube )
 #### [Metal Unit]( https://store.steampowered.com/app/1173200/Metal_Unit/ ) ( 2021 | 액션, 플랫폼, 로그라이트 | JellySnow Studio | NEOWIZ )
 #### [METALLIC CHILD | 메탈릭 차일드]( https://store.steampowered.com/app/1490610/METALLIC_CHILD/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
 #### [Meteor 60 Seconds!]( https://store.steampowered.com/app/788770/Meteor_60_Seconds/ ) ( 2018 | 횡스크롤 액션 | AvoCavo )
