@@ -186,12 +186,14 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 		EndIf
     	
     	
+    	
 		'
 		' Empty is End
 		'
 		If sheet.getCellByPosition( key_index, i ).String = "" Then
 			Exit For
 		EndIf
+		
 		
 		
 		'
@@ -228,6 +230,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 		last_code = current_code
     	
     	
+    	
 		'
 		' Title : [ Key Title, Sub Title ] or [ Key Title ]
 		'
@@ -246,6 +249,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 		EndIf
 		
 		
+		
 		'
 		' Company : 개발사, 퍼블리셔 정보가 같다면 하나로 표시한다.
 		'
@@ -254,6 +258,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 		Else
 			company = sheet.getCellByPosition( 6, i ).String & " | " & sheet.getCellByPosition( 7, i ).String
 		EndIf
+    	
     	
     	
 		'
@@ -272,6 +277,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 				& 	" | " & sheet.getCellByPosition( 5, i ).String _
 				& 	" | " & company _
 			& " )"
+    	
     	
     	
 		'
