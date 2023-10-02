@@ -156,9 +156,8 @@
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
 #### H
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
-#### i
-#### [in My MIND.]( https://store.steampowered.com/app/859370/in_My_MIND/ ) ( 2018 | 슈팅 | P.S.B (iNsOoL) | PsychoFlux Entertainment )
 #### I
+#### [in My MIND.]( https://store.steampowered.com/app/859370/in_My_MIND/ ) ( 2018 | 슈팅 | P.S.B (iNsOoL) | PsychoFlux Entertainment )
 #### [Infinite Sunshine Dust]( https://store.steampowered.com/app/673810/Infinite_Sunshine_Dust/ ) ( 2018 | 공포, 어드벤처 | Kena MAKF )
 #### K
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. )
@@ -193,9 +192,7 @@
 #### [No Umbrellas Allowed]( https://store.steampowered.com/app/1301390/No_Umbrellas_Allowed/ ) ( 2021 | 상점 운영 시뮬레이션 | Hoochoo Game Studios )
 #### O
 #### [Ogu and the Secret Forest | 오구와 비밀의 숲]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
-#### o
 #### [oldTail]( https://store.steampowered.com/app/813920/oldTail/ ) ( 2018 | 3인칭 액션 | BK dddDang )
-#### O
 #### [One Day : The Sun Disappeared]( https://store.steampowered.com/app/492610/One_Day__The_Sun_Disappeared/ ) ( 2016 | 2D, 액션, 플랫폼, RPG | Teemo Soft )
 #### [OVERTURN]( https://store.steampowered.com/app/650070/OVERTURN/ ) ( 2017 | FMS, 액션 퍼즐, 어드벤처 | STUDIO HG | YJM GAMES )
 #### P

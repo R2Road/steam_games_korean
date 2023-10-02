@@ -199,8 +199,9 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 		'
 		' 초성 출력
 		'
-		s = sheet.getCellByPosition( key_index, i ).String
-		b = Mid( s, 1, 1 )
+		s = Left( sheet.getCellByPosition( key_index, i ).String, 1 )
+		s = UCase( s )
+		b = s
 		current_code = ConvertBytes2Code( b )
 		
 		If IsDecompositionEnable( current_code ) Then
