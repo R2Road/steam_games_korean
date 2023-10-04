@@ -367,6 +367,10 @@ Sub Main
 			sort_description(0).Value = sort_field()
 		
 		
+		pf.WriteLine( Chr( 10 ) & Chr( 10 ) )
+		pf.WriteLine( "<br/><br/>" )
+		
+		
 		'
 		' Write : Korean List
 		'
@@ -379,6 +383,7 @@ Sub Main
 		
 		
 		pf.WriteLine( Chr( 10 ) & Chr( 10 ) )
+		pf.WriteLine( "<br/><br/>" )
 		
 		
 		'
