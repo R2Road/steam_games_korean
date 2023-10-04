@@ -139,6 +139,7 @@
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
 #### [CRANGA!: Harbor Frenzy]( https://store.steampowered.com/app/517970/CRANGA_Harbor_Frenzy/ ) ( 2016 | VR 퍼즐 | HandMade Game )
 #### [Crazy Farm : VRGROUND]( https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/ ) ( 2018 | 파티 게임 | Jamong Inc. )
+#### [Cute Invaders]( https://store.steampowered.com/app/1709780/Cute_Invaders/ ) ( 2022 | 2D, 슈팅, 어드벤쳐 | Magic Cube )
 #### D
 #### [Dandelion - Wishes brought to you -]( https://store.steampowered.com/app/321290/Dandelion__Wishes_brought_to_you/ ) ( 2012 | 여성향 연애 육성 시뮬레이션 | Sujin Ri, Marcos Arroyo, Seona Lee, Somi Lee, Sohyeon Jeon | Cheritz )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
