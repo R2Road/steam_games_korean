@@ -134,6 +134,7 @@
 #### [Before The Night | 비포 더 나이트]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
 #### [BLACK WITCHCRAFT]( https://store.steampowered.com/app/1557410/BLACK_WITCHCRAFT/ ) ( 2022 | 2D, 고딕, 액션RPG | QuattroGear | CREST )
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | 2D, 액션, 로그라이크, 플랫폼 | TeamSuneat | Neowiz )
+#### [Blindia]( https://store.steampowered.com/app/943510/Blindia/ ) ( 2018 | 탑 다운 슈팅 퍼즐 | IndigoBlue Game Studio | PsychoFlux Entertainment )
 #### [Blue Wednesday | 블루 웬즈데이]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
 #### [Buff Knight Advanced]( https://store.steampowered.com/app/385440/Buff_Knight_Advanced/ ) ( 2015 | 2D, RPG | Buff Studio Co.,Ltd. )
 #### C
