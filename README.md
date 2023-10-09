@@ -129,6 +129,7 @@
 #### [ALTF4]( https://store.steampowered.com/app/1137460/ALTF4/ ) ( 2021 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM )
 #### [ALTF42]( https://store.steampowered.com/app/2187230/ALTF42/ ) ( 2023 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM | GRAVITY )
 #### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
+#### [ASCENXION]( https://store.steampowered.com/app/1000000/ASCENXION/ ) ( 2021 | 2D 슈팅 액션 | IndigoBlue Game Studio | PsychoFlux Entertainment )
 #### B
 #### [Battery Samurai]( https://store.steampowered.com/app/2376780/Battery_Samurai/ ) ( 2023 | 어드벤처 | Matthewstone )
 #### [Before The Night | 비포 더 나이트]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
