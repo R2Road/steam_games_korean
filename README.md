@@ -141,6 +141,7 @@
 #### C
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | 로그라이트, 1인칭 공포 | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
+#### [Colorzzle]( https://store.steampowered.com/app/818500/Colorzzle/ ) ( 2018 | 퍼즐 | Darong Studio | PsychoFlux Entertainment )
 #### [CRANGA!: Harbor Frenzy]( https://store.steampowered.com/app/517970/CRANGA_Harbor_Frenzy/ ) ( 2016 | VR 퍼즐 | HandMade Game )
 #### [Crazy Farm : VRGROUND]( https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/ ) ( 2018 | 파티 게임 | Jamong Inc. )
 #### [Cute Invaders]( https://store.steampowered.com/app/1709780/Cute_Invaders/ ) ( 2022 | 2D, 슈팅, 어드벤쳐 | Magic Cube )
