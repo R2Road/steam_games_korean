@@ -224,6 +224,7 @@
 #### [Rose and Lotus: Petals of Memories | 장화홍련: 기억의 조각]( https://store.steampowered.com/app/699710/Rose_and_Lotus_Petals_of_Memories/ ) ( 2023 | 2D, 포인트앤클릭 | 5minlab Corp. )
 #### [Ruvato: Original Complex | 루바토: 오리지널 콤플렉스]( https://store.steampowered.com/app/1464500/Ruvato_Original_Complex/ ) ( 2020 | 액션, 플랫폼, 핵앤슬래시 | REMIMORY )
 #### S
+#### [Sacred Stones]( https://store.steampowered.com/app/826040/Sacred_Stones/ ) ( 2018 | 2D 레트로 횡스크롤 보스 레이드 | CFK Co., Ltd. )
 #### [Sagres | 사그레스]( https://store.steampowered.com/app/2120310/sagres/ ) ( 2023 | 역사, 항해, 어드벤처 | ooze | Kakehashi Games )
 #### [Sally's Law]( https://store.steampowered.com/app/512230/Sallys_Law/ ) ( 2016 | 퍼즐, 플랫폼 | Nanali Studios )
 #### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/SANABI/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
