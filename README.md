@@ -73,6 +73,7 @@
 #### [모나드의 겨울 II | Monads II]( https://store.steampowered.com/app/1386340/Monads_II/ ) ( 2020 | SRPG | Team Monad )
 #### [모태솔로 | Motesolo : No Girlfriend Since Birth]( https://store.steampowered.com/app/1414180/Motesolo__No_Girlfriend_Since_Birth/ ) ( 2021 | 인터렉티브 무비 | INDICAVA INTERACTIVE )
 #### ㅂ
+#### [별이되어라2: 베다의 기사들 | ASTRA: Knights of Veda]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( ? | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
 #### [블루 웬즈데이 | Blue Wednesday]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
 #### [비포 더 나이트 | Before The Night]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
 #### ㅅ
@@ -130,6 +131,7 @@
 #### [ALTF42]( https://store.steampowered.com/app/2187230/ALTF42/ ) ( 2023 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM | GRAVITY )
 #### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
 #### [ASCENXION]( https://store.steampowered.com/app/1000000/ASCENXION/ ) ( 2021 | 2D 슈팅 액션 | IndigoBlue Game Studio | PsychoFlux Entertainment )
+#### [ASTRA: Knights of Veda | 별이되어라2: 베다의 기사들]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( ? | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
 #### B
 #### [Battery Samurai]( https://store.steampowered.com/app/2376780/Battery_Samurai/ ) ( 2023 | 어드벤처 | Matthewstone )
 #### [Before The Night | 비포 더 나이트]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
