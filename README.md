@@ -162,6 +162,7 @@
 #### E
 #### [Eternal Return | 이터널 리턴]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
 #### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼 | Jaemin Park | PsychoFlux Entertainment )
+#### [EZ2ON REBOOT : R]( https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/ ) ( 2022 | 리듬 게임 | Neonovice Co., Ltd., SQUARE PIXELS | Neonovice Co., Ltd. )
 #### F
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | 퍼즐 RPG | WIDStudio | CFK Co., Ltd. )
 #### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
