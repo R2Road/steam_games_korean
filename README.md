@@ -83,6 +83,7 @@
 #### [산타는 교복을 입을 수 밖에 없어 | Adolescent Santa Claus]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
 #### [세븐데이즈 오리진 | 7Days Origins]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
+#### [식스타 게이트: 스타트레일 | Sixtar Gate: STARTRAIL]( https://store.steampowered.com/app/1802720/Sixtar_Gate_STARTRAIL/ ) ( 2021 | 건반형 리듬 게임 | Lyrebird Studio, Starlike Inc. | CFK Co., Ltd. )
 #### [실망실업자]( https://store.steampowered.com/app/371120/_/ ) ( 2015 | 진보적 시각 소설 | YGGDRASIL STUDIO )
 #### ㅆ
 #### [썸썸 편의점 | Some Some Convenience Store]( https://store.steampowered.com/app/1217390/Some_Some_Convenience_Store/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. )
@@ -235,6 +236,7 @@
 #### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/SANABI/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
 #### [Scarlet Hood and the Wicked Wood]( https://store.steampowered.com/app/1141120/Scarlet_Hood_and_the_Wicked_Wood/ ) ( 2021 | 퍼즐, 어드벤처 | Devespresso Games | Headup, WhisperGames )
 #### [Shikhondo(食魂徒) - Soul Eater]( https://store.steampowered.com/app/720150/Shikhondo__Soul_Eater/ ) ( 2017 | 탄막 슈팅게임 | DeerFarm )
+#### [Sixtar Gate: STARTRAIL | 식스타 게이트: 스타트레일]( https://store.steampowered.com/app/1802720/Sixtar_Gate_STARTRAIL/ ) ( 2021 | 건반형 리듬 게임 | Lyrebird Studio, Starlike Inc. | CFK Co., Ltd. )
 #### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | 2D, 로그라이트, 액션, 플랫포머 | Southpaw Games Co., Ltd. | NEOWIZ )
 #### [SMASHING THE BATTLE]( https://store.steampowered.com/app/467930/SMASHING_THE_BATTLE/ ) ( 2016 | 핵앤슬래시 | Action Square(Studio HG) | Action Square )
 #### [Smilemo]( https://store.steampowered.com/app/1933700/Smilemo/ ) ( 2022 | 액션, 어드벤쳐, 플랫포머, 2D | REXECHO | CFK Co., Ltd. )
