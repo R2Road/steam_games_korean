@@ -195,6 +195,7 @@
 #### [METALLIC CHILD | 메탈릭 차일드]( https://store.steampowered.com/app/1490610/METALLIC_CHILD/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
 #### [Meteor 60 Seconds!]( https://store.steampowered.com/app/788770/Meteor_60_Seconds/ ) ( 2018 | 횡스크롤 액션 | AvoCavo )
 #### [Meteor Volleyball! | 지구멸망 60초전! -운석배구 편-]( https://store.steampowered.com/app/1816080/Meteor_Volleyball/ ) ( 2022 | 횡스크롤 2d 배구 게임 | AvoCavo )
+#### [Mini Island]( https://store.steampowered.com/app/1188310/Mini_Island/ ) ( 2019 | 홀드 앤 건 & 보스 러쉬 미니 게임 | MACKINN7 )
 #### [Miracle Snack Shop | 기적의 분식집]( https://store.steampowered.com/app/995460/Miracle_Snack_Shop/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. )
 #### [Monads | 모나드의 겨울]( https://store.steampowered.com/app/814870/Monads/ ) ( 2019 | SRPG | Team Monad )
 #### [Monads II | 모나드의 겨울 II]( https://store.steampowered.com/app/1386340/Monads_II/ ) ( 2020 | SRPG | Team Monad )
