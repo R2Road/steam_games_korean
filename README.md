@@ -243,6 +243,7 @@
 #### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | 2D, 로그라이트, 액션, 플랫포머 | Southpaw Games Co., Ltd. | NEOWIZ )
 #### [SMASHING THE BATTLE]( https://store.steampowered.com/app/467930/SMASHING_THE_BATTLE/ ) ( 2016 | 핵앤슬래시 | Action Square(Studio HG) | Action Square )
 #### [Smilemo]( https://store.steampowered.com/app/1933700/Smilemo/ ) ( 2022 | 액션, 어드벤쳐, 플랫포머, 2D | REXECHO | CFK Co., Ltd. )
+#### [Snow Island]( https://store.steampowered.com/app/1153840/Snow_Island/ ) ( 2019 |  홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Some Some Convenience Store | 썸썸 편의점]( https://store.steampowered.com/app/1217390/Some_Some_Convenience_Store/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [Space God]( https://store.steampowered.com/app/637120/Space_God/ ) ( 2018 | 탑 다운 슈팅 | Jellypig Games | Jellypig Games, PsychoFlux Entertainment )
 #### [SPLIT BULLET]( https://store.steampowered.com/app/449450/SPLIT_BULLET/ ) ( 2016 | 탄막슈팅 | IndigoBlue Game Studio | PsychoFlux Entertainment )
