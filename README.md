@@ -214,6 +214,7 @@
 #### [One Day : The Sun Disappeared]( https://store.steampowered.com/app/492610/One_Day__The_Sun_Disappeared/ ) ( 2016 | 2D, 액션, 플랫폼, RPG | Teemo Soft )
 #### [OVERTURN]( https://store.steampowered.com/app/650070/OVERTURN/ ) ( 2017 | FMS, 액션 퍼즐, 어드벤처 | STUDIO HG | YJM GAMES )
 #### P
+#### [Pink Island]( https://store.steampowered.com/app/1312070/Pink_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Plebby Quest: The Crusades | 플레비 퀘스트: 더 크루세이즈]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 #### [PLUTONIUM]( https://store.steampowered.com/app/634700/PLUTONIUM/ ) ( 2017 | 2D, 어드벤처 | Ch.ZBK )
 #### [Project Rhombus]( https://store.steampowered.com/app/735570/Project_Rhombus/ ) ( 2017 | 리듬기반 캐주얼 액션 | SEROSOO | PsychoFlux Entertainment )
