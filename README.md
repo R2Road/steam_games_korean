@@ -152,6 +152,7 @@
 #### D
 #### [Dandelion - Wishes brought to you -]( https://store.steampowered.com/app/321290/Dandelion__Wishes_brought_to_you/ ) ( 2012 | 여성향 연애 육성 시뮬레이션 | Sujin Ri, Marcos Arroyo, Seona Lee, Somi Lee, Sohyeon Jeon | Cheritz )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
+#### [Day Island]( https://store.steampowered.com/app/1361150/Day_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Deep Dark Dungeon]( https://store.steampowered.com/app/496290/Deep_Dark_Dungeon/ ) ( 2018 | 로그라이트, 액션 | GlassCats | GlassCats, PsychoFlux Entertainment )
 #### [Deneb: Across the Stars | 데네브: 별을 건너서]( https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars/ ) ( 2022 | 탑다운 하드코어 플랫포머 | SEROSOO )
 #### [Diary of Lucie | 루시의 일기]( https://store.steampowered.com/app/1454010/Diary_of_Lucie/ ) ( 2023 | 액션, 로그라이트 | Parange Project )
