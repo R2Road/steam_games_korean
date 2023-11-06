@@ -197,6 +197,7 @@
 #### [Meteor 60 Seconds!]( https://store.steampowered.com/app/788770/Meteor_60_Seconds/ ) ( 2018 | 횡스크롤 액션 | AvoCavo )
 #### [Meteor Volleyball! | 지구멸망 60초전! -운석배구 편-]( https://store.steampowered.com/app/1816080/Meteor_Volleyball/ ) ( 2022 | 횡스크롤 2d 배구 게임 | AvoCavo )
 #### [Mini Island]( https://store.steampowered.com/app/1188310/Mini_Island/ ) ( 2019 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
+#### [Mini Island: Autumn]( https://store.steampowered.com/app/1720180/Mini_Island_Autumn/ ) ( 2021 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Mini Island: Night]( https://store.steampowered.com/app/1200780/Mini_Island_Night/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Mini Island: Spring]( https://store.steampowered.com/app/1565580/Mini_Island_Spring/ ) ( 2021 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Mini Island: Summer]( https://store.steampowered.com/app/1601790/Mini_Island_Summer/ ) ( 2021 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
