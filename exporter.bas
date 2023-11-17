@@ -60,6 +60,71 @@ End Sub ' Destructor
 
 
 '
+'
+'
+Function IsDecompositionEnable( code as Long )
+
+	'
+	' 분해 가능한 한글 범위 : AC00( 가 : 44032 ) ~ D7A3( 힣 : 55203 )
+	'
+	IsDecompositionEnable = ( code >= 44032 And code <= 55203 )
+
+End Function
+Function ConvertBytes2Code( b() as Byte ) as Long
+
+	'
+	' byte array를 하나의 수로 만든다.
+	'
+	
+	Dim code as Long 'Integer : 16bit, Long : 32bit
+	
+	'
+	' b( 1 )
+	'
+	code = b( 1 )
+	code = code * 256 ' 256 : 2의 8승 : 왼쪽 shift 8
+	
+	'
+	' b( 0 )
+	'
+	code = code + b( 0 )
+	
+	ConvertBytes2Code = code
+		
+End Function
+Function Extract_InitialConsonant( code as Long ) as Long
+	
+	Dim result as Long
+	
+	'
+	' 한글 결합식
+	'
+	' (초성 인덱스 * 21 + 중성 인덱스) * 28 + 종성 인덱스 + 0xAC00( 44032 : 가 )
+	'
+	
+	'
+	' 가 : 44032
+	' 각 항목의 인덱스가 모두 0 일때 '가' 이다.
+	'
+	result = Int( code - 44032 ) '은근슬쩍 반올림을 하고 있어서 Int 를 사용 해서 정수부만 쓰도록 제한한다.
+	
+	'
+	' 종성 떨구기
+	'
+	result = Int( result / 28 )
+	
+	'
+	' 중성 떨구기
+	'
+	result = Int( result / 21 )
+	
+	Extract_InitialConsonant = result
+	
+End Function
+
+
+
+'
 ' 출력
 '
 Function ExportList2( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, out_file as Variant )
