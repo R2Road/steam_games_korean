@@ -66,7 +66,7 @@ Function LoadFile( header_fine_name as String, out_file as Variant )
 	
 	
 	'
-	'
+	' Write
 	'
 	out_file.WriteLine( header_pf.ReadAll() )
 	
@@ -106,13 +106,13 @@ Sub Main
 	
 	
 	'
-	'
+	' Insert "Header.txt"
 	'
 	LoadFile( "header.txt", pf )
 	
 	
 	'
-	' Sheet
+	' Sheet "list"
 	'
 	Dim sheet as Object
 	sheet = ThisComponent.Sheets.getByName( "list" )
@@ -124,6 +124,12 @@ Sub Main
 	Dim active_area as Size
 	active_area = CalculateSheetActiveArea( sheet )
 	MsgBox( "Active Area : " & StartX & " : " & StartY & " ~ " & active_area.w & " : " & active_area.h )
+	
+	
+	'
+	' 게임 수 출력
+	'
+	pf.WriteLine( active_area.h - StartY & " 개" )
     
     
 	'
@@ -149,11 +155,14 @@ Sub Main
 		Dim sort_description(0) as new com.sun.star.beans.PropertyValue
 			sort_description(0).Name = "SortFields"
 			sort_description(0).Value = sort_field()
+			
+			
 		
-		
+		'
+		'
+		'
 		pf.WriteLine( Chr( 10 ) & Chr( 10 ) )
 		pf.WriteLine( "<br/><br/>" )
-		
 		
 		'
 		' Write : Korean List
@@ -166,9 +175,13 @@ Sub Main
 		obj_exporter.ExportList2( sheet, active_area.h, 1, 2, pf )
 		
 		
+		
+		
+		'
+		'
+		'
 		pf.WriteLine( Chr( 10 ) & Chr( 10 ) )
 		pf.WriteLine( "<br/><br/>" )
-		
 		
 		'
 		' Write : Number, English List
@@ -181,7 +194,14 @@ Sub Main
 		obj_exporter.ExportList2( sheet, active_area.h, 2, 1, pf )
 		
 		
+		
+		
+		'
+		'
+		'
 		MsgBox( "Success" )
+		
+		
 		
 		
 		'
@@ -194,6 +214,9 @@ Sub Main
 	
 	ERROR_END:
 	
+	'
+	'
+	'
 	obj_exporter = Nothing
     
     
