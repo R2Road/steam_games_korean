@@ -16,29 +16,34 @@ End Type
 Function CalculateSheetActiveArea( sheet as Variant ) as Size
 	
 	Dim ret as Size
-	Dim i, j, h as Integer
 	
 	'
 	' W
 	'
-	j = sheet.Rows.Count - 1
-	For i = StartX to j
-		If sheet.getCellByPosition( i, 0 ).String = "" Then
+	Dim cur_x as Long
+	Dim end_x as Long : end_x = sheet.Columns.Count - 1
+	
+	For cur_x = StartX to end_x
+		If sheet.getCellByPosition( cur_x, 0 ).String = "" Then
+			cur_x = cur_x - 1
 			Exit For
 		EndIf
-	Next i
-	ret.w = i - 1
+	Next cur_x
+	ret.w = cur_x
 		
 	'
 	' H
 	'
-	j = sheet.Rows.Count - 1
-	For i = StartY to j
-		If sheet.getCellByPosition( 0, i ).String = "" Then
+	Dim cur_y as Long
+	Dim end_y as Long : end_y = sheet.Rows.Count - 1
+	
+	For cur_y = StartY to end_y
+		If sheet.getCellByPosition( 0, cur_y ).String = "" Then
+			cur_y = cur_y - 1
 			Exit For
 		EndIf
-	Next i
-	ret.h = i - 1
+	Next cur_y
+	ret.h = cur_y
 	
 	'
 	' Return
@@ -123,7 +128,11 @@ Sub Main
 	'
 	Dim active_area as Size
 	active_area = CalculateSheetActiveArea( sheet )
-	MsgBox( "Active Area : " & StartX & " : " & StartY & " ~ " & active_area.w & " : " & active_area.h )
+	MsgBox( _
+							"Active Area : " _
+		& 	Chr( 10 ) & 	"Start : "	& StartX 			& " : " 	& StartY _
+		& 	Chr( 10 ) & 	"End  : " 	& active_area.w 	& " : " 	& active_area.h _
+	)
 	
 	
 	'
