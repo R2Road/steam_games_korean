@@ -164,7 +164,7 @@ End Function
 '
 ' 출력
 '
-Function ExportList( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, out_file as Variant )
+Function ExportList( sheet as Variant, active_area_start_y as Integer, active_area_end_y as Integer, key_index as Integer, sub_index as Integer, out_file as Variant )
 	
 	'
 	' 초성 분리및 출력용
@@ -180,8 +180,8 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 	'
 	'
 	Dim title, company, result as String
-	Dim i, j as Integer
-	For i = StartY to active_area_h
+	Dim i as Integer
+	For i = active_area_start_y to active_area_end_y
     
 		'
 		' Check Export Flag

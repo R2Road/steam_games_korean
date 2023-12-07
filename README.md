@@ -53,12 +53,6 @@
 <br/><br/>
 ## 한국어 제목
 
-#### O
-#### [o | o]( o ) ( o | o | o )
-#### ㅎ
-#### [한글 제목 | 영어 제목]( 링크 ) ( 출시년도 | 장르 | 개발사 / 개발자 | 배급사 )
-#### P
-#### [P의 거짓 | Lies of P]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ )
 #### ㄱ
 #### [과몰입금지 | Love Too Easily]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
 #### [기적의 분식집 | Miracle Snack Shop]( https://store.steampowered.com/app/995460/Miracle_Snack_Shop/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. )
@@ -121,26 +115,14 @@
 #### [편집장 | THE EDITOR]( https://store.steampowered.com/app/2310920/THE_EDITOR/ ) ( 2023 | 신문 편집 어드벤처 | DECATREE GAMES )
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 #### [피피숲의 연금술사 | Alchemist of Pipi Forest]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
+#### P
+#### [P의 거짓 | Lies of P]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ )
 
 
 
 <br/><br/>
 ## 영어 제목
 
-#### O
-#### [o | o]( o ) ( o | o | o )
-#### ㅇ
-#### [영어 제목 | 한글 제목]( 링크 ) ( 출시년도 | 장르 | 개발사 / 개발자 | 배급사 )
-#### 2
-#### [21 Days]( https://store.steampowered.com/app/607660/21_Days/ ) ( 2017 | 난민 시뮬레이션 | Hardtalk Studio )
-#### 3
-#### [3000th Duel]( https://store.steampowered.com/app/1098080/3000th_Duel/ ) ( 2019 | 메트로베니아, 소울라이크 | NEOPOPCORN Corp )
-#### 6
-#### [6180 the moon]( https://store.steampowered.com/app/299660/6180_the_moon/ ) ( 2014 | 2D, 퍼즐, 플랫폼 | Turtle Cream, PokPoong Games | Turtle Cream )
-#### 7
-#### [7Days Origins | 세븐데이즈 오리진]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
-#### 8
-#### [8Doors: Arum's Afterlife Adventure | 사망여각]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
 #### A
 #### [A Street Cat's Tale | 길고양이 이야기]( https://store.steampowered.com/app/1140570/A_Street_Cats_Tale/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
 #### [Adolescent Santa Claus | 산타는 교복을 입을 수 밖에 없어]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
@@ -316,3 +298,13 @@
 #### [Youtuber Survivors | 유튜버 서바이버즈]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
 #### Z
 #### [Zelter]( https://store.steampowered.com/app/1193340/Zelter/ ) ( 2020 | 포스트아포칼립스, 생존 | G1 Playground | SuperGG.com )
+#### 2
+#### [21 Days]( https://store.steampowered.com/app/607660/21_Days/ ) ( 2017 | 난민 시뮬레이션 | Hardtalk Studio )
+#### 3
+#### [3000th Duel]( https://store.steampowered.com/app/1098080/3000th_Duel/ ) ( 2019 | 메트로베니아, 소울라이크 | NEOPOPCORN Corp )
+#### 6
+#### [6180 the moon]( https://store.steampowered.com/app/299660/6180_the_moon/ ) ( 2014 | 2D, 퍼즐, 플랫폼 | Turtle Cream, PokPoong Games | Turtle Cream )
+#### 7
+#### [7Days Origins | 세븐데이즈 오리진]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
+#### 8
+#### [8Doors: Arum's Afterlife Adventure | 사망여각]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
