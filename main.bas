@@ -189,7 +189,7 @@ Sub Main
 			'
 			' Write : Korean
 			'
-			obj_exporter.ExportList2( sheet, active_area.h, 1, 2, pf )
+			obj_exporter.ExportList( sheet, active_area.h, 1, 2, pf )
 			
 			'
 			' Write : Others
@@ -220,7 +220,7 @@ Sub Main
 			'
 			' Write : English
 			'
-			obj_exporter.ExportList2( sheet, active_area.h, 2, 1, pf )
+			obj_exporter.ExportList( sheet, active_area.h, 2, 1, pf )
 			
 			'
 			' Write : Others

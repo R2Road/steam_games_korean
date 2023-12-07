@@ -127,7 +127,7 @@ End Function
 '
 ' 출력
 '
-Function ExportList2( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, out_file as Variant )
+Function ExportList( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, out_file as Variant )
 	
 	'
 	' 초성 분리및 출력용
