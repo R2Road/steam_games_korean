@@ -125,6 +125,17 @@ End Function
 
 
 '
+' 언어 타입 확인
+'
+Function IsTargetLanguage( code as Long ) as Boolean
+
+	IsTargetLanguage = True
+
+End Function
+
+
+
+'
 ' 출력
 '
 Function ExportList( sheet as Variant, active_area_h as Integer, key_index as Integer, sub_index as Integer, out_file as Variant )
@@ -171,6 +182,17 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 		s = UCase( s )
 		b = s
 		current_code = ConvertBytes2Code( b )
+		
+		
+		
+		'
+		'
+		'
+		If IsTargetLanguage( current_code ) = False Then
+			GoTo Continue
+		End If
+		
+		
 		
 		If IsDecompositionEnable( current_code ) Then
 			
@@ -257,6 +279,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
     	
 	Continue:
 	Next i
+	
 	
 End Function
 
