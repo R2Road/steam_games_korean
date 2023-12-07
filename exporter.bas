@@ -13,6 +13,10 @@ Option VBASupport 1
 
 
 
+Public target_laugnage as Long
+
+
+
 '
 ' 한글 자모 목록
 '
@@ -41,6 +45,11 @@ Private Sub Class_Initialize()
 
     MsgBox "Exporter : Initialize"
     
+    '
+	' 왠지 Enum 이 에러난다. 일단 숫자로 대충 때려박기
+	'
+	target_laugnage = 0
+	
     '
 	'
 	'
@@ -127,9 +136,26 @@ End Function
 '
 ' 언어 타입 확인
 '
+
 Function IsTargetLanguage( code as Long ) as Boolean
 
-	IsTargetLanguage = True
+	Select Case target_laugnage
+		Case 1: 'Korean
+			IsTargetLanguage = True
+			
+		Case 2: 'Not Korean
+			IsTargetLanguage = False
+			
+		Case 3: 'English
+			IsTargetLanguage = True
+		
+		Case 4: 'Not English
+			IsTargetLanguage = False
+			
+		Case Else
+			IsTargetLanguage = False
+		
+	End Select
 
 End Function
 

@@ -189,11 +189,14 @@ Sub Main
 			'
 			' Write : Korean
 			'
+			obj_exporter.target_laugnage = 1
 			obj_exporter.ExportList( sheet, active_area.h, 1, 2, pf )
 			
 			'
 			' Write : Others
 			'
+			obj_exporter.target_laugnage = 2
+			obj_exporter.ExportList( sheet, active_area.h, 1, 2, pf )
 		
 		
 		
@@ -220,11 +223,14 @@ Sub Main
 			'
 			' Write : English
 			'
+			obj_exporter.target_laugnage = 3
 			obj_exporter.ExportList( sheet, active_area.h, 2, 1, pf )
 			
 			'
 			' Write : Others
 			'
+			obj_exporter.target_laugnage = 4
+			obj_exporter.ExportList( sheet, active_area.h, 2, 1, pf )
 		
 		
 		
