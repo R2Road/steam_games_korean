@@ -202,21 +202,27 @@ Function ExportList( sheet as Variant, active_area_start_y as Integer, active_ar
 		
 		
 		'
-		' 초성 출력
+		' 첫 글자 잘라내기
 		'
 		s = Left( sheet.getCellByPosition( key_index, i ).String, 1 )
 		s = UCase( s )
 		b = s
-		current_code = ConvertBytes2Code( b )
 		
 		
 		
 		'
-		'
+		' 목표 언어 종류 검사
 		'
 		If IsTargetLanguage( b ) = False Then
 			GoTo Continue
 		End If
+		
+		
+		
+		'
+		'
+		'
+		current_code = ConvertBytes2Code( b )
 		
 		
 		

@@ -138,7 +138,7 @@ Sub Main
 	'
 	' 게임 수 출력
 	'
-	pf.WriteLine( active_area.h - StartY & " 개" )
+	pf.WriteLine( "* " & active_area.h - StartY & " 개" )
     
     
 	'
