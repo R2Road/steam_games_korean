@@ -137,20 +137,20 @@ End Function
 ' 언어 타입 확인
 '
 
-Function IsTargetLanguage( code as Long ) as Boolean
+Function IsTargetLanguage( b() as Byte ) as Boolean
 
 	Select Case target_laugnage
 		Case 1: 'Korean
-			IsTargetLanguage = True
+			IsTargetLanguage = IsKorean( b )
 			
 		Case 2: 'Not Korean
-			IsTargetLanguage = False
+			IsTargetLanguage = Not IsKorean( b )
 			
 		Case 3: 'English
-			IsTargetLanguage = True
+			IsTargetLanguage = IsEnglish( b )
 		
 		Case 4: 'Not English
-			IsTargetLanguage = False
+			IsTargetLanguage = Not IsEnglish( b )
 			
 		Case Else
 			IsTargetLanguage = False
@@ -214,7 +214,7 @@ Function ExportList( sheet as Variant, active_area_h as Integer, key_index as In
 		'
 		'
 		'
-		If IsTargetLanguage( current_code ) = False Then
+		If IsTargetLanguage( b ) = False Then
 			GoTo Continue
 		End If
 		
