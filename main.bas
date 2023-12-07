@@ -176,12 +176,24 @@ Sub Main
 		'
 		' Write : Korean List
 		'
-		pf.WriteLine( "## 한국어 제목" & Chr( 10 ) )
-			sort_field(0).Field = 1
-			sort_field(1).Field = 2
-			sort_description(0).Value = sort_field()
-			range4sort.Sort( sort_description() )
-		obj_exporter.ExportList2( sheet, active_area.h, 1, 2, pf )
+			
+			'
+			' Sort
+			'
+			pf.WriteLine( "## 한국어 제목" & Chr( 10 ) )
+				sort_field(0).Field = 1
+				sort_field(1).Field = 2
+				sort_description(0).Value = sort_field()
+				range4sort.Sort( sort_description() )
+				
+			'
+			' Write : Korean
+			'
+			obj_exporter.ExportList2( sheet, active_area.h, 1, 2, pf )
+			
+			'
+			' Write : Others
+			'
 		
 		
 		
@@ -193,14 +205,26 @@ Sub Main
 		pf.WriteLine( "<br/><br/>" )
 		
 		'
-		' Write : Number, English List
+		' Write : English List
 		'
-		pf.WriteLine( "## 영어 제목" & Chr( 10 ) )
-			sort_field(0).Field = 2
-			sort_field(1).Field = 1
-			sort_description(0).Value = sort_field()
-			range4sort.Sort( sort_description() )
-		obj_exporter.ExportList2( sheet, active_area.h, 2, 1, pf )
+		
+			'
+			' Sort
+			'
+			pf.WriteLine( "## 영어 제목" & Chr( 10 ) )
+				sort_field(0).Field = 2
+				sort_field(1).Field = 1
+				sort_description(0).Value = sort_field()
+				range4sort.Sort( sort_description() )
+			
+			'
+			' Write : English
+			'
+			obj_exporter.ExportList2( sheet, active_area.h, 2, 1, pf )
+			
+			'
+			' Write : Others
+			'
 		
 		
 		
