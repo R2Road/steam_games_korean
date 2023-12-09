@@ -46,7 +46,7 @@
 
 
 ## 등록된 게임 수
-* 161 개
+* 162 개
 
 
 
@@ -278,6 +278,7 @@
 #### [The Coma: Recut]( https://store.steampowered.com/app/600090/The_Coma_Recut/ ) ( 2017 | 2D, 공포, 어드벤처 | Devespresso Games | Headup )
 #### [The Dew]( https://store.steampowered.com/app/692950/The_Dew/ ) ( 2017 | 스토리텔링, 퍼즐 | ZZICON | PsychoFlux Entertainment )
 #### [THE EDITOR | 편집장]( https://store.steampowered.com/app/2310920/THE_EDITOR/ ) ( 2023 | 신문 편집 어드벤처 | DECATREE GAMES )
+#### [THE FINALS]( https://store.steampowered.com/app/2073850/THE_FINALS/ ) ( 2023 | 멀티플레이어, 슈팅, PVP | Embark Studios )
 #### [The Lord of the Parties | 로드 오브 파티]( https://store.steampowered.com/app/1602880/The_Lord_of_the_Parties/ ) ( 2022 | 2D 종스크롤 파티 슈팅 RPG | Magic Cube, Dizcon | HIKE Inc. )
 #### [The Ramsey | 더 램지]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
 #### [The Tales of Imjin War | 난중설화]( https://store.steampowered.com/app/1963080/_The_Tales_of_Imjin_War/ ) ( 2022 | 벨트스크롤 액션 RPG | Devmaru Inc. )
