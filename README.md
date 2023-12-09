@@ -46,7 +46,7 @@
 
 
 ## 등록된 게임 수
-* 160 개
+* 161 개
 
 
 
@@ -235,6 +235,7 @@
 #### [PLUTONIUM]( https://store.steampowered.com/app/634700/PLUTONIUM/ ) ( 2017 | 2D, 어드벤처 | Ch.ZBK )
 #### [Project Rhombus]( https://store.steampowered.com/app/735570/Project_Rhombus/ ) ( 2017 | 리듬기반 캐주얼 액션 | SEROSOO | PsychoFlux Entertainment )
 #### [PUBG: BATTLEGROUNDS]( https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/ ) ( 2017 | 배틀로얄 건플레이 | KRAFTON, Inc. )
+#### [Pygmalion]( https://store.steampowered.com/app/2234960/Pygmalion/ ) ( 2023 | 퍼즐 | CandLE )
 #### R
 #### [Rabbit Hole 3D: Steam Edition]( https://store.steampowered.com/app/283660/Rabbit_Hole_3D_Steam_Edition/ ) ( 2014 | 퍼즐 | Somi | Zero Rock Entertainment )
 #### [RaidTitans]( https://store.steampowered.com/app/1203140/RaidTitans/ ) ( 2020 | 실시간 전략 RPG | RainbowStudio )
