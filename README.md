@@ -46,7 +46,7 @@
 
 
 ## 등록된 게임 수
-* 162 개
+* 163 개
 
 
 
@@ -171,6 +171,7 @@
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
 #### H
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
+#### [HYNPYTOL]( https://store.steampowered.com/app/2520000/HYNPYTOL/ ) ( 2023 | 액션 퍼즐 어드벤쳐 | base0 )
 #### I
 #### [in My MIND.]( https://store.steampowered.com/app/859370/in_My_MIND/ ) ( 2018 | 슈팅 | P.S.B (iNsOoL) | PsychoFlux Entertainment )
 #### [Infinite Sunshine Dust]( https://store.steampowered.com/app/673810/Infinite_Sunshine_Dust/ ) ( 2018 | 공포, 어드벤처 | Kena MAKF )
