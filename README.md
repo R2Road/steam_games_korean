@@ -46,7 +46,7 @@
 
 
 ## 등록된 게임 수
-* 164 개
+* 165 개
 
 
 
@@ -67,6 +67,7 @@
 #### [데네브: 별을 건너서 | Deneb: Across the Stars]( https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars/ ) ( 2022 | 탑다운 하드코어 플랫포머 | SEROSOO )
 #### [데이브 더 다이버 | DAVE THE DIVER]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
 #### ㄹ
+#### [라라바이 데이즈 | Lullaby Days]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
 #### [라핀 | LAPIN]( https://store.steampowered.com/app/1454540/LAPIN/ ) ( 2023 | 2D 정밀 플랫포머 | Studio Doodal )
 #### [로드 오브 파티 | The Lord of the Parties]( https://store.steampowered.com/app/1602880/The_Lord_of_the_Parties/ ) ( 2022 | 2D 종스크롤 파티 슈팅 RPG | Magic Cube, Dizcon | HIKE Inc. )
 #### [루바토: 오리지널 콤플렉스 | Ruvato: Original Complex]( https://store.steampowered.com/app/1464500/Ruvato_Original_Complex/ ) ( 2020 | 액션, 플랫폼, 핵앤슬래시 | REMIMORY )
@@ -190,6 +191,7 @@
 #### [Lost Ruins]( https://store.steampowered.com/app/1306630/Lost_Ruins/ ) ( 2021 | 2D, 횡스크롤, 생존, 액션 | ALTARI GAMES | DANGEN Entertainment )
 #### [Love Too Easily | 과몰입금지]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
 #### [Lu Bu Maker | 여포키우기]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
+#### [Lullaby Days | 라라바이 데이즈]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
 #### M
 #### [Merge & Blade]( https://store.steampowered.com/app/1446930/Merge__Blade/ ) ( 2023 | 세계 최초 퍼즐 오토 배틀러 | Magic Cube )
