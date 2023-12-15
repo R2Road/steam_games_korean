@@ -46,7 +46,7 @@
 
 
 ## 등록된 게임 수
-* 165 개
+* 166 개
 
 
 
@@ -89,6 +89,7 @@
 #### [사망여각 | 8Doors: Arum's Afterlife Adventure]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
 #### [산나비 | SANABI: The Revenant]( https://store.steampowered.com/app/1562700/SANABI/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
 #### [산타는 교복을 입을 수 밖에 없어 | Adolescent Santa Claus]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
+#### [세 장의 카드 | Three of Cards]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
 #### [세븐데이즈 오리진 | 7Days Origins]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
 #### [식스타 게이트: 스타트레일 | Sixtar Gate: STARTRAIL]( https://store.steampowered.com/app/1802720/Sixtar_Gate_STARTRAIL/ ) ( 2021 | 건반형 리듬 게임 | Lyrebird Studio, Starlike Inc. | CFK Co., Ltd. )
@@ -286,6 +287,7 @@
 #### [The Ramsey | 더 램지]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
 #### [The Tales of Imjin War | 난중설화]( https://store.steampowered.com/app/1963080/_The_Tales_of_Imjin_War/ ) ( 2022 | 벨트스크롤 액션 RPG | Devmaru Inc. )
 #### [The Wake: Mourning Father, Mourning Mother]( https://store.steampowered.com/app/1311540/The_Wake_Mourning_Father_Mourning_Mother/ ) ( 2020 | 텍스트, 퍼즐, 어드벤처 | Somi | Somi, indienova )
+#### [Three of Cards | 세 장의 카드]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
 #### U
 #### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | 소울라이크, 액션RPG | Megusta Game | NEOWIZ )
