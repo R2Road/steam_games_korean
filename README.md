@@ -1,4 +1,4 @@
-<a href="https://discord.com/channels/970932025802489866/1031499005923958794"><img src="https://img.shields.io/badge/Discord-steam__games__korean-orange" alt="discord"></a>
+<a href="https://discord.gg/UuatKREt"><img src="https://img.shields.io/badge/Discord-steam__games__korean-orange" alt="discord"></a>
 
 <div align=center>Steam Games Korean</div>
 <h1 align=center>
