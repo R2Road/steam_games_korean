@@ -46,7 +46,7 @@
 
 
 ## 등록된 게임 수
-* 167 개
+* 168 개
 
 
 
@@ -69,6 +69,7 @@
 #### ㄹ
 #### [라라바이 데이즈 | Lullaby Days]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
 #### [라핀 | LAPIN]( https://store.steampowered.com/app/1454540/LAPIN/ ) ( 2023 | 2D 정밀 플랫포머 | Studio Doodal )
+#### [러브 딜리버리 | Love Delivery]( https://store.steampowered.com/app/1817940/Love_Delivery/ ) ( 2022 | 미소녀 연애 시뮬레이션 | Onfire Games )
 #### [로드 오브 파티 | The Lord of the Parties]( https://store.steampowered.com/app/1602880/The_Lord_of_the_Parties/ ) ( 2022 | 2D 종스크롤 파티 슈팅 RPG | Magic Cube, Dizcon | HIKE Inc. )
 #### [루바토: 오리지널 콤플렉스 | Ruvato: Original Complex]( https://store.steampowered.com/app/1464500/Ruvato_Original_Complex/ ) ( 2020 | 액션, 플랫폼, 핵앤슬래시 | REMIMORY )
 #### [루시의 일기 | Diary of Lucie]( https://store.steampowered.com/app/1454010/Diary_of_Lucie/ ) ( 2023 | 액션, 로그라이트 | Parange Project )
@@ -190,6 +191,7 @@
 #### [Lobotomy Corporation | Monster Management Simulation]( https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/ ) ( 2018 | 괴물 관리, 로그라이트, 시뮬레이션 | ProjectMoon )
 #### [Lost Eidolons]( https://store.steampowered.com/app/1580520/Lost_Eidolons/ ) ( 2022 | 턴제, SRPG | Ocean Drive Studio, Inc. )
 #### [Lost Ruins]( https://store.steampowered.com/app/1306630/Lost_Ruins/ ) ( 2021 | 2D, 횡스크롤, 생존, 액션 | ALTARI GAMES | DANGEN Entertainment )
+#### [Love Delivery | 러브 딜리버리]( https://store.steampowered.com/app/1817940/Love_Delivery/ ) ( 2022 | 미소녀 연애 시뮬레이션 | Onfire Games )
 #### [Love Too Easily | 과몰입금지]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
 #### [Lu Bu Maker | 여포키우기]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [Lullaby Days | 라라바이 데이즈]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
