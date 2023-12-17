@@ -46,7 +46,7 @@
 
 
 ## 등록된 게임 수
-* 168 개
+* 169 개
 
 
 
@@ -192,6 +192,7 @@
 #### [Lost Eidolons]( https://store.steampowered.com/app/1580520/Lost_Eidolons/ ) ( 2022 | 턴제, SRPG | Ocean Drive Studio, Inc. )
 #### [Lost Ruins]( https://store.steampowered.com/app/1306630/Lost_Ruins/ ) ( 2021 | 2D, 횡스크롤, 생존, 액션 | ALTARI GAMES | DANGEN Entertainment )
 #### [Love Delivery | 러브 딜리버리]( https://store.steampowered.com/app/1817940/Love_Delivery/ ) ( 2022 | 미소녀 연애 시뮬레이션 | Onfire Games )
+#### [Love in Login]( https://store.steampowered.com/app/2661620/Love_in_Login/ ) ( ? | 비주얼 노벨 | Metacraft, Onfire Games | Smilegate Stove )
 #### [Love Too Easily | 과몰입금지]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
 #### [Lu Bu Maker | 여포키우기]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [Lullaby Days | 라라바이 데이즈]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
