@@ -46,7 +46,7 @@
 
 
 ## 등록된 게임 수
-* 169 개
+* 170 개
 
 
 
@@ -142,6 +142,7 @@
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | 2D, 액션, 로그라이크, 플랫폼 | TeamSuneat | Neowiz )
 #### [Blindia]( https://store.steampowered.com/app/943510/Blindia/ ) ( 2018 | 탑 다운 슈팅 퍼즐 | IndigoBlue Game Studio | PsychoFlux Entertainment )
 #### [Blue Wednesday | 블루 웬즈데이]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
+#### [Brain Meltdown - Into Despair]( https://store.steampowered.com/app/1476350/Brain_Meltdown__Into_Despair/ ) ( 2020 | 플랫포머 | Onfire Games )
 #### [Buff Knight Advanced]( https://store.steampowered.com/app/385440/Buff_Knight_Advanced/ ) ( 2015 | 2D, RPG | Buff Studio Co.,Ltd. )
 #### C
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | 로그라이트, 1인칭 공포 | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
