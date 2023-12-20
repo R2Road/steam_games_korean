@@ -46,7 +46,7 @@
 
 
 ## 등록된 게임 수
-* 171 개
+* 172 개
 
 
 
@@ -87,6 +87,7 @@
 #### [비포 더 나이트 | Before The Night]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
 #### ㅅ
 #### [사그레스 | Sagres]( https://store.steampowered.com/app/2120310/sagres/ ) ( 2023 | 역사, 항해, 어드벤처 | ooze | Kakehashi Games )
+#### [사람 속에 피는 꽃 | Flower in Us]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
 #### [사망여각 | 8Doors: Arum's Afterlife Adventure]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
 #### [산나비 | SANABI: The Revenant]( https://store.steampowered.com/app/1562700/SANABI/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
 #### [산타는 교복을 입을 수 밖에 없어 | Adolescent Santa Claus]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
@@ -173,6 +174,7 @@
 #### F
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | 퍼즐 RPG | WIDStudio | CFK Co., Ltd. )
 #### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
+#### [Flower in Us | 사람 속에 피는 꽃]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
 #### [Flowers Blooming at the End of Summer | 여름의 끝에 피는 꽃]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
 #### H
