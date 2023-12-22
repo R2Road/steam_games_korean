@@ -45,8 +45,9 @@
 
 
 
+<br><br>
 ## 등록된 게임 수
-* 172 개
+* 173 개
 
 
 
@@ -106,6 +107,7 @@
 #### [오구와 비밀의 숲 | Ogu and the Secret Forest]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
 #### [유튜버 서바이버즈 | Youtuber Survivors]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
 #### [이터널 리턴 | Eternal Return]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
+#### [인과율 | Causality]( https://store.steampowered.com/app/1158720/Causality/ ) ( 2021 | 서바이벌 호러 | WAFFLE GAMES | PsychoFlux Entertainment )
 #### ㅈ
 #### [장화홍련: 기억의 조각 | Rose and Lotus: Petals of Memories]( https://store.steampowered.com/app/699710/Rose_and_Lotus_Petals_of_Memories/ ) ( 2023 | 2D, 포인트앤클릭 | 5minlab Corp. )
 #### [조선메타실록 | Korea Dynasty]( https://store.steampowered.com/app/2216600/Korea_Dynasty/ ) ( 2023 | 오픈월드 생존 탐험 | (주)행복한다람쥐단( Happy Daram Inc. ) )
@@ -147,6 +149,7 @@
 #### [Brain Meltdown - Into Despair]( https://store.steampowered.com/app/1476350/Brain_Meltdown__Into_Despair/ ) ( 2020 | 플랫포머 | Onfire Games )
 #### [Buff Knight Advanced]( https://store.steampowered.com/app/385440/Buff_Knight_Advanced/ ) ( 2015 | 2D, RPG | Buff Studio Co.,Ltd. )
 #### C
+#### [Causality | 인과율]( https://store.steampowered.com/app/1158720/Causality/ ) ( 2021 | 서바이벌 호러 | WAFFLE GAMES | PsychoFlux Entertainment )
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | 로그라이트, 1인칭 공포 | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
 #### [Colorzzle]( https://store.steampowered.com/app/818500/Colorzzle/ ) ( 2018 | 퍼즐 | Darong Studio | PsychoFlux Entertainment )
