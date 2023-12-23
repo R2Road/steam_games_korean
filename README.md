@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 173 개
+* 174 개
 
 
 
@@ -56,6 +56,7 @@
 
 #### ㄱ
 #### [과몰입금지 | Love Too Easily]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
+#### [그래비티 캐슬 | Gravity Castle]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
 #### [기적의 분식집 | Miracle Snack Shop]( https://store.steampowered.com/app/995460/Miracle_Snack_Shop/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. )
 #### [길고양이 이야기 | A Street Cat's Tale]( https://store.steampowered.com/app/1140570/A_Street_Cats_Tale/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
 #### ㄴ
@@ -180,6 +181,8 @@
 #### [Flower in Us | 사람 속에 피는 꽃]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
 #### [Flowers Blooming at the End of Summer | 여름의 끝에 피는 꽃]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
+#### G
+#### [Gravity Castle | 그래비티 캐슬]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
 #### H
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
 #### [HYNPYTOL]( https://store.steampowered.com/app/2520000/HYNPYTOL/ ) ( 2023 | 액션 퍼즐 어드벤쳐 | base0 )
