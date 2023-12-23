@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 174 개
+* 175 개
 
 
 
@@ -123,6 +123,8 @@
 #### [편집장 | THE EDITOR]( https://store.steampowered.com/app/2310920/THE_EDITOR/ ) ( 2023 | 신문 편집 어드벤처 | DECATREE GAMES )
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 #### [피피숲의 연금술사 | Alchemist of Pipi Forest]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
+#### _
+#### [_전언: | _message:]( https://store.steampowered.com/app/2659150/_message/ ) ( 2023 | 공포, 텍스트 어드벤처 | TEAM 217 | PsychoFlux Entertainment )
 #### P
 #### [P의 거짓 | Lies of P]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ )
 
@@ -321,6 +323,8 @@
 #### [Youtuber Survivors | 유튜버 서바이버즈]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
 #### Z
 #### [Zelter]( https://store.steampowered.com/app/1193340/Zelter/ ) ( 2020 | 포스트아포칼립스, 생존 | G1 Playground | SuperGG.com )
+#### _
+#### [_message: | _전언:]( https://store.steampowered.com/app/2659150/_message/ ) ( 2023 | 공포, 텍스트 어드벤처 | TEAM 217 | PsychoFlux Entertainment )
 #### 2
 #### [21 Days]( https://store.steampowered.com/app/607660/21_Days/ ) ( 2017 | 난민 시뮬레이션 | Hardtalk Studio )
 #### 3
