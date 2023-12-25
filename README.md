@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 175 개
+* 176 개
 
 
 
@@ -114,6 +114,7 @@
 #### [조선메타실록 | Korea Dynasty]( https://store.steampowered.com/app/2216600/Korea_Dynasty/ ) ( 2023 | 오픈월드 생존 탐험 | (주)행복한다람쥐단( Happy Daram Inc. ) )
 #### [지구멸망 60초전! -운석배구 편- | Meteor Volleyball!]( https://store.steampowered.com/app/1816080/Meteor_Volleyball/ ) ( 2022 | 횡스크롤 2d 배구 게임 | AvoCavo )
 #### ㅋ
+#### [쿠시의 엄천난 모험!! | Cush's Amazin' Adventure!!]( https://store.steampowered.com/app/2276110/Cushs_Amazin_Adventure/ ) ( 2023 | RPG, 어드벤처 | CushKim | PsychoFlux Entertainment )
 #### [크로노 아크 | Chrono Ark]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
 #### ㅌ
 #### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
@@ -158,6 +159,7 @@
 #### [Colorzzle]( https://store.steampowered.com/app/818500/Colorzzle/ ) ( 2018 | 퍼즐 | Darong Studio | PsychoFlux Entertainment )
 #### [CRANGA!: Harbor Frenzy]( https://store.steampowered.com/app/517970/CRANGA_Harbor_Frenzy/ ) ( 2016 | VR 퍼즐 | HandMade Game )
 #### [Crazy Farm : VRGROUND]( https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/ ) ( 2018 | 파티 게임 | Jamong Inc. )
+#### [Cush's Amazin' Adventure!! | 쿠시의 엄천난 모험!!]( https://store.steampowered.com/app/2276110/Cushs_Amazin_Adventure/ ) ( 2023 | RPG, 어드벤처 | CushKim | PsychoFlux Entertainment )
 #### [Cute Invaders]( https://store.steampowered.com/app/1709780/Cute_Invaders/ ) ( 2022 | 2D, 슈팅, 어드벤쳐 | Magic Cube )
 #### D
 #### [Dandelion - Wishes brought to you -]( https://store.steampowered.com/app/321290/Dandelion__Wishes_brought_to_you/ ) ( 2012 | 여성향 연애 육성 시뮬레이션 | Sujin Ri, Marcos Arroyo, Seona Lee, Somi Lee, Sohyeon Jeon | Cheritz )
