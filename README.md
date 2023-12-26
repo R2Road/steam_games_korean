@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 177 개
+* 178 개
 
 
 
@@ -61,6 +61,7 @@
 #### [길고양이 이야기 | A Street Cat's Tale]( https://store.steampowered.com/app/1140570/A_Street_Cats_Tale/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
 #### ㄴ
 #### [난중설화 | The Tales of Imjin War]( https://store.steampowered.com/app/1963080/_The_Tales_of_Imjin_War/ ) ( 2022 | 벨트스크롤 액션 RPG | Devmaru Inc. )
+#### [냥냥펀치! | Nyan-Nyan Punch!]( https://store.steampowered.com/app/2312340/NyanNyan_Punch/ ) ( 2023 | 1vs1 액션 | Nomary | PsychoFlux Entertainment )
 #### [네바에 | Nevaeh]( https://store.steampowered.com/app/1222090/Nevaeh/ ) ( 2020 | 2D, 액션, 퍼즐, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
 #### [닌자 일섬 | Ninja Issen (忍者一閃)]( https://store.steampowered.com/app/1714550/__Ninja_Issen/ ) ( 2023 | 하이퍼 닌자 액션 | ASTEROID-J | CFK Co., Ltd. )
 #### ㄷ
@@ -247,6 +248,7 @@
 #### [Night of the Dead]( https://store.steampowered.com/app/1377380/Night_of_the_Dead/ ) ( 2020 | 생존, 기지건설 | jacktostudios )
 #### [Ninja Issen (忍者一閃) | 닌자 일섬]( https://store.steampowered.com/app/1714550/__Ninja_Issen/ ) ( 2023 | 하이퍼 닌자 액션 | ASTEROID-J | CFK Co., Ltd. )
 #### [No Umbrellas Allowed]( https://store.steampowered.com/app/1301390/No_Umbrellas_Allowed/ ) ( 2021 | 상점 운영 시뮬레이션 | Hoochoo Game Studios )
+#### [Nyan-Nyan Punch! | 냥냥펀치!]( https://store.steampowered.com/app/2312340/NyanNyan_Punch/ ) ( 2023 | 1vs1 액션 | Nomary | PsychoFlux Entertainment )
 #### O
 #### [Ogu and the Secret Forest | 오구와 비밀의 숲]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
 #### [oldTail]( https://store.steampowered.com/app/813920/oldTail/ ) ( 2018 | 3인칭 액션 | BK dddDang )
