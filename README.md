@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 176 개
+* 177 개
 
 
 
@@ -204,6 +204,7 @@
 #### [Lies of P | P의 거짓]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ )
 #### [Little Witch in the Woods | 숲속의 작은 마녀]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
 #### [Lobotomy Corporation | Monster Management Simulation]( https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/ ) ( 2018 | 괴물 관리, 로그라이트, 시뮬레이션 | ProjectMoon )
+#### [Lonely White]( https://store.steampowered.com/app/2093020/Lonely_White/ ) ( 2022 | 어드벤처 RPG | Nomary | PsychoFlux Entertainment )
 #### [Lost Eidolons]( https://store.steampowered.com/app/1580520/Lost_Eidolons/ ) ( 2022 | 턴제, SRPG | Ocean Drive Studio, Inc. )
 #### [Lost Ruins]( https://store.steampowered.com/app/1306630/Lost_Ruins/ ) ( 2021 | 2D, 횡스크롤, 생존, 액션 | ALTARI GAMES | DANGEN Entertainment )
 #### [Love Delivery | 러브 딜리버리]( https://store.steampowered.com/app/1817940/Love_Delivery/ ) ( 2022 | 미소녀 연애 시뮬레이션 | Onfire Games )
