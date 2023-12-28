@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 178 개
+* 179 개
 
 
 
@@ -317,6 +317,7 @@
 #### [Vapor World: Over The Mind]( https://store.steampowered.com/app/1996090/Vapor_World_Over_The_Mind/ ) ( ? | 액션 어드벤처 플랫포머 | ALIVE Inc. | TBA )
 #### [Vectorium]( https://store.steampowered.com/app/712870/Vectorium/ ) ( 2018 | 아케이드 슈팅 | IndigoBlue Game Studio )
 #### [VINE]( https://store.steampowered.com/app/1832130/VINE/ ) ( 2023 | 퍼즐, 로프액션 | FrogParty | OurTurn Games )
+#### [VOXEL HORIZON]( https://store.steampowered.com/app/1221390/VOXEL_HORIZON/ ) ( 2020 | 롤플레잉, 샌드박스 | Ice Shovel Soft )
 #### W
 #### [White Day: A Labyrinth Named School]( https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/ ) ( 2017 | 1인칭 공포 | SONNORI Corp | Pqube, SONNORI Corp )
 #### [White Day2: The Flower That Tells Lies]( https://store.steampowered.com/app/2078040/White_Day2_The_Flower_That_Tells_Lies__EP1/ ) ( 2023 | 1인칭 공포 | Rootnstudio Ltd. )
