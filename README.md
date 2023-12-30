@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 181 개
+* 182 개
 
 
 
@@ -105,6 +105,7 @@
 #### ㅇ
 #### [아라하 : 이은도의 저주 | Araha : Curse of Yieun Island]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
 #### [엑스 인베이더 | X Invader]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
+#### [엠버스 러브: 잔불의 사랑 | Ember's Love]( https://store.steampowered.com/app/2153900/Embers_Love/ ) ( 2023 | 덱 빌딩 RPG | LeeBbunsik | PsychoFlux Entertainment )
 #### [여름의 끝에 피는 꽃 | Flowers Blooming at the End of Summer]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [여포키우기 | Lu Bu Maker]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [오구와 비밀의 숲 | Ogu and the Secret Forest]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
@@ -178,6 +179,7 @@
 #### [Dungeon Warfare 2]( https://store.steampowered.com/app/698540/Dungeon_Warfare_2/ ) ( 2018 | 타워 디펜스 | Valsar )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | 2D, 로그라이트, 횡스크롤 액션 | TEAM HORAY )
 #### E
+#### [Ember's Love | 엠버스 러브: 잔불의 사랑]( https://store.steampowered.com/app/2153900/Embers_Love/ ) ( 2023 | 덱 빌딩 RPG | LeeBbunsik | PsychoFlux Entertainment )
 #### [Eternal Return | 이터널 리턴]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
 #### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼 | Jaemin Park | PsychoFlux Entertainment )
 #### [EZ2ON REBOOT : R]( https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/ ) ( 2022 | 리듬 게임 | Neonovice Co., Ltd., SQUARE PIXELS | Neonovice Co., Ltd. )
