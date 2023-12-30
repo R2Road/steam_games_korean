@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 182 개
+* 183 개
 
 
 
@@ -154,6 +154,7 @@
 #### [Blindia]( https://store.steampowered.com/app/943510/Blindia/ ) ( 2018 | 탑 다운 슈팅 퍼즐 | IndigoBlue Game Studio | PsychoFlux Entertainment )
 #### [Blue Wednesday | 블루 웬즈데이]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
 #### [Brain Meltdown - Into Despair]( https://store.steampowered.com/app/1476350/Brain_Meltdown__Into_Despair/ ) ( 2020 | 플랫포머 | Onfire Games )
+#### [Broken Blade: Prelude]( https://store.steampowered.com/app/2153950/Broken_Blade_Prelude/ ) ( 2023 | SRPG | DakeCraft | PsychoFlux Entertainment )
 #### [Buff Knight Advanced]( https://store.steampowered.com/app/385440/Buff_Knight_Advanced/ ) ( 2015 | 2D, RPG | Buff Studio Co.,Ltd. )
 #### C
 #### [Causality | 인과율]( https://store.steampowered.com/app/1158720/Causality/ ) ( 2021 | 서바이벌 호러 | WAFFLE GAMES | PsychoFlux Entertainment )
