@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 184 개
+* 185 개
 
 
 
@@ -99,6 +99,7 @@
 #### [세 장의 카드 | Three of Cards]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
 #### [세븐데이즈 오리진 | 7Days Origins]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
+#### [스플릿 스퀘어 | Split square]( https://store.steampowered.com/app/2491130/Split_square/ ) ( 2023 | 덱 빌딩 로그라이크 | Shedin )
 #### [식스타 게이트: 스타트레일 | Sixtar Gate: STARTRAIL]( https://store.steampowered.com/app/1802720/Sixtar_Gate_STARTRAIL/ ) ( 2021 | 건반형 리듬 게임 | Lyrebird Studio, Starlike Inc. | CFK Co., Ltd. )
 #### [실망실업자]( https://store.steampowered.com/app/371120/_/ ) ( 2015 | 진보적 시각 소설 | YGGDRASIL STUDIO )
 #### ㅆ
@@ -300,6 +301,7 @@
 #### [Some Some Convenience Store | 썸썸 편의점]( https://store.steampowered.com/app/1217390/Some_Some_Convenience_Store/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [Space God]( https://store.steampowered.com/app/637120/Space_God/ ) ( 2018 | 탑 다운 슈팅 | Jellypig Games | Jellypig Games, PsychoFlux Entertainment )
 #### [SPLIT BULLET]( https://store.steampowered.com/app/449450/SPLIT_BULLET/ ) ( 2016 | 탄막슈팅 | IndigoBlue Game Studio | PsychoFlux Entertainment )
+#### [Split square | 스플릿 스퀘어]( https://store.steampowered.com/app/2491130/Split_square/ ) ( 2023 | 덱 빌딩 로그라이크 | Shedin )
 #### [Star Island]( https://store.steampowered.com/app/1391960/Star_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Subterrain]( https://store.steampowered.com/app/340490/Subterrain/ ) ( 2016 | 턴 기반 생존 RPG | Pixellore Inc )
 #### T
