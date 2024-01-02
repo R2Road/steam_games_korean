@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 185 개
+* 186 개
 
 
 
@@ -173,6 +173,7 @@
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
 #### [Day Island]( https://store.steampowered.com/app/1361150/Day_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Deep Dark Dungeon]( https://store.steampowered.com/app/496290/Deep_Dark_Dungeon/ ) ( 2018 | 로그라이트, 액션 | GlassCats | GlassCats, PsychoFlux Entertainment )
+#### [DEFECTIVE]( https://store.steampowered.com/app/2153850/DEFECTIVE/ ) ( 2023 | 어드벤처 | CushKim | PsychoFlux Entertainment )
 #### [Deneb: Across the Stars | 데네브: 별을 건너서]( https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars/ ) ( 2022 | 탑다운 하드코어 플랫포머 | SEROSOO )
 #### [Diary of Lucie | 루시의 일기]( https://store.steampowered.com/app/1454010/Diary_of_Lucie/ ) ( 2023 | 액션, 로그라이트 | Parange Project )
 #### [DJMAX RESPECT V]( https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/ ) ( 2020 | 리듬게임 | NEOWIZ )
