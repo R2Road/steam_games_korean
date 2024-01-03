@@ -274,12 +274,65 @@ Function ExportList( sheet as Variant, active_area_start_y as Integer, active_ar
 		
 		
 		'
-		' Company : 개발사, 퍼블리셔 정보가 같다면 하나로 표시한다.
+		' Company
+		'  > 개발사, 퍼블리셔 정보가 각 각 1개 이고
+		'  > 개발사, 퍼블리셔 정보가 같다면
+		'  > 개발사 정보만 표시한다.
 		'
-		If sheet.getCellByPosition( 6, i ).String = sheet.getCellByPosition( 7, i ).String Then
+		If sheet.getCellByPosition( 6, i ).String = sheet.getCellByPosition( 8, i ).String _
+			And ( sheet.getCellByPosition( 7, i ).String = "" ) _
+			And ( sheet.getCellByPosition( 9, i ).String = "" ) _
+			And ( sheet.getCellByPosition( 10, i ).String = "" ) Then
+			
 			company = sheet.getCellByPosition( 6, i ).String
+			
 		Else
-			company = sheet.getCellByPosition( 6, i ).String & " | " & sheet.getCellByPosition( 7, i ).String
+		
+			'
+			' 개발자 정보 1
+			'
+			company = sheet.getCellByPosition( 6, i ).String
+			
+			'
+			' 개발자 정보 2
+			'
+			If sheet.getCellByPosition( 7, i ).String <> "" Then
+				company = _
+						company _
+					& 	", " _
+					& 	sheet.getCellByPosition( 7, i ).String
+			End If
+			
+			
+			
+			'
+			' 퍼블리셔 정보 1
+			'
+			company = _
+						company _
+					& 	" | " _
+					& 	sheet.getCellByPosition( 8, i ).String
+					
+			'
+			' 퍼블리셔 정보 2
+			'
+			If sheet.getCellByPosition( 9, i ).String <> "" Then
+				company = _
+						company _
+					& 	", " _
+					& 	sheet.getCellByPosition( 9, i ).String
+			End If
+			
+			'
+			' 퍼블리셔 정보 3
+			'
+			If sheet.getCellByPosition( 10, i ).String <> "" Then
+				company = _
+						company _
+					& 	", " _
+					& 	sheet.getCellByPosition( 10, i ).String
+			End If
+			
 		EndIf
     	
     	
