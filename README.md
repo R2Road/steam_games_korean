@@ -275,7 +275,7 @@
 #### [RaidTitans]( https://store.steampowered.com/app/1203140/RaidTitans/ ) ( 2020 | 실시간 전략 RPG | RainbowStudio )
 #### [Rain Island]( https://store.steampowered.com/app/1254930/Rain_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Rain Island: Orange]( https://store.steampowered.com/app/1660270/Rain_Island_Orange/ ) ( 2021 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
-#### [Ratopia]( https://store.steampowered.com/app/2244130/Ratopia/ ) ( 2023Q4 예정 | 경제 전략 서바이벌, 샌드박스, 도시건설 | Cassel Games )
+#### [Ratopia]( https://store.steampowered.com/app/2244130/Ratopia/ ) ( 2023 | 경제 전략 서바이벌, 샌드박스, 도시건설 | Cassel Games )
 #### [Ratropolis]( https://store.steampowered.com/app/1108370/Ratropolis/ ) ( 2020 | 덱빌딩, 타워 디펜스 | Cassel Games )
 #### [Red Island]( https://store.steampowered.com/app/1114740/Red_Island/ ) ( 2019 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [RemiLore: Lost Girl in the Lands of Lore]( https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/ ) ( 2019 | 액션, 로그라이크 | Pixellore Inc, REMIMORY | Nicalis, Inc. )
