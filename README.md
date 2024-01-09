@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 190 개
+* 191 개
 
 
 
@@ -115,6 +115,7 @@
 #### [유튜버 서바이버즈 | Youtuber Survivors]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
 #### [이터널 리턴 | Eternal Return]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
 #### [인과율 | Causality]( https://store.steampowered.com/app/1158720/Causality/ ) ( 2021 | 서바이벌 호러 | WAFFLE GAMES | PsychoFlux Entertainment )
+#### [일레븐지스: 플라스크 | Elevenses: The Flask]( https://store.steampowered.com/app/1165230/Elevenses_The_Flask/ ) ( 2022 | 비주얼 노벨 | REDRAY | PsychoFlux Entertainment )
 #### ㅈ
 #### [장화홍련: 기억의 조각 | Rose and Lotus: Petals of Memories]( https://store.steampowered.com/app/699710/Rose_and_Lotus_Petals_of_Memories/ ) ( 2023 | 2D, 포인트앤클릭 | 5minlab Corp. )
 #### [조선메타실록 | Korea Dynasty]( https://store.steampowered.com/app/2216600/Korea_Dynasty/ ) ( 2023 | 오픈월드 생존 탐험 | (주)행복한다람쥐단( Happy Daram Inc. ) )
@@ -188,6 +189,7 @@
 #### [Dungeon Warfare 2]( https://store.steampowered.com/app/698540/Dungeon_Warfare_2/ ) ( 2018 | 타워 디펜스 | Valsar )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | 2D, 로그라이트, 횡스크롤 액션 | TEAM HORAY )
 #### E
+#### [Elevenses: The Flask | 일레븐지스: 플라스크]( https://store.steampowered.com/app/1165230/Elevenses_The_Flask/ ) ( 2022 | 비주얼 노벨 | REDRAY | PsychoFlux Entertainment )
 #### [Ember's Love | 엠버스 러브: 잔불의 사랑]( https://store.steampowered.com/app/2153900/Embers_Love/ ) ( 2023 | 덱 빌딩 RPG | LeeBbunsik | PsychoFlux Entertainment )
 #### [Eternal Return | 이터널 리턴]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
 #### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼 | Jaemin Park | PsychoFlux Entertainment )
