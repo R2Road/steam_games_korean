@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 188 개
+* 189 개
 
 
 
@@ -66,6 +66,7 @@
 #### [네바에 | Nevaeh]( https://store.steampowered.com/app/1222090/Nevaeh/ ) ( 2020 | 2D, 액션, 퍼즐, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
 #### [닌자 일섬 | Ninja Issen (忍者一閃)]( https://store.steampowered.com/app/1714550/__Ninja_Issen/ ) ( 2023 | 하이퍼 닌자 액션 | ASTEROID-J | CFK Co., Ltd. )
 #### ㄷ
+#### [다이 크리쳐 | Thy Creature]( https://store.steampowered.com/app/1603720/Thy_Creature/ ) ( 2022 | 어드벤처 | Growing Seeds )
 #### [더 램지 | The Ramsey]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
 #### [더 스파이크 | The Spike]( https://store.steampowered.com/app/1296840/The_Spike/ ) ( 2020 | 2D 배구 | SUNCYAN studio | PsychoFlux Entertainment )
 #### [던전 로드 | Dungeon Lord]( https://store.steampowered.com/app/1429670/Dungeon_Lord/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. )
@@ -328,6 +329,7 @@
 #### [The Tales of Imjin War | 난중설화]( https://store.steampowered.com/app/1963080/_The_Tales_of_Imjin_War/ ) ( 2022 | 벨트스크롤 액션 RPG | Devmaru Inc. )
 #### [The Wake: Mourning Father, Mourning Mother]( https://store.steampowered.com/app/1311540/The_Wake_Mourning_Father_Mourning_Mother/ ) ( 2020 | 텍스트, 퍼즐, 어드벤처 | Somi | Somi, indienova )
 #### [Three of Cards | 세 장의 카드]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
+#### [Thy Creature | 다이 크리쳐]( https://store.steampowered.com/app/1603720/Thy_Creature/ ) ( 2022 | 어드벤처 | Growing Seeds )
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
 #### U
 #### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | 소울라이크, 액션RPG | Megusta Game | NEOWIZ )
