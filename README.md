@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 189 개
+* 190 개
 
 
 
@@ -153,6 +153,7 @@
 #### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
 #### [ASCENXION]( https://store.steampowered.com/app/1000000/ASCENXION/ ) ( 2021 | 2D 슈팅 액션 | IndigoBlue Game Studio | PsychoFlux Entertainment )
 #### [ASTRA: Knights of Veda | 별이되어라2: 베다의 기사들]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( ? | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
+#### [AstroWings: Space War]( https://store.steampowered.com/app/1326920/AstroWings_Space_War/ ) ( 2020 | 탄막 비행 슈팅 | Toward Inc. )
 #### B
 #### [Battery Samurai]( https://store.steampowered.com/app/2376780/Battery_Samurai/ ) ( 2023 | 어드벤처 | Matthewstone )
 #### [Before The Night | 비포 더 나이트]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
