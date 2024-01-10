@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 190 개
+* 191 개
 
 
 
@@ -157,6 +157,7 @@
 #### B
 #### [Battery Samurai]( https://store.steampowered.com/app/2376780/Battery_Samurai/ ) ( 2023 | 어드벤처 | Matthewstone )
 #### [Before The Night | 비포 더 나이트]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
+#### [Black Academy]( https://store.steampowered.com/app/1602390/Black_Academy/ ) ( 2023 | 횡스크롤 슈팅, 로그라이트 | Catdoors |  )
 #### [BLACK WITCHCRAFT]( https://store.steampowered.com/app/1557410/BLACK_WITCHCRAFT/ ) ( 2022 | 2D, 고딕, 액션RPG | QuattroGear | CREST )
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | 2D, 액션, 로그라이크, 플랫폼 | TeamSuneat | NEOWIZ )
 #### [Blindia]( https://store.steampowered.com/app/943510/Blindia/ ) ( 2018 | 탑 다운 슈팅 퍼즐 | IndigoBlue Game Studio | PsychoFlux Entertainment )
