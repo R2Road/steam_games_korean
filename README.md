@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 195 개
+* 196 개
 
 
 
@@ -89,6 +89,7 @@
 #### [모태솔로 | Motesolo : No Girlfriend Since Birth]( https://store.steampowered.com/app/1414180/Motesolo__No_Girlfriend_Since_Birth/ ) ( 2021 | 인터렉티브 무비 | INDICAVA INTERACTIVE )
 #### [문경새재 | Seonbi : Scholar of Joseon]( https://store.steampowered.com/app/1925860/Seonbi__Scholar_of_Joseon/ ) ( 2023 | 횡스크롤 액션 로그라이트 | Team ETTU )
 #### ㅂ
+#### [배고픈 원시인 | Hungry Caveman]( https://store.steampowered.com/app/2166250/Hungry_Caveman/ ) ( 2023 | 어드벤처 | RainbowStudio )
 #### [별이되어라2: 베다의 기사들 | ASTRA: Knights of Veda]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( ? | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
 #### [블루 웬즈데이 | Blue Wednesday]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
 #### [비포 더 나이트 | Before The Night]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
@@ -209,6 +210,7 @@
 #### [Gravity Castle | 그래비티 캐슬]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
 #### H
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
+#### [Hungry Caveman | 배고픈 원시인]( https://store.steampowered.com/app/2166250/Hungry_Caveman/ ) ( 2023 | 어드벤처 | RainbowStudio )
 #### [HYNPYTOL]( https://store.steampowered.com/app/2520000/HYNPYTOL/ ) ( 2023 | 액션 퍼즐 어드벤쳐 | base0 )
 #### I
 #### [in My MIND.]( https://store.steampowered.com/app/859370/in_My_MIND/ ) ( 2018 | 슈팅 | P.S.B (iNsOoL) | PsychoFlux Entertainment )
