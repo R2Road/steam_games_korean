@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 196 개
+* 197 개
 
 
 
@@ -213,6 +213,7 @@
 #### [Hungry Caveman | 배고픈 원시인]( https://store.steampowered.com/app/2166250/Hungry_Caveman/ ) ( 2023 | 어드벤처 | RainbowStudio )
 #### [HYNPYTOL]( https://store.steampowered.com/app/2520000/HYNPYTOL/ ) ( 2023 | 액션 퍼즐 어드벤쳐 | base0 )
 #### I
+#### [Idle Catfarmia]( https://store.steampowered.com/app/2399080/Idle_Catfarmia/ ) ( 2023 | 방치형 농장 관리 게임 | RainbowStudio )
 #### [in My MIND.]( https://store.steampowered.com/app/859370/in_My_MIND/ ) ( 2018 | 슈팅 | P.S.B (iNsOoL) | PsychoFlux Entertainment )
 #### [Infinite Sunshine Dust]( https://store.steampowered.com/app/673810/Infinite_Sunshine_Dust/ ) ( 2018 | 공포, 어드벤처 | Kena MAKF )
 #### K
