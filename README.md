@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 197 개
+* 198 개
 
 
 
@@ -102,6 +102,7 @@
 #### [세 장의 카드 | Three of Cards]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
 #### [세븐데이즈 오리진 | 7Days Origins]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
+#### [스도쿠 알피지 | Sudoku RPG]( https://store.steampowered.com/app/1474200/Sudoku_RPG/ ) ( 2021 | 퍼즐, RPG | RainbowStudio )
 #### [스플릿 스퀘어 | Split square]( https://store.steampowered.com/app/2491130/Split_square/ ) ( 2023 | 덱 빌딩 로그라이크 | Shedin )
 #### [식스타 게이트: 스타트레일 | Sixtar Gate: STARTRAIL]( https://store.steampowered.com/app/1802720/Sixtar_Gate_STARTRAIL/ ) ( 2021 | 건반형 리듬 게임 | Lyrebird Studio, Starlike Inc. | CFK Co., Ltd. )
 #### [실망실업자]( https://store.steampowered.com/app/371120/_/ ) ( 2015 | 진보적 시각 소설 | YGGDRASIL STUDIO )
@@ -324,6 +325,7 @@
 #### [Split square | 스플릿 스퀘어]( https://store.steampowered.com/app/2491130/Split_square/ ) ( 2023 | 덱 빌딩 로그라이크 | Shedin )
 #### [Star Island]( https://store.steampowered.com/app/1391960/Star_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Subterrain]( https://store.steampowered.com/app/340490/Subterrain/ ) ( 2016 | 턴 기반 생존 RPG | Pixellore Inc )
+#### [Sudoku RPG | 스도쿠 알피지]( https://store.steampowered.com/app/1474200/Sudoku_RPG/ ) ( 2021 | 퍼즐, RPG | RainbowStudio )
 #### T
 #### [Teamfight Manager | 팀파이트 매니저]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
 #### [The Callisto Protocol™]( https://store.steampowered.com/app/1544020/The_Callisto_Protocol/ ) ( 2022 | SF, 생존, 공포, 3인칭 슈팅 | Striking Distance Studios | KRAFTON, Inc. )
