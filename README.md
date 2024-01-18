@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 199 개
+* 200 개
 
 
 
@@ -203,6 +203,7 @@
 #### [EZ2ON REBOOT : R]( https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/ ) ( 2022 | 리듬 게임 | Neonovice Co., Ltd., SQUARE PIXELS | Neonovice Co., Ltd. )
 #### F
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | 퍼즐 RPG | WIDStudio | CFK Co., Ltd. )
+#### [Fantasy Fishing Town]( https://store.steampowered.com/app/1904040/Fantasy_Fishing_Town/ ) ( 2022 | 횡스크롤 낚시 | RainbowStudio )
 #### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [First Snow | 첫눈]( https://store.steampowered.com/app/2232200/First_Snow/ ) ( 2022 | 비주얼노벨 | Studio Ly | PsychoFlux Entertainment )
 #### [Flower in Us | 사람 속에 피는 꽃]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
