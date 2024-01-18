@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 198 개
+* 199 개
 
 
 
@@ -197,6 +197,7 @@
 #### E
 #### [Elevenses: The Flask | 일레븐지스: 플라스크]( https://store.steampowered.com/app/1165230/Elevenses_The_Flask/ ) ( 2022 | 비주얼 노벨 | REDRAY | PsychoFlux Entertainment )
 #### [Ember's Love | 엠버스 러브: 잔불의 사랑]( https://store.steampowered.com/app/2153900/Embers_Love/ ) ( 2023 | 덱 빌딩 RPG | LeeBbunsik | PsychoFlux Entertainment )
+#### [En-Train]( https://store.steampowered.com/app/1337030/EnTrain/ ) ( 2020 | 2D 플랫포머, 슈팅 | RainbowStudio )
 #### [Eternal Return | 이터널 리턴]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
 #### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼 | Jaemin Park | PsychoFlux Entertainment )
 #### [EZ2ON REBOOT : R]( https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/ ) ( 2022 | 리듬 게임 | Neonovice Co., Ltd., SQUARE PIXELS | Neonovice Co., Ltd. )
