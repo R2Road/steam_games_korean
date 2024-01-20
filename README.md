@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 200 개
+* 201 개
 
 
 
@@ -90,6 +90,7 @@
 #### [문경새재 | Seonbi : Scholar of Joseon]( https://store.steampowered.com/app/1925860/Seonbi__Scholar_of_Joseon/ ) ( 2023 | 횡스크롤 액션 로그라이트 | Team ETTU )
 #### ㅂ
 #### [배고픈 원시인 | Hungry Caveman]( https://store.steampowered.com/app/2166250/Hungry_Caveman/ ) ( 2023 | 어드벤처 | RainbowStudio )
+#### [베리드 스타즈 | BURIED STARS]( https://store.steampowered.com/app/1025960/BURIED_STARS/ ) ( 2021 | 어드벤처 | LINE Games Corporation )
 #### [별이되어라2: 베다의 기사들 | ASTRA: Knights of Veda]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( ? | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
 #### [블루 웬즈데이 | Blue Wednesday]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
 #### [비포 더 나이트 | Before The Night]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
@@ -168,6 +169,7 @@
 #### [Brain Meltdown - Into Despair]( https://store.steampowered.com/app/1476350/Brain_Meltdown__Into_Despair/ ) ( 2020 | 플랫포머 | Onfire Games )
 #### [Broken Blade: Prelude]( https://store.steampowered.com/app/2153950/Broken_Blade_Prelude/ ) ( 2023 | SRPG | DakeCraft | PsychoFlux Entertainment )
 #### [Buff Knight Advanced]( https://store.steampowered.com/app/385440/Buff_Knight_Advanced/ ) ( 2015 | 2D, RPG | Buff Studio )
+#### [BURIED STARS | 베리드 스타즈]( https://store.steampowered.com/app/1025960/BURIED_STARS/ ) ( 2021 | 어드벤처 | LINE Games Corporation )
 #### C
 #### [Causality | 인과율]( https://store.steampowered.com/app/1158720/Causality/ ) ( 2021 | 서바이벌 호러 | WAFFLE GAMES | PsychoFlux Entertainment )
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | 로그라이트, 1인칭 공포 | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
