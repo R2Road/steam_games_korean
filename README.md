@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 201 개
+* 202 개
 
 
 
@@ -225,6 +225,7 @@
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. )
 #### [Kill the Dictator]( https://store.steampowered.com/app/917200/Kill_the_Dictator/ ) ( 2018 | 캐쥬얼 전략 시뮬레이션 | Afeel inc, Magic Cube | Afeel inc )
 #### [Korea Dynasty | 조선메타실록]( https://store.steampowered.com/app/2216600/Korea_Dynasty/ ) ( 2023 | 오픈월드 생존 탐험 | (주)행복한다람쥐단( Happy Daram Inc. ) )
+#### [Kusan : City of Wolves]( https://store.steampowered.com/app/1714510/Kusan__City_of_Wolves/ ) ( 2024Q3 | 탑다운 슈터 | CIRCLEfromDOT )
 #### L
 #### [LAPIN | 라핀]( https://store.steampowered.com/app/1454540/LAPIN/ ) ( 2023 | 2D 정밀 플랫포머 | Studio Doodal )
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | 시뮬레이션, 어드벤처 | Somi )
