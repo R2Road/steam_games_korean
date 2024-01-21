@@ -133,7 +133,7 @@
 #### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
 #### [팀파이트 매니저 | Teamfight Manager]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
 #### ㅍ
-#### [파이널나이트 | FINAL KNIGHT]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
+#### [파이널나이트 | FINAL KNIGHT]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2024Q2 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [페치카 | Pechka: Historical Story Adventure]( https://store.steampowered.com/app/2210700/Pechka_Historical_Story_Adventure/ ) ( 2023 | 2D 어드벤처 | Growing Seeds )
 #### [편집장 | THE EDITOR]( https://store.steampowered.com/app/2310920/THE_EDITOR/ ) ( 2023 | 신문 편집 어드벤처 | DECATREE GAMES )
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
@@ -206,7 +206,7 @@
 #### F
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | 퍼즐 RPG | WIDStudio | CFK Co., Ltd. )
 #### [Fantasy Fishing Town]( https://store.steampowered.com/app/1904040/Fantasy_Fishing_Town/ ) ( 2022 | 횡스크롤 낚시 | RainbowStudio )
-#### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2023Q4 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
+#### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2024Q2 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [First Snow | 첫눈]( https://store.steampowered.com/app/2232200/First_Snow/ ) ( 2022 | 비주얼노벨 | Studio Ly | PsychoFlux Entertainment )
 #### [Flower in Us | 사람 속에 피는 꽃]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
 #### [Flowers Blooming at the End of Summer | 여름의 끝에 피는 꽃]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
