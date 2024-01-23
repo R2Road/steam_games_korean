@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 203 개
+* 204 개
 
 
 
@@ -129,6 +129,7 @@
 #### [첫눈 | First Snow]( https://store.steampowered.com/app/2232200/First_Snow/ ) ( 2022 | 비주얼노벨 | Studio Ly | PsychoFlux Entertainment )
 #### ㅋ
 #### [쿠시의 엄천난 모험!! | Cush's Amazin' Adventure!!]( https://store.steampowered.com/app/2276110/Cushs_Amazin_Adventure/ ) ( 2023 | RPG, 어드벤처 | CushKim | PsychoFlux Entertainment )
+#### [퀸즈 아이돌 | Idol Queens Production]( https://store.steampowered.com/app/1865080/Idol_Queens_Production/ ) ( 2022 | 아이돌 육성 시뮬레이션 | SUNBEESOFT )
 #### [크로노 아크 | Chrono Ark]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
 #### ㅌ
 #### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
@@ -220,6 +221,7 @@
 #### [HYNPYTOL]( https://store.steampowered.com/app/2520000/HYNPYTOL/ ) ( 2023 | 액션 퍼즐 어드벤쳐 | base0 )
 #### I
 #### [Idle Catfarmia]( https://store.steampowered.com/app/2399080/Idle_Catfarmia/ ) ( 2023 | 방치형 농장 관리 게임 | RainbowStudio )
+#### [Idol Queens Production | 퀸즈 아이돌]( https://store.steampowered.com/app/1865080/Idol_Queens_Production/ ) ( 2022 | 아이돌 육성 시뮬레이션 | SUNBEESOFT )
 #### [in My MIND.]( https://store.steampowered.com/app/859370/in_My_MIND/ ) ( 2018 | 슈팅 | P.S.B (iNsOoL) | PsychoFlux Entertainment )
 #### [Infinite Sunshine Dust]( https://store.steampowered.com/app/673810/Infinite_Sunshine_Dust/ ) ( 2018 | 공포, 어드벤처 | Kena MAKF )
 #### K
