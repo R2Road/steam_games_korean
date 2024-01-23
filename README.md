@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 202 개
+* 203 개
 
 
 
@@ -88,6 +88,7 @@
 #### [모나드의 겨울 II | Monads II]( https://store.steampowered.com/app/1386340/Monads_II/ ) ( 2020 | SRPG | Team Monad )
 #### [모태솔로 | Motesolo : No Girlfriend Since Birth]( https://store.steampowered.com/app/1414180/Motesolo__No_Girlfriend_Since_Birth/ ) ( 2021 | 인터렉티브 무비 | INDICAVA INTERACTIVE )
 #### [문경새재 | Seonbi : Scholar of Joseon]( https://store.steampowered.com/app/1925860/Seonbi__Scholar_of_Joseon/ ) ( 2023 | 횡스크롤 액션 로그라이트 | Team ETTU )
+#### [미제사건은 끝내야 하니까 | No Case Should Remain Unsolved]( https://store.steampowered.com/app/2676840/No_Case_Should_Remain_Unsolved/ ) ( 2024 | 어드벤처, 포인트 앤 클릭 | Somi )
 #### ㅂ
 #### [배고픈 원시인 | Hungry Caveman]( https://store.steampowered.com/app/2166250/Hungry_Caveman/ ) ( 2023 | 어드벤처 | RainbowStudio )
 #### [베리드 스타즈 | BURIED STARS]( https://store.steampowered.com/app/1025960/BURIED_STARS/ ) ( 2021 | 어드벤처 | LINE Games Corporation )
@@ -276,6 +277,7 @@
 #### [Nevaeh | 네바에]( https://store.steampowered.com/app/1222090/Nevaeh/ ) ( 2020 | 2D, 액션, 퍼즐, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
 #### [Night of the Dead]( https://store.steampowered.com/app/1377380/Night_of_the_Dead/ ) ( 2020 | 생존, 기지건설 | jacktostudios )
 #### [Ninja Issen (忍者一閃) | 닌자 일섬]( https://store.steampowered.com/app/1714550/__Ninja_Issen/ ) ( 2023 | 하이퍼 닌자 액션 | ASTEROID-J | CFK Co., Ltd. )
+#### [No Case Should Remain Unsolved | 미제사건은 끝내야 하니까]( https://store.steampowered.com/app/2676840/No_Case_Should_Remain_Unsolved/ ) ( 2024 | 어드벤처, 포인트 앤 클릭 | Somi )
 #### [No Umbrellas Allowed]( https://store.steampowered.com/app/1301390/No_Umbrellas_Allowed/ ) ( 2021 | 상점 운영 시뮬레이션 | Hoochoo Game Studios )
 #### [Nyan-Nyan Punch! | 냥냥펀치!]( https://store.steampowered.com/app/2312340/NyanNyan_Punch/ ) ( 2023 | 1vs1 액션 | Nomary | PsychoFlux Entertainment )
 #### O
