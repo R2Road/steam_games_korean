@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 206 개
+* 207 개
 
 
 
@@ -177,6 +177,7 @@
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | 로그라이트, 1인칭 공포 | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
 #### [Colorzzle]( https://store.steampowered.com/app/818500/Colorzzle/ ) ( 2018 | 퍼즐 | Darong Studio | PsychoFlux Entertainment )
+#### [Come on Baby!]( https://store.steampowered.com/app/1092260/Come_on_Baby/ ) ( 2019 | 아케이드, 캐주얼, 스포츠 | Expotato Corp. )
 #### [CRANGA!: Harbor Frenzy]( https://store.steampowered.com/app/517970/CRANGA_Harbor_Frenzy/ ) ( 2016 | VR 퍼즐 | HandMade Game )
 #### [Crazy Farm : VRGROUND]( https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/ ) ( 2018 | 파티 게임 | Jamong Inc. )
 #### [Cush's Amazin' Adventure!! | 쿠시의 엄천난 모험!!]( https://store.steampowered.com/app/2276110/Cushs_Amazin_Adventure/ ) ( 2023 | RPG, 어드벤처 | CushKim | PsychoFlux Entertainment )
