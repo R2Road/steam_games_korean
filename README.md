@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 207 개
+* 208 개
 
 
 
@@ -355,6 +355,7 @@
 #### [Three of Cards | 세 장의 카드]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
 #### [Thy Creature | 다이 크리쳐]( https://store.steampowered.com/app/1603720/Thy_Creature/ ) ( 2022 | 어드벤처 | Growing Seeds )
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
+#### [Twinkle Hunter]( https://store.steampowered.com/app/2266740/Twinkle_Hunter/ ) ( 2024 | 2D 액션 | Silver Cat )
 #### U
 #### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | 소울라이크, 액션RPG | Megusta Game | NEOWIZ )
 #### V
