@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 210 개
+* 211 개
 
 
 
@@ -117,6 +117,7 @@
 #### [여름의 끝에 피는 꽃 | Flowers Blooming at the End of Summer]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [여포키우기 | Lu Bu Maker]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [오구와 비밀의 숲 | Ogu and the Secret Forest]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
+#### [용사의 자격 | Qualification as Rogue]( https://store.steampowered.com/app/2308820/Qualification_as_Rogue/ ) ( 2023 | 액션 로그라이크, 플랫포머 | SUNBEESOFT )
 #### [유튜버 서바이버즈 | Youtuber Survivors]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
 #### [이터널 리턴 | Eternal Return]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
 #### [인과율 | Causality]( https://store.steampowered.com/app/1158720/Causality/ ) ( 2021 | 서바이벌 호러 | WAFFLE GAMES | PsychoFlux Entertainment )
@@ -300,6 +301,8 @@
 #### [Project Rhombus]( https://store.steampowered.com/app/735570/Project_Rhombus/ ) ( 2017 | 리듬기반 캐주얼 액션 | SEROSOO | PsychoFlux Entertainment )
 #### [PUBG: BATTLEGROUNDS]( https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/ ) ( 2017 | 배틀로얄 건플레이 | KRAFTON, Inc. )
 #### [Pygmalion]( https://store.steampowered.com/app/2234960/Pygmalion/ ) ( 2023 | 퍼즐 | CandLE )
+#### Q
+#### [Qualification as Rogue | 용사의 자격]( https://store.steampowered.com/app/2308820/Qualification_as_Rogue/ ) ( 2023 | 액션 로그라이크, 플랫포머 | SUNBEESOFT )
 #### R
 #### [Rabbit Hole 3D: Steam Edition]( https://store.steampowered.com/app/283660/Rabbit_Hole_3D_Steam_Edition/ ) ( 2014 | 퍼즐 | Somi | Zero Rock Entertainment )
 #### [RaidTitans]( https://store.steampowered.com/app/1203140/RaidTitans/ ) ( 2020 | 실시간 전략 RPG | RainbowStudio )
