@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 211 개
+* 212 개
 
 
 
@@ -286,6 +286,7 @@
 #### [Ninja Issen (忍者一閃) | 닌자 일섬]( https://store.steampowered.com/app/1714550/__Ninja_Issen/ ) ( 2023 | 하이퍼 닌자 액션 | ASTEROID-J | CFK Co., Ltd. )
 #### [No Case Should Remain Unsolved | 미제사건은 끝내야 하니까]( https://store.steampowered.com/app/2676840/No_Case_Should_Remain_Unsolved/ ) ( 2024 | 어드벤처, 포인트 앤 클릭 | Somi )
 #### [No Umbrellas Allowed]( https://store.steampowered.com/app/1301390/No_Umbrellas_Allowed/ ) ( 2021 | 상점 운영 시뮬레이션 | Hoochoo Game Studios )
+#### [NOTE]( https://store.steampowered.com/app/1039330/NOTE/ ) ( 2019 | 2D플랫포머 | PLAY Mephistowaltz )
 #### [Nyan-Nyan Punch! | 냥냥펀치!]( https://store.steampowered.com/app/2312340/NyanNyan_Punch/ ) ( 2023 | 1vs1 액션 | Nomary | PsychoFlux Entertainment )
 #### O
 #### [Ogu and the Secret Forest | 오구와 비밀의 숲]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
