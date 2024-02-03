@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 212 개
+* 213 개
 
 
 
@@ -238,6 +238,7 @@
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | 시뮬레이션, 어드벤처 | Somi )
 #### [Library Of Ruina]( https://store.steampowered.com/app/1256670/Library_Of_Ruina ) ( 2021 | 도서관 배틀 시뮬레이션 | ProjectMoon )
 #### [Lies of P | P의 거짓]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ )
+#### [Little Gods of the Abyss]( https://store.steampowered.com/app/1044410/Little_Gods_of_the_Abyss/ ) ( 2020 | 어드벤처 | PLAY Mephistowaltz )
 #### [Little Witch in the Woods | 숲속의 작은 마녀]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
 #### [Lobotomy Corporation | Monster Management Simulation]( https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/ ) ( 2018 | 괴물 관리, 로그라이트, 시뮬레이션 | ProjectMoon )
 #### [Lonely White]( https://store.steampowered.com/app/2093020/Lonely_White/ ) ( 2022 | 어드벤처 RPG | Nomary | PsychoFlux Entertainment )
