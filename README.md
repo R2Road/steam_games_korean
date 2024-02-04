@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 213 개
+* 214 개
 
 
 
@@ -113,6 +113,7 @@
 #### ㅇ
 #### [아라하 : 이은도의 저주 | Araha : Curse of Yieun Island]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
 #### [엑스 인베이더 | X Invader]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
+#### [엔스펠 | Enspell]( https://store.steampowered.com/app/2396900/Enspell/ ) ( 2024 | 덱빌딩 로그라이크 | GoldPumpkin Inc. )
 #### [엠버스 러브: 잔불의 사랑 | Ember's Love]( https://store.steampowered.com/app/2153900/Embers_Love/ ) ( 2023 | 덱 빌딩 RPG | LeeBbunsik | PsychoFlux Entertainment )
 #### [여름의 끝에 피는 꽃 | Flowers Blooming at the End of Summer]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [여포키우기 | Lu Bu Maker]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
@@ -204,6 +205,7 @@
 #### [Elevenses: The Flask | 일레븐지스: 플라스크]( https://store.steampowered.com/app/1165230/Elevenses_The_Flask/ ) ( 2022 | 비주얼 노벨 | REDRAY | PsychoFlux Entertainment )
 #### [Ember's Love | 엠버스 러브: 잔불의 사랑]( https://store.steampowered.com/app/2153900/Embers_Love/ ) ( 2023 | 덱 빌딩 RPG | LeeBbunsik | PsychoFlux Entertainment )
 #### [En-Train]( https://store.steampowered.com/app/1337030/EnTrain/ ) ( 2020 | 2D 플랫포머, 슈팅 | RainbowStudio )
+#### [Enspell | 엔스펠]( https://store.steampowered.com/app/2396900/Enspell/ ) ( 2024 | 덱빌딩 로그라이크 | GoldPumpkin Inc. )
 #### [Eternal Return | 이터널 리턴]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
 #### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼 | Jaemin Park | PsychoFlux Entertainment )
 #### [EZ2ON REBOOT : R]( https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/ ) ( 2022 | 리듬 게임 | Neonovice Co., Ltd., SQUARE PIXELS | Neonovice Co., Ltd. )
