@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 215 개
+* 216 개
 
 
 
@@ -239,6 +239,7 @@
 #### [Kusan : City of Wolves]( https://store.steampowered.com/app/1714510/Kusan__City_of_Wolves/ ) ( 2024Q3 | 탑다운 슈터 | CIRCLEfromDOT )
 #### L
 #### [LAPIN | 라핀]( https://store.steampowered.com/app/1454540/LAPIN/ ) ( 2023 | 2D 정밀 플랫포머 | Studio Doodal )
+#### [Last Light]( https://store.steampowered.com/app/1675620/Last_Light ) ( 2021 | 호러 어드벤쳐 | Team Corn Field | HIKE Inc. )
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | 시뮬레이션, 어드벤처 | Somi )
 #### [Library Of Ruina]( https://store.steampowered.com/app/1256670/Library_Of_Ruina ) ( 2021 | 도서관 배틀 시뮬레이션 | ProjectMoon )
 #### [Lies of P | P의 거짓]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ )
