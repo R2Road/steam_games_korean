@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 214 개
+* 215 개
 
 
 
@@ -60,6 +60,7 @@
 #### [그래비티 캐슬 | Gravity Castle]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
 #### [기적의 분식집 | Miracle Snack Shop]( https://store.steampowered.com/app/995460/Miracle_Snack_Shop/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. )
 #### [길고양이 이야기 | A Street Cat's Tale]( https://store.steampowered.com/app/1140570/A_Street_Cats_Tale/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
+#### [길고양이 이야기 2: 집밖은 위험해 | A Street Cat's Tale 2: Out side is dangerous]( https://store.steampowered.com/app/2356450/A_Street_Cats_Tale_2_Out_side_is_dangerous/ ) ( 2023 | 어드벤쳐  | PPIYO STUDIO | CFK Co., Ltd. )
 #### ㄴ
 #### [난중설화 | The Tales of Imjin War]( https://store.steampowered.com/app/1963080/_The_Tales_of_Imjin_War/ ) ( 2022 | 벨트스크롤 액션 RPG | Devmaru Inc. )
 #### [냥냥펀치! | Nyan-Nyan Punch!]( https://store.steampowered.com/app/2312340/NyanNyan_Punch/ ) ( 2023 | 1vs1 액션 | Nomary | PsychoFlux Entertainment )
@@ -154,6 +155,7 @@
 
 #### A
 #### [A Street Cat's Tale | 길고양이 이야기]( https://store.steampowered.com/app/1140570/A_Street_Cats_Tale/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
+#### [A Street Cat's Tale 2: Out side is dangerous | 길고양이 이야기 2: 집밖은 위험해]( https://store.steampowered.com/app/2356450/A_Street_Cats_Tale_2_Out_side_is_dangerous/ ) ( 2023 | 어드벤쳐  | PPIYO STUDIO | CFK Co., Ltd. )
 #### [Adolescent Santa Claus | 산타는 교복을 입을 수 밖에 없어]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
 #### [Alchemist of Pipi Forest | 피피숲의 연금술사]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
 #### [ALTF4]( https://store.steampowered.com/app/1137460/ALTF4/ ) ( 2021 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM )
