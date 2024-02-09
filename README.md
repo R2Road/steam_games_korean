@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 219 개
+* 220 개
 
 
 
@@ -135,6 +135,7 @@
 #### [퀸즈 아이돌 | Idol Queens Production]( https://store.steampowered.com/app/1865080/Idol_Queens_Production/ ) ( 2022 | 아이돌 육성 시뮬레이션 | SUNBEESOFT )
 #### [크로노 아크 | Chrono Ark]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
 #### [킹덤 언더 파이어 : 더 크루세이더 | Kingdom Under Fire: The Crusaders]( https://store.steampowered.com/app/1121420/Kingdom_Under_Fire_The_Crusaders/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
+#### [킹덤언더파이어: 히어로즈 | Kingdom Under Fire: Heroes]( https://store.steampowered.com/app/1315200/Kingdom_Under_Fire_Heroes/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### ㅌ
 #### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
 #### [팀파이트 매니저 | Teamfight Manager]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
@@ -237,6 +238,7 @@
 #### K
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. )
 #### [Kill the Dictator]( https://store.steampowered.com/app/917200/Kill_the_Dictator/ ) ( 2018 | 캐쥬얼 전략 시뮬레이션 | Afeel inc, Magic Cube | Afeel inc )
+#### [Kingdom Under Fire: Heroes | 킹덤언더파이어: 히어로즈]( https://store.steampowered.com/app/1315200/Kingdom_Under_Fire_Heroes/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### [Kingdom Under Fire: The Crusaders | 킹덤 언더 파이어 : 더 크루세이더]( https://store.steampowered.com/app/1121420/Kingdom_Under_Fire_The_Crusaders/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### [Korea Dynasty | 조선메타실록]( https://store.steampowered.com/app/2216600/Korea_Dynasty/ ) ( 2023 | 오픈월드 생존 탐험 | (주)행복한다람쥐단( Happy Daram Inc. ) )
 #### [Kusan : City of Wolves]( https://store.steampowered.com/app/1714510/Kusan__City_of_Wolves/ ) ( 2024Q3 | 탑다운 슈터 | CIRCLEfromDOT )
