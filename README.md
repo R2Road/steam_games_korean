@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 220 개
+* 221 개
 
 
 
@@ -238,6 +238,7 @@
 #### K
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. )
 #### [Kill the Dictator]( https://store.steampowered.com/app/917200/Kill_the_Dictator/ ) ( 2018 | 캐쥬얼 전략 시뮬레이션 | Afeel inc, Magic Cube | Afeel inc )
+#### [Kingdom Under Fire: A War of Heroes (GOLD Edition)]( https://store.steampowered.com/app/2183600/Kingdom_Under_Fire_A_War_of_Heroes_GOLD_Edition/ ) ( 2022 | 전략, 액션, RPG | Blueside, Bloom Technology | Incredi Soft, Bloom Technology )
 #### [Kingdom Under Fire: Heroes | 킹덤언더파이어: 히어로즈]( https://store.steampowered.com/app/1315200/Kingdom_Under_Fire_Heroes/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### [Kingdom Under Fire: The Crusaders | 킹덤 언더 파이어 : 더 크루세이더]( https://store.steampowered.com/app/1121420/Kingdom_Under_Fire_The_Crusaders/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### [Korea Dynasty | 조선메타실록]( https://store.steampowered.com/app/2216600/Korea_Dynasty/ ) ( 2023 | 오픈월드 생존 탐험 | (주)행복한다람쥐단( Happy Daram Inc. ) )
