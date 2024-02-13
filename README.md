@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 222 개
+* 223 개
 
 
 
@@ -72,6 +72,7 @@
 #### [더 스파이크 | The Spike]( https://store.steampowered.com/app/1296840/The_Spike/ ) ( 2020 | 2D 배구 | SUNCYAN studio | PsychoFlux Entertainment )
 #### [던전 로드 | Dungeon Lord]( https://store.steampowered.com/app/1429670/Dungeon_Lord/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. )
 #### [데네브: 별을 건너서 | Deneb: Across the Stars]( https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars/ ) ( 2022 | 탑다운 하드코어 플랫포머 | SEROSOO )
+#### [데블위딘 삿갓 | The Devil Within: Satgat]( https://store.steampowered.com/app/1802880/The_Devil_Within_Satgat/ ) ( ? | 횡스크롤 액션 | Newcore Games | Newcore Games, Astrolabe Games )
 #### [데이브 더 다이버 | DAVE THE DIVER]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
 #### [도박묵시록 다구리: Remastered | DAGURI: Gambling Apocalypse]( https://store.steampowered.com/app/2004180/DAGURI_Gambling_Apocalypse/ ) ( 2022 | 오픈 월드 도박 시뮬레이션 | DakeCraft | PsychoFlux Entertainment )
 #### ㄹ
@@ -363,6 +364,7 @@
 #### [The Callisto Protocol™]( https://store.steampowered.com/app/1544020/The_Callisto_Protocol/ ) ( 2022 | SF, 생존, 공포, 3인칭 슈팅 | Striking Distance Studios | KRAFTON, Inc. )
 #### [The Coma 2: Vicious Sisters]( https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/ ) ( 2020 | 2D, 공포, 어드벤처 | Devespresso Games | Headup, WhisperGames )
 #### [The Coma: Recut]( https://store.steampowered.com/app/600090/The_Coma_Recut/ ) ( 2017 | 2D, 공포, 어드벤처 | Devespresso Games | Headup )
+#### [The Devil Within: Satgat | 데블위딘 삿갓]( https://store.steampowered.com/app/1802880/The_Devil_Within_Satgat/ ) ( ? | 횡스크롤 액션 | Newcore Games | Newcore Games, Astrolabe Games )
 #### [The Dew]( https://store.steampowered.com/app/692950/The_Dew/ ) ( 2017 | 스토리텔링, 퍼즐 | ZZICON | PsychoFlux Entertainment )
 #### [THE EDITOR | 편집장]( https://store.steampowered.com/app/2310920/THE_EDITOR/ ) ( 2023 | 신문 편집 어드벤처 | DECATREE GAMES )
 #### [THE FINALS]( https://store.steampowered.com/app/2073850/THE_FINALS/ ) ( 2023 | 멀티플레이어, 슈팅, PVP | Embark Studios )
