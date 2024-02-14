@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 223 개
+* 224 개
 
 
 
@@ -85,6 +85,7 @@
 #### [린, 퍼즐에 그려진 소녀 이야기 | Lynn , The Girl Drawn On Puzzles]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
 #### ㅁ
 #### [마녀의샘3 Re:Fine －인형 마녀 아이루디의 이야기－ | WitchSpring3 Re:Fine - The Story of Eirudy -]( https://store.steampowered.com/app/1592520/WitchSpring3_ReFine__The_Story_of_Eirudy/ ) ( 2021 | RPG | KIWIWALKS, IKINAGAMES | KIWIWALKS )
+#### [마녀의샘R | WitchSpring R]( https://store.steampowered.com/app/1958220/WitchSpring_R/ ) ( 2023 | 스토리형 육성 RPG | KIWIWALKS )
 #### [메탈릭 차일드 | METALLIC CHILD]( https://store.steampowered.com/app/1490610/METALLIC_CHILD/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
 #### [모나드의 겨울 | Monads]( https://store.steampowered.com/app/814870/Monads/ ) ( 2019 | SRPG | Team Monad )
 #### [모나드의 겨울 II | Monads II]( https://store.steampowered.com/app/1386340/Monads_II/ ) ( 2020 | SRPG | Team Monad )
@@ -390,6 +391,7 @@
 #### [White Day: A Labyrinth Named School]( https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/ ) ( 2017 | 1인칭 공포 | SONNORI Corp | Pqube, SONNORI Corp )
 #### [White Day2: The Flower That Tells Lies]( https://store.steampowered.com/app/2078040/White_Day2_The_Flower_That_Tells_Lies__EP1/ ) ( 2023 | 1인칭 공포 | Rootnstudio Ltd. )
 #### [Wicce]( https://store.steampowered.com/app/465130/Wicce/ ) ( 2016 | 2D, 액션, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
+#### [WitchSpring R | 마녀의샘R]( https://store.steampowered.com/app/1958220/WitchSpring_R/ ) ( 2023 | 스토리형 육성 RPG | KIWIWALKS )
 #### [WitchSpring3 Re:Fine - The Story of Eirudy - | 마녀의샘3 Re:Fine －인형 마녀 아이루디의 이야기－]( https://store.steampowered.com/app/1592520/WitchSpring3_ReFine__The_Story_of_Eirudy/ ) ( 2021 | RPG | KIWIWALKS, IKINAGAMES | KIWIWALKS )
 #### X
 #### [X Invader | 엑스 인베이더]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
