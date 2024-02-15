@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 224 개
+* 225 개
 
 
 
@@ -123,6 +123,7 @@
 #### [오구와 비밀의 숲 | Ogu and the Secret Forest]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
 #### [용사의 자격 | Qualification as Rogue]( https://store.steampowered.com/app/2308820/Qualification_as_Rogue/ ) ( 2023 | 액션 로그라이크, 플랫포머 | SUNBEESOFT )
 #### [유튜버 서바이버즈 | Youtuber Survivors]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
+#### [이라 | Ira]( https://store.steampowered.com/app/1536210/Ira/ ) ( 2023 | 탄막 슈팅 로그라이트 | ABShot | Nicalis, Inc. )
 #### [이터널 리턴 | Eternal Return]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
 #### [인과율 | Causality]( https://store.steampowered.com/app/1158720/Causality/ ) ( 2021 | 서바이벌 호러 | WAFFLE GAMES | PsychoFlux Entertainment )
 #### [일레븐지스: 플라스크 | Elevenses: The Flask]( https://store.steampowered.com/app/1165230/Elevenses_The_Flask/ ) ( 2022 | 비주얼 노벨 | REDRAY | PsychoFlux Entertainment )
@@ -238,6 +239,7 @@
 #### [Idol Queens Production | 퀸즈 아이돌]( https://store.steampowered.com/app/1865080/Idol_Queens_Production/ ) ( 2022 | 아이돌 육성 시뮬레이션 | SUNBEESOFT )
 #### [in My MIND.]( https://store.steampowered.com/app/859370/in_My_MIND/ ) ( 2018 | 슈팅 | P.S.B (iNsOoL) | PsychoFlux Entertainment )
 #### [Infinite Sunshine Dust]( https://store.steampowered.com/app/673810/Infinite_Sunshine_Dust/ ) ( 2018 | 공포, 어드벤처 | Kena MAKF )
+#### [Ira | 이라]( https://store.steampowered.com/app/1536210/Ira/ ) ( 2023 | 탄막 슈팅 로그라이트 | ABShot | Nicalis, Inc. )
 #### K
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. )
 #### [Kill the Dictator]( https://store.steampowered.com/app/917200/Kill_the_Dictator/ ) ( 2018 | 캐쥬얼 전략 시뮬레이션 | Afeel inc, Magic Cube | Afeel inc )
