@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 225 개
+* 226 개
 
 
 
@@ -55,6 +55,7 @@
 ## 한국어 제목
 
 #### ㄱ
+#### [골든 레코드 리트리버 | Golden Record Retriever]( https://store.steampowered.com/app/2119580/Golden_Record_Retriever/ ) ( 2023 | 로그라이크 "다이스" 빌딩 | Hoochoo Game Studios )
 #### [공간을 먹는 악어 | The Space-Eating Croc]( https://store.steampowered.com/app/2020090/The_SpaceEating_Croc/ ) ( 2023 | 미스터리 어드벤처 | Chalkseagull | PsychoFlux Entertainment )
 #### [과몰입금지 | Love Too Easily]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
 #### [그래비티 캐슬 | Gravity Castle]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
@@ -227,6 +228,7 @@
 #### [Flowers Blooming at the End of Summer | 여름의 끝에 피는 꽃]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
 #### G
+#### [Golden Record Retriever | 골든 레코드 리트리버]( https://store.steampowered.com/app/2119580/Golden_Record_Retriever/ ) ( 2023 | 로그라이크 "다이스" 빌딩 | Hoochoo Game Studios )
 #### [Gravity Castle | 그래비티 캐슬]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
 #### H
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
