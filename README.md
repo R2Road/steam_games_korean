@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 227 개
+* 228 개
 
 
 
@@ -363,6 +363,7 @@
 #### [SPLIT BULLET]( https://store.steampowered.com/app/449450/SPLIT_BULLET/ ) ( 2016 | 탄막슈팅 | IndigoBlue Game Studio | PsychoFlux Entertainment )
 #### [Split square | 스플릿 스퀘어]( https://store.steampowered.com/app/2491130/Split_square/ ) ( 2023 | 덱 빌딩 로그라이크 | Shedin )
 #### [Star Island]( https://store.steampowered.com/app/1391960/Star_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
+#### [Star Rabbits]( https://store.steampowered.com/app/2167600/Star_Rabbits/ ) ( 2024 | 액션 어드벤처 | ZeroToTenB )
 #### [Subterrain]( https://store.steampowered.com/app/340490/Subterrain/ ) ( 2016 | 턴 기반 생존 RPG | Pixellore Inc )
 #### [Sudoku RPG | 스도쿠 알피지]( https://store.steampowered.com/app/1474200/Sudoku_RPG/ ) ( 2021 | 퍼즐, RPG | RainbowStudio )
 #### T
