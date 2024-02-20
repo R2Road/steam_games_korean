@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 228 개
+* 229 개
 
 
 
@@ -225,6 +225,7 @@
 #### [Fantasy Fishing Town]( https://store.steampowered.com/app/1904040/Fantasy_Fishing_Town/ ) ( 2022 | 횡스크롤 낚시 | RainbowStudio )
 #### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2024Q2 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [First Snow | 첫눈]( https://store.steampowered.com/app/2232200/First_Snow/ ) ( 2022 | 비주얼노벨 | Studio Ly | PsychoFlux Entertainment )
+#### [Flipol]( https://store.steampowered.com/app/1548010/Flipol/ ) ( 2021 | 퍼즐 | Derin )
 #### [Flower in Us | 사람 속에 피는 꽃]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
 #### [Flowers Blooming at the End of Summer | 여름의 끝에 피는 꽃]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
