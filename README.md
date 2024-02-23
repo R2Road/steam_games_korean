@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 232 개
+* 233 개
 
 
 
@@ -96,6 +96,7 @@
 #### ㅂ
 #### [배고픈 원시인 | Hungry Caveman]( https://store.steampowered.com/app/2166250/Hungry_Caveman/ ) ( 2023 | 어드벤처 | RainbowStudio )
 #### [베리드 스타즈 | BURIED STARS]( https://store.steampowered.com/app/1025960/BURIED_STARS/ ) ( 2021 | 어드벤처 | LINE Games Corporation )
+#### [베일드 엣지 | Veiled Edge]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio, 오뉴월스튜디오 )
 #### [별이되어라2: 베다의 기사들 | ASTRA: Knights of Veda]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( ? | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
 #### [블루 웬즈데이 | Blue Wednesday]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
 #### [비포 더 나이트 | Before The Night]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
@@ -395,6 +396,7 @@
 #### [Vambrace: Cold Soul]( https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/ ) ( 2019 | 로그라이트, 어드벤처 | Devespresso Games | Headup, WhisperGames )
 #### [Vapor World: Over The Mind]( https://store.steampowered.com/app/1996090/Vapor_World_Over_The_Mind/ ) ( ? | 액션 어드벤처 플랫포머 | ALIVE Inc. | TBA )
 #### [Vectorium]( https://store.steampowered.com/app/712870/Vectorium/ ) ( 2018 | 아케이드 슈팅 | IndigoBlue Game Studio )
+#### [Veiled Edge | 베일드 엣지]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio, 오뉴월스튜디오 )
 #### [VINE]( https://store.steampowered.com/app/1832130/VINE/ ) ( 2023 | 퍼즐, 로프액션 | FrogParty | OurTurn Games )
 #### [VOXEL HORIZON]( https://store.steampowered.com/app/1221390/VOXEL_HORIZON/ ) ( 2020 | 롤플레잉, 샌드박스 | Ice Shovel Soft )
 #### W
