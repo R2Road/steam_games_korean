@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 233 개
+* 234 개
 
 
 
@@ -78,6 +78,7 @@
 #### [도박묵시록 다구리: Remastered | DAGURI: Gambling Apocalypse]( https://store.steampowered.com/app/2004180/DAGURI_Gambling_Apocalypse/ ) ( 2022 | 오픈 월드 도박 시뮬레이션 | DakeCraft | PsychoFlux Entertainment )
 #### ㄹ
 #### [라라바이 데이즈 | Lullaby Days]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
+#### [라이트 오디세이 | Light Odyssey]( https://store.steampowered.com/app/1902860/Light_Odyssey/ ) ( 2024Q4 | 보스러시 액션게임 | SSUN GAMES | GRAVITY )
 #### [라핀 | LAPIN]( https://store.steampowered.com/app/1454540/LAPIN/ ) ( 2023 | 2D 정밀 플랫포머 | Studio Doodal )
 #### [러브 딜리버리 | Love Delivery]( https://store.steampowered.com/app/1817940/Love_Delivery/ ) ( 2022 | 미소녀 연애 시뮬레이션 | Onfire Games )
 #### [로드 오브 파티 | The Lord of the Parties]( https://store.steampowered.com/app/1602880/The_Lord_of_the_Parties/ ) ( 2022 | 2D 종스크롤 파티 슈팅 RPG | Magic Cube, Dizcon | HIKE Inc. )
@@ -260,6 +261,7 @@
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | 시뮬레이션, 어드벤처 | Somi )
 #### [Library Of Ruina]( https://store.steampowered.com/app/1256670/Library_Of_Ruina ) ( 2021 | 도서관 배틀 시뮬레이션 | ProjectMoon )
 #### [Lies of P | P의 거짓]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ )
+#### [Light Odyssey | 라이트 오디세이]( https://store.steampowered.com/app/1902860/Light_Odyssey/ ) ( 2024Q4 | 보스러시 액션게임 | SSUN GAMES | GRAVITY )
 #### [Little Gods of the Abyss]( https://store.steampowered.com/app/1044410/Little_Gods_of_the_Abyss/ ) ( 2020 | 어드벤처 | PLAY Mephistowaltz )
 #### [Little Witch in the Woods | 숲속의 작은 마녀]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
 #### [Lobotomy Corporation | Monster Management Simulation]( https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/ ) ( 2018 | 괴물 관리, 로그라이트, 시뮬레이션 | ProjectMoon )
