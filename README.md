@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 234 개
+* 235 개
 
 
 
@@ -55,6 +55,7 @@
 ## 한국어 제목
 
 #### ㄱ
+#### [가짜 하트 | FAKE HEART]( https://store.steampowered.com/app/2109360/FAKE_HEART/ ) ( 2023 | 인터렉티브 비주얼 노벨 | BLANBEE )
 #### [골든 레코드 리트리버 | Golden Record Retriever]( https://store.steampowered.com/app/2119580/Golden_Record_Retriever/ ) ( 2023 | 로그라이크 "다이스" 빌딩 | Hoochoo Game Studios )
 #### [공간을 먹는 악어 | The Space-Eating Croc]( https://store.steampowered.com/app/2020090/The_SpaceEating_Croc/ ) ( 2023 | 미스터리 어드벤처 | Chalkseagull | PsychoFlux Entertainment )
 #### [과몰입금지 | Love Too Easily]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
@@ -225,6 +226,7 @@
 #### [EZ2ON REBOOT : R]( https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/ ) ( 2022 | 리듬 게임 | Neonovice Co., Ltd., SQUARE PIXELS | Neonovice Co., Ltd. )
 #### F
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | 퍼즐 RPG | WIDStudio | CFK Co., Ltd. )
+#### [FAKE HEART | 가짜 하트]( https://store.steampowered.com/app/2109360/FAKE_HEART/ ) ( 2023 | 인터렉티브 비주얼 노벨 | BLANBEE )
 #### [Fantasy Fishing Town]( https://store.steampowered.com/app/1904040/Fantasy_Fishing_Town/ ) ( 2022 | 횡스크롤 낚시 | RainbowStudio )
 #### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2024Q2 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [First Snow | 첫눈]( https://store.steampowered.com/app/2232200/First_Snow/ ) ( 2022 | 비주얼노벨 | Studio Ly | PsychoFlux Entertainment )
