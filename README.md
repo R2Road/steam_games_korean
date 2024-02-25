@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 235 개
+* 236 개
 
 
 
@@ -227,6 +227,7 @@
 #### F
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | 퍼즐 RPG | WIDStudio | CFK Co., Ltd. )
 #### [FAKE HEART | 가짜 하트]( https://store.steampowered.com/app/2109360/FAKE_HEART/ ) ( 2023 | 인터렉티브 비주얼 노벨 | BLANBEE )
+#### [FAKE SIGNALS]( https://store.steampowered.com/app/2161430/FAKE_SIGNALS/ ) ( 2023 | 액션 하이브리드 로그라이트 | Vona Soft | Vona Soft, Another Indie )
 #### [Fantasy Fishing Town]( https://store.steampowered.com/app/1904040/Fantasy_Fishing_Town/ ) ( 2022 | 횡스크롤 낚시 | RainbowStudio )
 #### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2024Q2 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [First Snow | 첫눈]( https://store.steampowered.com/app/2232200/First_Snow/ ) ( 2022 | 비주얼노벨 | Studio Ly | PsychoFlux Entertainment )
