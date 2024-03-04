@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 239 개
+* 240 개
 
 
 
@@ -89,6 +89,7 @@
 #### ㅁ
 #### [마녀의샘3 Re:Fine －인형 마녀 아이루디의 이야기－ | WitchSpring3 Re:Fine - The Story of Eirudy -]( https://store.steampowered.com/app/1592520/WitchSpring3_ReFine__The_Story_of_Eirudy/ ) ( 2021 | RPG | KIWIWALKS, IKINAGAMES | KIWIWALKS )
 #### [마녀의샘R | WitchSpring R]( https://store.steampowered.com/app/1958220/WitchSpring_R/ ) ( 2023 | 스토리형 육성 RPG | KIWIWALKS )
+#### [마르코 엔터테인먼트 | Marco Entertainment]( https://store.steampowered.com/app/2277370/Marco_Entertainment/ ) ( 예정 2025 | 소셜 샌드박스 서비스 | RisingWings )
 #### [메탈릭 차일드 | METALLIC CHILD]( https://store.steampowered.com/app/1490610/METALLIC_CHILD/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
 #### [모나드의 겨울 | Monads]( https://store.steampowered.com/app/814870/Monads/ ) ( 2019 | SRPG | Team Monad )
 #### [모나드의 겨울 II | Monads II]( https://store.steampowered.com/app/1386340/Monads_II/ ) ( 2020 | SRPG | Team Monad )
@@ -280,6 +281,7 @@
 #### [Lullaby Days | 라라바이 데이즈]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
 #### M
+#### [Marco Entertainment | 마르코 엔터테인먼트]( https://store.steampowered.com/app/2277370/Marco_Entertainment/ ) ( 예정 2025 | 소셜 샌드박스 서비스 | RisingWings )
 #### [Memory Fragment]( https://store.steampowered.com/app/2546170/Memory_Fragment/ ) ( 2023 | 시뮬레이션, 퍼즐 | THEAND Co. )
 #### [Merge & Blade]( https://store.steampowered.com/app/1446930/Merge__Blade/ ) ( 2023 | 세계 최초 퍼즐 오토 배틀러 | Magic Cube )
 #### [Metal Unit]( https://store.steampowered.com/app/1173200/Metal_Unit/ ) ( 2021 | 액션, 플랫폼, 로그라이트 | JellySnow Studio | NEOWIZ )
