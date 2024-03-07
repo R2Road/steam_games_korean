@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 242 개
+* 243 개
 
 
 
@@ -301,6 +301,7 @@
 #### [Mini Star Cafe]( https://store.steampowered.com/app/2309280/Mini_Star_Cafe/ ) ( 2023 | 경영 시뮬레이션, 릴렉싱 | MACKINN7 )
 #### [Mini Star Fishing]( https://store.steampowered.com/app/2012790/Mini_Star_Fishing/ ) ( 2022 | 캐주얼 힐링 낚시 미니게임 | MACKINN7 )
 #### [Mini Star Survivor]( https://store.steampowered.com/app/2538830/Mini_Star_Survivor/ ) ( 2023 | 액션 서바이버 | MACKINN7 )
+#### [Minimal Escape]( https://store.steampowered.com/app/2782420/Minimal_Escape/ ) ( ? | 퍼즐 어드벤처 | THEAND Co. )
 #### [Miracle Snack Shop | 기적의 분식집]( https://store.steampowered.com/app/995460/Miracle_Snack_Shop/ ) ( 2018 | 연애시뮬레이션, 비주얼노벨 | TALESSHOP Co., Ltd. )
 #### [Mixx Island]( https://store.steampowered.com/app/1437430/Mixx_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Mixx Island: Remix]( https://store.steampowered.com/app/1492640/Mixx_Island_Remix/ ) ( 2021 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
