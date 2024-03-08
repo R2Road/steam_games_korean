@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 243 개
+* 244 개
 
 
 
@@ -210,6 +210,7 @@
 #### [DEFENDUN : Hero Defense]( https://store.steampowered.com/app/2323810/DEFENDUN__Hero_Defense/ ) ( 2023 | 전략 머지 디펜스 | Gonggamorecontents Inc. )
 #### [Deneb: Across the Stars | 데네브: 별을 건너서]( https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars/ ) ( 2022 | 탑다운 하드코어 플랫포머 | SEROSOO )
 #### [Diary of Lucie | 루시의 일기]( https://store.steampowered.com/app/1454010/Diary_of_Lucie/ ) ( 2023 | 액션, 로그라이트 | Parange Project )
+#### [Diaspora]( https://store.steampowered.com/app/1821970/Diaspora/ ) ( 2023 | 3D 횡스크롤 어드벤처 | Acts29games )
 #### [DJMAX RESPECT V]( https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/ ) ( 2020 | 리듬게임 | NEOWIZ )
 #### [DOTORI]( https://store.steampowered.com/app/1109720/DOTORI/ ) ( 2020 | 액션, 플랫폼,  | Indev-studio | CFK Co., Ltd. )
 #### [DOWNFALLEN]( https://store.steampowered.com/app/2153920/DOWNFALLEN/ ) ( 2023 | 어드벤처 | DOWNFALLEN Team | PsychoFlux Entertainment )
