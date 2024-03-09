@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 244 개
+* 245 개
 
 
 
@@ -282,6 +282,7 @@
 #### [Lullaby Days | 라라바이 데이즈]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
 #### M
+#### [Mad World - Age of Darkness – MMORPG]( https://store.steampowered.com/app/771580/Mad_World___Age_of_Darkness__MMORPG/ ) ( 2024 | MMORPG | Jandisoft )
 #### [Marco Entertainment | 마르코 엔터테인먼트]( https://store.steampowered.com/app/2277370/Marco_Entertainment/ ) ( 예정 2025 | 소셜 샌드박스 서비스 | RisingWings )
 #### [Memory Fragment]( https://store.steampowered.com/app/2546170/Memory_Fragment/ ) ( 2023 | 시뮬레이션, 퍼즐 | THEAND Co. )
 #### [Merge & Blade]( https://store.steampowered.com/app/1446930/Merge__Blade/ ) ( 2023 | 세계 최초 퍼즐 오토 배틀러 | Magic Cube )
