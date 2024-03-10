@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 245 개
+* 246 개
 
 
 
@@ -411,6 +411,7 @@
 #### [Vapor World: Over The Mind]( https://store.steampowered.com/app/1996090/Vapor_World_Over_The_Mind/ ) ( ? | 액션 어드벤처 플랫포머 | ALIVE Inc. | TBA )
 #### [Vectorium]( https://store.steampowered.com/app/712870/Vectorium/ ) ( 2018 | 아케이드 슈팅 | IndigoBlue Game Studio )
 #### [Veiled Edge | 베일드 엣지]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio, 오뉴월스튜디오 )
+#### [VELASTER]( https://store.steampowered.com/app/1897060/VELASTER/ ) ( ? | 2.5D 횡스크롤 액션 전투 게임 | ODYSSEYER )
 #### [VINE]( https://store.steampowered.com/app/1832130/VINE/ ) ( 2023 | 퍼즐, 로프액션 | FrogParty | OurTurn Games )
 #### [VOXEL HORIZON]( https://store.steampowered.com/app/1221390/VOXEL_HORIZON/ ) ( 2020 | 롤플레잉, 샌드박스 | Ice Shovel Soft )
 #### W
