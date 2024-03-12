@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 246 개
+* 247 개
 
 
 
@@ -151,6 +151,7 @@
 #### [파이널나이트 | FINAL KNIGHT]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2024Q2 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [페치카 | Pechka: Historical Story Adventure]( https://store.steampowered.com/app/2210700/Pechka_Historical_Story_Adventure/ ) ( 2023 | 2D 어드벤처 | Growing Seeds )
 #### [편집장 | THE EDITOR]( https://store.steampowered.com/app/2310920/THE_EDITOR/ ) ( 2023 | 신문 편집 어드벤처 | DECATREE GAMES )
+#### [프로스토리 | Frostory]( https://store.steampowered.com/app/1737520/Frostory/ ) ( ? | 액션 어드벤처 | Team OOPArts )
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 #### [피피숲의 연금술사 | Alchemist of Pipi Forest]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
 #### _
@@ -239,6 +240,7 @@
 #### [Flower in Us | 사람 속에 피는 꽃]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
 #### [Flowers Blooming at the End of Summer | 여름의 끝에 피는 꽃]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
+#### [Frostory | 프로스토리]( https://store.steampowered.com/app/1737520/Frostory/ ) ( ? | 액션 어드벤처 | Team OOPArts )
 #### G
 #### [Golden Record Retriever | 골든 레코드 리트리버]( https://store.steampowered.com/app/2119580/Golden_Record_Retriever/ ) ( 2023 | 로그라이크 "다이스" 빌딩 | Hoochoo Game Studios )
 #### [Gravity Castle | 그래비티 캐슬]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
