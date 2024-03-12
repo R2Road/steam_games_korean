@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 247 개
+* 248 개
 
 
 
@@ -138,6 +138,7 @@
 #### [지구멸망 60초전! -운석배구 편- | Meteor Volleyball!]( https://store.steampowered.com/app/1816080/Meteor_Volleyball/ ) ( 2022 | 횡스크롤 2d 배구 게임 | AvoCavo )
 #### ㅊ
 #### [첫눈 | First Snow]( https://store.steampowered.com/app/2232200/First_Snow/ ) ( 2022 | 비주얼노벨 | Studio Ly | PsychoFlux Entertainment )
+#### [청구야담: 팔도견문록 | Dynasty Detective]( https://store.steampowered.com/app/2329060/Dynasty_Detective/ ) ( 2024 | 비주얼 노벨, 추리 | COSDOTS )
 #### ㅋ
 #### [쿠시의 엄천난 모험!! | Cush's Amazin' Adventure!!]( https://store.steampowered.com/app/2276110/Cushs_Amazin_Adventure/ ) ( 2023 | RPG, 어드벤처 | CushKim | PsychoFlux Entertainment )
 #### [퀸즈 아이돌 | Idol Queens Production]( https://store.steampowered.com/app/1865080/Idol_Queens_Production/ ) ( 2022 | 아이돌 육성 시뮬레이션 | SUNBEESOFT )
@@ -220,6 +221,7 @@
 #### [Dungeon Warfare]( https://store.steampowered.com/app/355980/Dungeon_Warfare/ ) ( 2015 | 타워 디펜스 | Valsar )
 #### [Dungeon Warfare 2]( https://store.steampowered.com/app/698540/Dungeon_Warfare_2/ ) ( 2018 | 타워 디펜스 | Valsar )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | 2D, 로그라이트, 횡스크롤 액션 | TEAM HORAY )
+#### [Dynasty Detective | 청구야담: 팔도견문록]( https://store.steampowered.com/app/2329060/Dynasty_Detective/ ) ( 2024 | 비주얼 노벨, 추리 | COSDOTS )
 #### E
 #### [Elevenses: The Flask | 일레븐지스: 플라스크]( https://store.steampowered.com/app/1165230/Elevenses_The_Flask/ ) ( 2022 | 비주얼 노벨 | REDRAY | PsychoFlux Entertainment )
 #### [Ember's Love | 엠버스 러브: 잔불의 사랑]( https://store.steampowered.com/app/2153900/Embers_Love/ ) ( 2023 | 덱 빌딩 RPG | LeeBbunsik | PsychoFlux Entertainment )
