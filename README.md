@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 248 개
+* 249 개
 
 
 
@@ -120,6 +120,7 @@
 #### [썸썸 편의점 | Some Some Convenience Store]( https://store.steampowered.com/app/1217390/Some_Some_Convenience_Store/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. )
 #### ㅇ
 #### [아라하 : 이은도의 저주 | Araha : Curse of Yieun Island]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
+#### [언폴디드 : 동백이야기 | Unfolded : Camellia Tales]( https://store.steampowered.com/app/1357990/Unfolded__Camellia_Tales/ ) ( 2021 | 2D 포인트 앤 클릭 어드벤처 | COSDOTS )
 #### [엑스 인베이더 | X Invader]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
 #### [엔스펠 | Enspell]( https://store.steampowered.com/app/2396900/Enspell/ ) ( 2024 | 덱빌딩 로그라이크 | GoldPumpkin Inc. )
 #### [엠버스 러브: 잔불의 사랑 | Ember's Love]( https://store.steampowered.com/app/2153900/Embers_Love/ ) ( 2023 | 덱 빌딩 RPG | LeeBbunsik | PsychoFlux Entertainment )
@@ -408,6 +409,7 @@
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
 #### [Twinkle Hunter]( https://store.steampowered.com/app/2266740/Twinkle_Hunter/ ) ( 2024 | 2D 액션 | Silver Cat )
 #### U
+#### [Unfolded : Camellia Tales | 언폴디드 : 동백이야기]( https://store.steampowered.com/app/1357990/Unfolded__Camellia_Tales/ ) ( 2021 | 2D 포인트 앤 클릭 어드벤처 | COSDOTS )
 #### [Unsouled]( https://store.steampowered.com/app/1042920/Unsouled/ ) ( 2022 | 소울라이크, 액션RPG | Megusta Game | NEOWIZ )
 #### V
 #### [V.E.D.A]( https://store.steampowered.com/app/2659980/VEDA/ ) ( ? | 소울라이크 트레이닝 게임 | Tripearl Games )
