@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 249 개
+* 250 개
 
 
 
@@ -103,6 +103,7 @@
 #### [별이되어라2: 베다의 기사들 | ASTRA: Knights of Veda]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( ? | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
 #### [블루 웬즈데이 | Blue Wednesday]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
 #### [비포 더 나이트 | Before The Night]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
+#### [비포 더 던 | REMORE: INFESTED KINGDOM]( https://store.steampowered.com/app/2225480/REMORE_INFESTED_KINGDOM/ ) ( 2023 | 턴제 Tactical RPG | Black Anchor | Webzen )
 #### ㅅ
 #### [사그레스 | Sagres]( https://store.steampowered.com/app/2120310/sagres/ ) ( 2023 | 역사, 항해, 어드벤처 | ooze | Kakehashi Games )
 #### [사람 속에 피는 꽃 | Flower in Us]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
@@ -355,6 +356,7 @@
 #### [Ratropolis]( https://store.steampowered.com/app/1108370/Ratropolis/ ) ( 2020 | 덱빌딩, 타워 디펜스 | Cassel Games )
 #### [Red Island]( https://store.steampowered.com/app/1114740/Red_Island/ ) ( 2019 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [RemiLore: Lost Girl in the Lands of Lore]( https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/ ) ( 2019 | 액션, 로그라이크 | Pixellore Inc, REMIMORY | Nicalis, Inc. )
+#### [REMORE: INFESTED KINGDOM | 비포 더 던]( https://store.steampowered.com/app/2225480/REMORE_INFESTED_KINGDOM/ ) ( 2023 | 턴제 Tactical RPG | Black Anchor | Webzen )
 #### [Replica]( https://store.steampowered.com/app/496890/Replica/ ) ( 2016 | 퍼즐, 공포, 어드벤처 | Somi | Somi, Zero Rock Entertainment )
 #### [RETSNOM]( https://store.steampowered.com/app/382920/RETSNOM/ ) ( 2015 | 퍼즐, 플랫폼 | Somi | Zero Rock Entertainment )
 #### [Riffle Effect]( https://store.steampowered.com/app/1479400/Riffle_Effect/ ) ( 2023 | 3인칭슈팅, 액션 | OutsiderKids Corp. | HIKE Inc. )
