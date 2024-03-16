@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 250 개
+* 251 개
 
 
 
@@ -342,6 +342,7 @@
 #### [Pink Island]( https://store.steampowered.com/app/1312070/Pink_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Plebby Quest: The Crusades | 플레비 퀘스트: 더 크루세이즈]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 #### [PLUTONIUM]( https://store.steampowered.com/app/634700/PLUTONIUM/ ) ( 2017 | 2D, 어드벤처 | Ch.ZBK )
+#### [Potty Knight Saga]( https://store.steampowered.com/app/2728950/Potty_Knight_Saga/ ) ( 2024 | 액션어드벤쳐 | PLAY Mephistowaltz )
 #### [Project Rhombus]( https://store.steampowered.com/app/735570/Project_Rhombus/ ) ( 2017 | 리듬기반 캐주얼 액션 | SEROSOO | PsychoFlux Entertainment )
 #### [PUBG: BATTLEGROUNDS]( https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/ ) ( 2017 | 배틀로얄 건플레이 | KRAFTON, Inc. )
 #### [Pygmalion]( https://store.steampowered.com/app/2234960/Pygmalion/ ) ( 2023 | 퍼즐 | CandLE )
