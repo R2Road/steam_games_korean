@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 252 개
+* 253 개
 
 
 
@@ -150,6 +150,7 @@
 #### [킹덤언더파이어: 히어로즈 | Kingdom Under Fire: Heroes]( https://store.steampowered.com/app/1315200/Kingdom_Under_Fire_Heroes/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### ㅌ
 #### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
+#### [트리니티 서바이버즈 | Trinity Survivors]( https://store.steampowered.com/app/2686580/Trinity_Survivors/ ) ( 2024 | 액션 로그라이트 | Flyway Games, Inc. )
 #### [팀파이트 매니저 | Teamfight Manager]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
 #### ㅍ
 #### [파이널나이트 | FINAL KNIGHT]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2024Q2 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
@@ -411,6 +412,7 @@
 #### [Three of Cards | 세 장의 카드]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
 #### [Thy Creature | 다이 크리쳐]( https://store.steampowered.com/app/1603720/Thy_Creature/ ) ( 2022 | 어드벤처 | Growing Seeds )
 #### [Too Many Zombies!]( https://store.steampowered.com/app/1551770/Too_Many_Zombies/ ) ( 2021 | PVE, 슈팅, 액션 | Derin )
+#### [Trinity Survivors | 트리니티 서바이버즈]( https://store.steampowered.com/app/2686580/Trinity_Survivors/ ) ( 2024 | 액션 로그라이트 | Flyway Games, Inc. )
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
 #### [Twinkle Hunter]( https://store.steampowered.com/app/2266740/Twinkle_Hunter/ ) ( 2024 | 2D 액션 | Silver Cat )
 #### U
