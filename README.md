@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 251 개
+* 252 개
 
 
 
@@ -121,6 +121,7 @@
 #### [썸썸 편의점 | Some Some Convenience Store]( https://store.steampowered.com/app/1217390/Some_Some_Convenience_Store/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. )
 #### ㅇ
 #### [아라하 : 이은도의 저주 | Araha : Curse of Yieun Island]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
+#### [안녕서울 : 이태원편 | GoodbyeSeoul : Itaewon]( https://store.steampowered.com/app/2551550/GoodbyeSeoul__Itaewon/ ) ( ? | 퍼즐 플랫포머 | JINO Games )
 #### [언폴디드 : 동백이야기 | Unfolded : Camellia Tales]( https://store.steampowered.com/app/1357990/Unfolded__Camellia_Tales/ ) ( 2021 | 2D 포인트 앤 클릭 어드벤처 | COSDOTS )
 #### [엑스 인베이더 | X Invader]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
 #### [엔스펠 | Enspell]( https://store.steampowered.com/app/2396900/Enspell/ ) ( 2024 | 덱빌딩 로그라이크 | GoldPumpkin Inc. )
@@ -247,6 +248,7 @@
 #### [Frostory | 프로스토리]( https://store.steampowered.com/app/1737520/Frostory/ ) ( ? | 액션 어드벤처 | Team OOPArts )
 #### G
 #### [Golden Record Retriever | 골든 레코드 리트리버]( https://store.steampowered.com/app/2119580/Golden_Record_Retriever/ ) ( 2023 | 로그라이크 "다이스" 빌딩 | Hoochoo Game Studios )
+#### [GoodbyeSeoul : Itaewon | 안녕서울 : 이태원편]( https://store.steampowered.com/app/2551550/GoodbyeSeoul__Itaewon/ ) ( ? | 퍼즐 플랫포머 | JINO Games )
 #### [Gravity Castle | 그래비티 캐슬]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
 #### H
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
