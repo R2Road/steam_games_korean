@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 254 개
+* 255 개
 
 
 
@@ -201,6 +201,7 @@
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
 #### [Colorzzle]( https://store.steampowered.com/app/818500/Colorzzle/ ) ( 2018 | 퍼즐 | Darong Studio | PsychoFlux Entertainment )
 #### [Come on Baby!]( https://store.steampowered.com/app/1092260/Come_on_Baby/ ) ( 2019 | 아케이드, 캐주얼, 스포츠 | Expotato Corp. )
+#### [Commander Quest]( https://store.steampowered.com/app/2697930/Commander_Quest/ ) ( ? | 덱 빌딩RTS | Flyway Games, Inc. )
 #### [Contract]( https://store.steampowered.com/app/1219300/Contract/ ) ( 2020 | 2D 플랫포머 | Metamong )
 #### [CRANGA!: Harbor Frenzy]( https://store.steampowered.com/app/517970/CRANGA_Harbor_Frenzy/ ) ( 2016 | VR 퍼즐 | HandMade Game )
 #### [Crazy Farm : VRGROUND]( https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/ ) ( 2018 | 파티 게임 | Jamong Inc. )
