@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 255 개
+* 256 개
 
 
 
@@ -104,6 +104,7 @@
 #### [블루 웬즈데이 | Blue Wednesday]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
 #### [비포 더 나이트 | Before The Night]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
 #### [비포 더 던 | REMORE: INFESTED KINGDOM]( https://store.steampowered.com/app/2225480/REMORE_INFESTED_KINGDOM/ ) ( 2023 | 턴제 Tactical RPG | Black Anchor | Webzen )
+#### [빈딕투스: 디파잉 페이트 | Vindictus: Defying Fate]( https://store.steampowered.com/app/2814860/Vindictus_Defying_Fate/ ) ( ? | 액션RPG | NEXON )
 #### ㅅ
 #### [사그레스 | Sagres]( https://store.steampowered.com/app/2120310/sagres/ ) ( 2023 | 역사, 항해, 어드벤처 | ooze | Kakehashi Games )
 #### [사람 속에 피는 꽃 | Flower in Us]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
@@ -426,6 +427,7 @@
 #### [Vectorium]( https://store.steampowered.com/app/712870/Vectorium/ ) ( 2018 | 아케이드 슈팅 | IndigoBlue Game Studio )
 #### [Veiled Edge | 베일드 엣지]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio, 오뉴월스튜디오 )
 #### [VELASTER]( https://store.steampowered.com/app/1897060/VELASTER/ ) ( ? | 2.5D 횡스크롤 액션 전투 게임 | ODYSSEYER )
+#### [Vindictus: Defying Fate | 빈딕투스: 디파잉 페이트]( https://store.steampowered.com/app/2814860/Vindictus_Defying_Fate/ ) ( ? | 액션RPG | NEXON )
 #### [VINE]( https://store.steampowered.com/app/1832130/VINE/ ) ( 2023 | 퍼즐, 로프액션 | FrogParty | OurTurn Games )
 #### [VOXEL HORIZON]( https://store.steampowered.com/app/1221390/VOXEL_HORIZON/ ) ( 2020 | 롤플레잉, 샌드박스 | Ice Shovel Soft )
 #### W
