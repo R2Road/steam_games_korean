@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 256 개
+* 257 개
 
 
 
@@ -381,6 +381,7 @@
 #### [Scarlet Hood and the Wicked Wood]( https://store.steampowered.com/app/1141120/Scarlet_Hood_and_the_Wicked_Wood/ ) ( 2021 | 퍼즐, 어드벤처 | Devespresso Games | Headup, WhisperGames )
 #### [Seonbi : Scholar of Joseon | 문경새재]( https://store.steampowered.com/app/1925860/Seonbi__Scholar_of_Joseon/ ) ( 2023 | 횡스크롤 액션 로그라이트 | Team ETTU )
 #### [Shikhondo(食魂徒) - Soul Eater]( https://store.steampowered.com/app/720150/Shikhondo__Soul_Eater/ ) ( 2017 | 탄막 슈팅게임 | DeerFarm )
+#### [Silent World]( https://store.steampowered.com/app/1210670/Silent_World/ ) ( 2020 | 액션 어드벤처 | GniFrix | CFK Co., Ltd. )
 #### [Sixtar Gate: STARTRAIL | 식스타 게이트: 스타트레일]( https://store.steampowered.com/app/1802720/Sixtar_Gate_STARTRAIL/ ) ( 2021 | 건반형 리듬 게임 | Lyrebird Studio, Starlike Inc. | CFK Co., Ltd. )
 #### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | 2D, 로그라이트, 액션, 플랫포머 | Southpaw Games Co., Ltd. | NEOWIZ )
 #### [SMASHING THE BATTLE]( https://store.steampowered.com/app/467930/SMASHING_THE_BATTLE/ ) ( 2016 | 핵앤슬래시 | Action Square(Studio HG) | Action Square )
