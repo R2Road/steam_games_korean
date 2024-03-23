@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 257 개
+* 258 개
 
 
 
@@ -157,6 +157,7 @@
 #### [파이널나이트 | FINAL KNIGHT]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2024Q2 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [페치카 | Pechka: Historical Story Adventure]( https://store.steampowered.com/app/2210700/Pechka_Historical_Story_Adventure/ ) ( 2023 | 2D 어드벤처 | Growing Seeds )
 #### [편집장 | THE EDITOR]( https://store.steampowered.com/app/2310920/THE_EDITOR/ ) ( 2023 | 신문 편집 어드벤처 | DECATREE GAMES )
+#### [폴라 펭귄 포스트 | Polar Penguin Post]( https://store.steampowered.com/app/1934020/Polar_Penguin_Post/ ) ( 2022 | 퍼즐 시뮬레이션 | Little Lemon Bulb )
 #### [프로스토리 | Frostory]( https://store.steampowered.com/app/1737520/Frostory/ ) ( ? | 액션 어드벤처 | Team OOPArts )
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 #### [피피숲의 연금술사 | Alchemist of Pipi Forest]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
@@ -347,6 +348,7 @@
 #### [Pink Island]( https://store.steampowered.com/app/1312070/Pink_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Plebby Quest: The Crusades | 플레비 퀘스트: 더 크루세이즈]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
 #### [PLUTONIUM]( https://store.steampowered.com/app/634700/PLUTONIUM/ ) ( 2017 | 2D, 어드벤처 | Ch.ZBK )
+#### [Polar Penguin Post | 폴라 펭귄 포스트]( https://store.steampowered.com/app/1934020/Polar_Penguin_Post/ ) ( 2022 | 퍼즐 시뮬레이션 | Little Lemon Bulb )
 #### [Potty Knight Saga]( https://store.steampowered.com/app/2728950/Potty_Knight_Saga/ ) ( 2024 | 액션어드벤쳐 | PLAY Mephistowaltz )
 #### [Project Rhombus]( https://store.steampowered.com/app/735570/Project_Rhombus/ ) ( 2017 | 리듬기반 캐주얼 액션 | SEROSOO | PsychoFlux Entertainment )
 #### [PUBG: BATTLEGROUNDS]( https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/ ) ( 2017 | 배틀로얄 건플레이 | KRAFTON, Inc. )
