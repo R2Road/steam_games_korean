@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 259 개
+* 260 개
 
 
 
@@ -197,6 +197,7 @@
 #### [Buff Knight Advanced]( https://store.steampowered.com/app/385440/Buff_Knight_Advanced/ ) ( 2015 | 2D, RPG | Buff Studio )
 #### [BURIED STARS | 베리드 스타즈]( https://store.steampowered.com/app/1025960/BURIED_STARS/ ) ( 2021 | 어드벤처 | LINE Games Corporation )
 #### C
+#### [Catch My Color]( https://store.steampowered.com/app/2660700/Catch_My_Color/ ) ( 2024 | 색입히기, 퍼즐 | Colight )
 #### [Causality | 인과율]( https://store.steampowered.com/app/1158720/Causality/ ) ( 2021 | 서바이벌 호러 | WAFFLE GAMES | PsychoFlux Entertainment )
 #### [Ceilless]( https://store.steampowered.com/app/1758060/Ceilless/ ) ( 2021 | 퍼즐, 플랫폼 | Derin )
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | 로그라이트, 1인칭 공포 | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
