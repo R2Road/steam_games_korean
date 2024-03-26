@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 260 개
+* 261 개
 
 
 
@@ -138,6 +138,7 @@
 #### [일레븐지스: 플라스크 | Elevenses: The Flask]( https://store.steampowered.com/app/1165230/Elevenses_The_Flask/ ) ( 2022 | 비주얼 노벨 | REDRAY | PsychoFlux Entertainment )
 #### ㅈ
 #### [장화홍련: 기억의 조각 | Rose and Lotus: Petals of Memories]( https://store.steampowered.com/app/699710/Rose_and_Lotus_Petals_of_Memories/ ) ( 2023 | 2D, 포인트앤클릭 | 5minlab Corp. )
+#### [조선 좀비 디펜스 | Chosun Zombie Defense]( https://store.steampowered.com/app/2265760/Chosun_Zombie_Defense/ ) ( 2023 | 디펜스, VR | Geniesoft Inc. )
 #### [조선메타실록 | Korea Dynasty]( https://store.steampowered.com/app/2216600/Korea_Dynasty/ ) ( 2023 | 오픈월드 생존 탐험 | (주)행복한다람쥐단( Happy Daram Inc. ) )
 #### [지구멸망 60초전! -운석배구 편- | Meteor Volleyball!]( https://store.steampowered.com/app/1816080/Meteor_Volleyball/ ) ( 2022 | 횡스크롤 2d 배구 게임 | AvoCavo )
 #### ㅊ
@@ -201,6 +202,7 @@
 #### [Causality | 인과율]( https://store.steampowered.com/app/1158720/Causality/ ) ( 2021 | 서바이벌 호러 | WAFFLE GAMES | PsychoFlux Entertainment )
 #### [Ceilless]( https://store.steampowered.com/app/1758060/Ceilless/ ) ( 2021 | 퍼즐, 플랫폼 | Derin )
 #### [Chicken in the Darkness ]( https://store.steampowered.com/app/928680/Chicken_in_the_Darkness/ ) ( 2018 | 로그라이트, 1인칭 공포 | Jaesung Kim, Jongseop Lee, Hyunggu Han | BukGwak )
+#### [Chosun Zombie Defense | 조선 좀비 디펜스]( https://store.steampowered.com/app/2265760/Chosun_Zombie_Defense/ ) ( 2023 | 디펜스, VR | Geniesoft Inc. )
 #### [Chrono Ark | 크로노 아크]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
 #### [Colorzzle]( https://store.steampowered.com/app/818500/Colorzzle/ ) ( 2018 | 퍼즐 | Darong Studio | PsychoFlux Entertainment )
 #### [Come on Baby!]( https://store.steampowered.com/app/1092260/Come_on_Baby/ ) ( 2019 | 아케이드, 캐주얼, 스포츠 | Expotato Corp. )
