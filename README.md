@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 261 개
+* 262 개
 
 
 
@@ -423,6 +423,7 @@
 #### [Too Many Zombies!]( https://store.steampowered.com/app/1551770/Too_Many_Zombies/ ) ( 2021 | PVE, 슈팅, 액션 | Derin )
 #### [Trinity Survivors | 트리니티 서바이버즈]( https://store.steampowered.com/app/2686580/Trinity_Survivors/ ) ( 2024 | 액션 로그라이트 | Flyway Games, Inc. )
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
+#### [TurnTack]( https://store.steampowered.com/app/944710/TurnTack/ ) ( 2021 | 퍼즐 플랫포머 | Jipang2Games )
 #### [Twinkle Hunter]( https://store.steampowered.com/app/2266740/Twinkle_Hunter/ ) ( 2024 | 2D 액션 | Silver Cat )
 #### U
 #### [Unfolded : Camellia Tales | 언폴디드 : 동백이야기]( https://store.steampowered.com/app/1357990/Unfolded__Camellia_Tales/ ) ( 2021 | 2D 포인트 앤 클릭 어드벤처 | COSDOTS )
