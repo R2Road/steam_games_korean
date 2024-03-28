@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 262 개
+* 263 개
 
 
 
@@ -208,6 +208,7 @@
 #### [Come on Baby!]( https://store.steampowered.com/app/1092260/Come_on_Baby/ ) ( 2019 | 아케이드, 캐주얼, 스포츠 | Expotato Corp. )
 #### [Commander Quest]( https://store.steampowered.com/app/2697930/Commander_Quest/ ) ( ? | 덱 빌딩RTS | Flyway Games, Inc. )
 #### [Contract]( https://store.steampowered.com/app/1219300/Contract/ ) ( 2020 | 2D 플랫포머 | Metamong )
+#### [Corrupted: Dawn of Havoc]( https://store.steampowered.com/app/2007770/Corrupted_Dawn_of_Havoc/ ) ( 2024 | 하드코어 오토배틀 로그라이크 덱빌딩 | 36Litters )
 #### [CRANGA!: Harbor Frenzy]( https://store.steampowered.com/app/517970/CRANGA_Harbor_Frenzy/ ) ( 2016 | VR 퍼즐 | HandMade Game )
 #### [Crazy Farm : VRGROUND]( https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/ ) ( 2018 | 파티 게임 | Jamong Inc. )
 #### [Cush's Amazin' Adventure!! | 쿠시의 엄천난 모험!!]( https://store.steampowered.com/app/2276110/Cushs_Amazin_Adventure/ ) ( 2023 | RPG, 어드벤처 | CushKim | PsychoFlux Entertainment )
