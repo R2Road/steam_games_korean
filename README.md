@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 264 개
+* 265 개
 
 
 
@@ -73,6 +73,7 @@
 #### [댄싱 에로우 : 비트스매시 | Dancing Arrow : Beat Smash]( https://store.steampowered.com/app/1190310/Dancing_Arrow__Beat_Smash/ ) ( 2019 | VR 리듬게임 | Geniesoft Inc. )
 #### [더 램지 | The Ramsey]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
 #### [더 스파이크 | The Spike]( https://store.steampowered.com/app/1296840/The_Spike/ ) ( 2020 | 2D 배구 | SUNCYAN studio | PsychoFlux Entertainment )
+#### [더스티 더비 | Dusty Derby]( https://store.steampowered.com/app/2536600/Dusty_Derby/ ) ( ? | 멀티플레이어 파티 로얄 | Geniesoft Inc. )
 #### [던전 로드 | Dungeon Lord]( https://store.steampowered.com/app/1429670/Dungeon_Lord/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. )
 #### [데네브: 별을 건너서 | Deneb: Across the Stars]( https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars/ ) ( 2022 | 탑다운 하드코어 플랫포머 | SEROSOO )
 #### [데블위딘 삿갓 | The Devil Within: Satgat]( https://store.steampowered.com/app/1802880/The_Devil_Within_Satgat/ ) ( ? | 횡스크롤 액션 | Newcore Games | Newcore Games, Astrolabe Games )
@@ -235,6 +236,7 @@
 #### [Dungeon Warfare]( https://store.steampowered.com/app/355980/Dungeon_Warfare/ ) ( 2015 | 타워 디펜스 | Valsar )
 #### [Dungeon Warfare 2]( https://store.steampowered.com/app/698540/Dungeon_Warfare_2/ ) ( 2018 | 타워 디펜스 | Valsar )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | 2D, 로그라이트, 횡스크롤 액션 | TEAM HORAY )
+#### [Dusty Derby | 더스티 더비]( https://store.steampowered.com/app/2536600/Dusty_Derby/ ) ( ? | 멀티플레이어 파티 로얄 | Geniesoft Inc. )
 #### [Dynasty Detective | 청구야담: 팔도견문록]( https://store.steampowered.com/app/2329060/Dynasty_Detective/ ) ( 2024 | 비주얼 노벨, 추리 | COSDOTS )
 #### E
 #### [Elevenses: The Flask | 일레븐지스: 플라스크]( https://store.steampowered.com/app/1165230/Elevenses_The_Flask/ ) ( 2022 | 비주얼 노벨 | REDRAY | PsychoFlux Entertainment )
