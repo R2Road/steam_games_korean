@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 265 개
+* 266 개
 
 
 
@@ -124,6 +124,7 @@
 #### [썸썸 편의점 | Some Some Convenience Store]( https://store.steampowered.com/app/1217390/Some_Some_Convenience_Store/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. )
 #### ㅇ
 #### [아라하 : 이은도의 저주 | Araha : Curse of Yieun Island]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
+#### [아크레티아 전기 | Acretia - Guardians of Lian]( https://store.steampowered.com/app/2164200/Acretia__Guardians_of_Lian/ ) ( 2022 | 턴제 전략 RPG | Ozaak, inc. )
 #### [안녕서울 : 이태원편 | GoodbyeSeoul : Itaewon]( https://store.steampowered.com/app/2551550/GoodbyeSeoul__Itaewon/ ) ( ? | 퍼즐 플랫포머 | JINO Games )
 #### [언폴디드 : 동백이야기 | Unfolded : Camellia Tales]( https://store.steampowered.com/app/1357990/Unfolded__Camellia_Tales/ ) ( 2021 | 2D 포인트 앤 클릭 어드벤처 | COSDOTS )
 #### [엑스 인베이더 | X Invader]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
@@ -177,6 +178,7 @@
 #### A
 #### [A Street Cat's Tale | 길고양이 이야기]( https://store.steampowered.com/app/1140570/A_Street_Cats_Tale/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
 #### [A Street Cat's Tale 2: Out side is dangerous | 길고양이 이야기 2: 집밖은 위험해]( https://store.steampowered.com/app/2356450/A_Street_Cats_Tale_2_Out_side_is_dangerous/ ) ( 2023 | 어드벤쳐  | PPIYO STUDIO | CFK Co., Ltd. )
+#### [Acretia - Guardians of Lian | 아크레티아 전기]( https://store.steampowered.com/app/2164200/Acretia__Guardians_of_Lian/ ) ( 2022 | 턴제 전략 RPG | Ozaak, inc. )
 #### [ACTION SANDBOX]( https://store.steampowered.com/app/1381650/ACTION_SANDBOX/ ) ( 2022 | 샌드박스, 시뮬레이션, 물리 | Vona Soft )
 #### [Adolescent Santa Claus | 산타는 교복을 입을 수 밖에 없어]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
 #### [Alchemist of Pipi Forest | 피피숲의 연금술사]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
