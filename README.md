@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 266 개
+* 267 개
 
 
 
@@ -154,6 +154,7 @@
 #### [킹덤 언더 파이어 : 더 크루세이더 | Kingdom Under Fire: The Crusaders]( https://store.steampowered.com/app/1121420/Kingdom_Under_Fire_The_Crusaders/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### [킹덤언더파이어: 히어로즈 | Kingdom Under Fire: Heroes]( https://store.steampowered.com/app/1315200/Kingdom_Under_Fire_Heroes/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### ㅌ
+#### [터미너스: 좀비 생존자들 | Terminus: Zombie Survivors]( https://store.steampowered.com/app/1534980/Terminus_Zombie_Survivors/ ) ( 2021 | 턴제 생존 로그라이크 | Ingeon Games )
 #### [트러블슈터: 버려진 아이들 | TROUBLESHOOTER: Abandoned Children]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
 #### [트리니티 서바이버즈 | Trinity Survivors]( https://store.steampowered.com/app/2686580/Trinity_Survivors/ ) ( 2024 | 액션 로그라이트 | Flyway Games, Inc. )
 #### [팀파이트 매니저 | Teamfight Manager]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
@@ -412,6 +413,7 @@
 #### [Sudoku RPG | 스도쿠 알피지]( https://store.steampowered.com/app/1474200/Sudoku_RPG/ ) ( 2021 | 퍼즐, RPG | RainbowStudio )
 #### T
 #### [Teamfight Manager | 팀파이트 매니저]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
+#### [Terminus: Zombie Survivors | 터미너스: 좀비 생존자들]( https://store.steampowered.com/app/1534980/Terminus_Zombie_Survivors/ ) ( 2021 | 턴제 생존 로그라이크 | Ingeon Games )
 #### [The Callisto Protocol™]( https://store.steampowered.com/app/1544020/The_Callisto_Protocol/ ) ( 2022 | SF, 생존, 공포, 3인칭 슈팅 | Striking Distance Studios | KRAFTON, Inc. )
 #### [The Coma 2: Vicious Sisters]( https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/ ) ( 2020 | 2D, 공포, 어드벤처 | Devespresso Games | Headup, WhisperGames )
 #### [The Coma: Recut]( https://store.steampowered.com/app/600090/The_Coma_Recut/ ) ( 2017 | 2D, 공포, 어드벤처 | Devespresso Games | Headup )
