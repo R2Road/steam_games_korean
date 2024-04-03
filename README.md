@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 269 개
+* 270 개
 
 
 
@@ -116,6 +116,7 @@
 #### [산타는 교복을 입을 수 밖에 없어 | Adolescent Santa Claus]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
 #### [세 장의 카드 | Three of Cards]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
 #### [세븐데이즈 오리진 | 7Days Origins]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
+#### [셔터냥! Enhanced Edition | Shutter Nyan! Enhanced Edition]( https://store.steampowered.com/app/1227320/Shutter_Nyan_Enhanced_Edition/ ) ( 2021 | 2D 횡스크롤 카메라 액션 | PROJECT MOREUM Inc. | CFK Co., Ltd. )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
 #### [스도쿠 알피지 | Sudoku RPG]( https://store.steampowered.com/app/1474200/Sudoku_RPG/ ) ( 2021 | 퍼즐, RPG | RainbowStudio )
 #### [스플릿 스퀘어 | Split square]( https://store.steampowered.com/app/2491130/Split_square/ ) ( 2023 | 덱 빌딩 로그라이크 | Shedin )
@@ -397,6 +398,7 @@
 #### [Scarlet Hood and the Wicked Wood]( https://store.steampowered.com/app/1141120/Scarlet_Hood_and_the_Wicked_Wood/ ) ( 2021 | 퍼즐, 어드벤처 | Devespresso Games | Headup, WhisperGames )
 #### [Seonbi : Scholar of Joseon | 문경새재]( https://store.steampowered.com/app/1925860/Seonbi__Scholar_of_Joseon/ ) ( 2023 | 횡스크롤 액션 로그라이트 | Team ETTU )
 #### [Shikhondo(食魂徒) - Soul Eater]( https://store.steampowered.com/app/720150/Shikhondo__Soul_Eater/ ) ( 2017 | 탄막 슈팅게임 | DeerFarm )
+#### [Shutter Nyan! Enhanced Edition | 셔터냥! Enhanced Edition]( https://store.steampowered.com/app/1227320/Shutter_Nyan_Enhanced_Edition/ ) ( 2021 | 2D 횡스크롤 카메라 액션 | PROJECT MOREUM Inc. | CFK Co., Ltd. )
 #### [Silent World]( https://store.steampowered.com/app/1210670/Silent_World/ ) ( 2020 | 액션 어드벤처 | GniFrix | CFK Co., Ltd. )
 #### [Sixtar Gate: STARTRAIL | 식스타 게이트: 스타트레일]( https://store.steampowered.com/app/1802720/Sixtar_Gate_STARTRAIL/ ) ( 2021 | 건반형 리듬 게임 | Lyrebird Studio, Starlike Inc. | CFK Co., Ltd. )
 #### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | 2D, 로그라이트, 액션, 플랫포머 | Southpaw Games Co., Ltd. | NEOWIZ )
