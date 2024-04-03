@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 268 개
+* 269 개
 
 
 
@@ -408,6 +408,7 @@
 #### [Space God]( https://store.steampowered.com/app/637120/Space_God/ ) ( 2018 | 탑 다운 슈팅 | Jellypig Games | Jellypig Games, PsychoFlux Entertainment )
 #### [SPLIT BULLET]( https://store.steampowered.com/app/449450/SPLIT_BULLET/ ) ( 2016 | 탄막슈팅 | IndigoBlue Game Studio | PsychoFlux Entertainment )
 #### [Split square | 스플릿 스퀘어]( https://store.steampowered.com/app/2491130/Split_square/ ) ( 2023 | 덱 빌딩 로그라이크 | Shedin )
+#### [STAND-ALONE]( https://store.steampowered.com/app/2226730/STANDALONE/ ) ( 2024 | 스킬 덱 빌딩의 액션 로그라이크 | LIFUEL )
 #### [Star Island]( https://store.steampowered.com/app/1391960/Star_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Star Rabbits]( https://store.steampowered.com/app/2167600/Star_Rabbits/ ) ( 2024 | 액션 어드벤처 | ZeroToTenB )
 #### [Subterrain]( https://store.steampowered.com/app/340490/Subterrain/ ) ( 2016 | 턴 기반 생존 RPG | Pixellore Inc )
