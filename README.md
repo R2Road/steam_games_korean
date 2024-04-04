@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 270 개
+* 271 개
 
 
 
@@ -281,6 +281,7 @@
 #### [Infinite Sunshine Dust]( https://store.steampowered.com/app/673810/Infinite_Sunshine_Dust/ ) ( 2018 | 공포, 어드벤처 | Kena MAKF )
 #### [Ira | 이라]( https://store.steampowered.com/app/1536210/Ira/ ) ( 2023 | 탄막 슈팅 로그라이트 | ABShot | Nicalis, Inc. )
 #### K
+#### [KALPA: Cosmic Symphony]( https://store.steampowered.com/app/2717010/KALPA_Cosmic_Symphony/ ) ( 2024 | 리듬 | QueseraGames Co., Ltd. )
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. )
 #### [Kill the Dictator]( https://store.steampowered.com/app/917200/Kill_the_Dictator/ ) ( 2018 | 캐쥬얼 전략 시뮬레이션 | Afeel inc, Magic Cube | Afeel inc )
 #### [Kingdom Under Fire: A War of Heroes (GOLD Edition)]( https://store.steampowered.com/app/2183600/Kingdom_Under_Fire_A_War_of_Heroes_GOLD_Edition/ ) ( 2022 | 전략, 액션, RPG | Blueside, Bloom Technology | Incredi Soft, Bloom Technology )
