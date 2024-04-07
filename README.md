@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 273 개
+* 274 개
 
 
 
@@ -252,6 +252,7 @@
 #### [Everslash]( https://store.steampowered.com/app/1152820/Everslash/ ) ( 2020 | 2D, 액션, 플랫폼 | Jaemin Park | PsychoFlux Entertainment )
 #### [EZ2ON REBOOT : R]( https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/ ) ( 2022 | 리듬 게임 | Neonovice Co., Ltd., SQUARE PIXELS | Neonovice Co., Ltd. )
 #### F
+#### [FADE^2]( https://store.steampowered.com/app/2725240/FADE2/ ) ( 2023 | 플랫포머, 러너, 음악 인터랙션 | QueseraGames Co., Ltd. )
 #### [Fairy Knights]( https://store.steampowered.com/app/903850/Fairy_Knights/ ) ( 2019 | 퍼즐 RPG | WIDStudio | CFK Co., Ltd. )
 #### [FAKE HEART | 가짜 하트]( https://store.steampowered.com/app/2109360/FAKE_HEART/ ) ( 2023 | 인터렉티브 비주얼 노벨 | BLANBEE )
 #### [FAKE SIGNALS]( https://store.steampowered.com/app/2161430/FAKE_SIGNALS/ ) ( 2023 | 액션 하이브리드 로그라이트 | Vona Soft | Vona Soft, Another Indie )
