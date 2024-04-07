@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 272 개
+* 273 개
 
 
 
@@ -287,6 +287,7 @@
 #### [Kingdom Under Fire: A War of Heroes (GOLD Edition)]( https://store.steampowered.com/app/2183600/Kingdom_Under_Fire_A_War_of_Heroes_GOLD_Edition/ ) ( 2022 | 전략, 액션, RPG | Blueside, Bloom Technology | Incredi Soft, Bloom Technology )
 #### [Kingdom Under Fire: Heroes | 킹덤언더파이어: 히어로즈]( https://store.steampowered.com/app/1315200/Kingdom_Under_Fire_Heroes/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### [Kingdom Under Fire: The Crusaders | 킹덤 언더 파이어 : 더 크루세이더]( https://store.steampowered.com/app/1121420/Kingdom_Under_Fire_The_Crusaders/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
+#### [Kitchen Crisis]( https://store.steampowered.com/app/2118250/Kitchen_Crisis/ ) ( 2024 | 요리 디펜스 | Team Samoyed )
 #### [Korea Dynasty | 조선메타실록]( https://store.steampowered.com/app/2216600/Korea_Dynasty/ ) ( 2023 | 오픈월드 생존 탐험 | (주)행복한다람쥐단( Happy Daram Inc. ) )
 #### [Kusan : City of Wolves]( https://store.steampowered.com/app/1714510/Kusan__City_of_Wolves/ ) ( 2024Q3 | 탑다운 슈터 | CIRCLEfromDOT )
 #### L
