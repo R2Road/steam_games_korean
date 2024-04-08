@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 274 개
+* 275 개
 
 
 
@@ -348,6 +348,7 @@
 #### [NEOVERSE]( https://store.steampowered.com/app/994220/NEOVERSE/ ) ( 2020 | 덱빌딩, 전략, 액션, 로그라이트 | Tinogames Inc. )
 #### [Nevaeh | 네바에]( https://store.steampowered.com/app/1222090/Nevaeh/ ) ( 2020 | 2D, 액션, 퍼즐, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
 #### [Next Hero]( https://store.steampowered.com/app/756490/Next_Hero/ ) ( 2018 | 로그라이크 슈팅 액션 RPG | LINE Games Corporation )
+#### [Nientum - Opus Zero]( https://store.steampowered.com/app/2725250/Nientum__Opus_Zero/ ) ( 2024 | 플랫포머, 러너, 음악 인터랙션 | QueseraGames Co., Ltd. )
 #### [Night of the Dead]( https://store.steampowered.com/app/1377380/Night_of_the_Dead/ ) ( 2020 | 생존, 기지건설 | jacktostudios )
 #### [Ninja Issen (忍者一閃) | 닌자 일섬]( https://store.steampowered.com/app/1714550/__Ninja_Issen/ ) ( 2023 | 하이퍼 닌자 액션 | ASTEROID-J | CFK Co., Ltd. )
 #### [No Case Should Remain Unsolved | 미제사건은 끝내야 하니까]( https://store.steampowered.com/app/2676840/No_Case_Should_Remain_Unsolved/ ) ( 2024 | 어드벤처, 포인트 앤 클릭 | Somi )
