@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 275 개
+* 276 개
 
 
 
@@ -104,6 +104,7 @@
 #### [베리드 스타즈 | BURIED STARS]( https://store.steampowered.com/app/1025960/BURIED_STARS/ ) ( 2021 | 어드벤처 | LINE Games Corporation )
 #### [베일드 엣지 | Veiled Edge]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio, 오뉴월스튜디오 )
 #### [별이되어라2: 베다의 기사들 | ASTRA: Knights of Veda]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( ? | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
+#### [블랙홀 이스케이프 | Black hole Escape]( https://store.steampowered.com/app/2897270/Black_hole_Escape/ ) ( 2024 | 물리기반 코믹 우주유영 | Teleportsoft )
 #### [블루 웬즈데이 | Blue Wednesday]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
 #### [비포 더 나이트 | Before The Night]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
 #### [비포 더 던 | REMORE: INFESTED KINGDOM]( https://store.steampowered.com/app/2225480/REMORE_INFESTED_KINGDOM/ ) ( 2023 | 턴제 Tactical RPG | Black Anchor | Webzen )
@@ -195,6 +196,7 @@
 #### [Battery Samurai]( https://store.steampowered.com/app/2376780/Battery_Samurai/ ) ( 2023 | 어드벤처 | Matthewstone )
 #### [Before The Night | 비포 더 나이트]( https://store.steampowered.com/app/1829420/Before_The_Night/ ) ( 2022 | 호러 액션 어드벤처 | Uneducated Game Studio )
 #### [Black Academy]( https://store.steampowered.com/app/1602390/Black_Academy/ ) ( 2023 | 횡스크롤 슈팅, 로그라이트 | Catdoors |  )
+#### [Black hole Escape | 블랙홀 이스케이프]( https://store.steampowered.com/app/2897270/Black_hole_Escape/ ) ( 2024 | 물리기반 코믹 우주유영 | Teleportsoft )
 #### [BLACK WITCHCRAFT]( https://store.steampowered.com/app/1557410/BLACK_WITCHCRAFT/ ) ( 2022 | 2D, 고딕, 액션RPG | QuattroGear | CREST )
 #### [Blade Assault]( https://store.steampowered.com/app/1367300/Blade_Assault/ ) ( 2022 | 2D, 액션, 로그라이크, 플랫폼 | TeamSuneat | NEOWIZ )
 #### [Blindia]( https://store.steampowered.com/app/943510/Blindia/ ) ( 2018 | 탑 다운 슈팅 퍼즐 | IndigoBlue Game Studio | PsychoFlux Entertainment )
