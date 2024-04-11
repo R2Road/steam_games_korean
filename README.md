@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 277 개
+* 278 개
 
 
 
@@ -365,6 +365,7 @@
 #### [OnePunch]( https://store.steampowered.com/app/2712450/OnePunch/ ) ( ? | 액션 | SPRING Games | CFK Co., Ltd. )
 #### [OVERTURN]( https://store.steampowered.com/app/650070/OVERTURN/ ) ( 2017 | FMS, 액션 퍼즐, 어드벤처 | STUDIO HG | YJM GAMES )
 #### P
+#### [Pa!nt]( https://store.steampowered.com/app/2516270/Pant/ ) ( 2024 | 퍼즐 | BIBGames Inc. )
 #### [Pechka: Historical Story Adventure | 페치카]( https://store.steampowered.com/app/2210700/Pechka_Historical_Story_Adventure/ ) ( 2023 | 2D 어드벤처 | Growing Seeds )
 #### [Pepo]( https://store.steampowered.com/app/1431170/Pepo/ ) ( 2022 | 2D 플랫포머 슈팅 | TeamBUD )
 #### [Pink Island]( https://store.steampowered.com/app/1312070/Pink_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
