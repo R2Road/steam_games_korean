@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 278 개
+* 279 개
 
 
 
@@ -443,6 +443,7 @@
 #### [The Wake: Mourning Father, Mourning Mother]( https://store.steampowered.com/app/1311540/The_Wake_Mourning_Father_Mourning_Mother/ ) ( 2020 | 텍스트, 퍼즐, 어드벤처 | Somi | Somi, indienova )
 #### [Three of Cards | 세 장의 카드]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
 #### [Thy Creature | 다이 크리쳐]( https://store.steampowered.com/app/1603720/Thy_Creature/ ) ( 2022 | 어드벤처 | Growing Seeds )
+#### [TOBOR]( https://store.steampowered.com/app/2081310/TOBOR/ ) ( 2023 | 스파이 시뮬레이션 | Cogoo )
 #### [Too Many Zombies!]( https://store.steampowered.com/app/1551770/Too_Many_Zombies/ ) ( 2021 | PVE, 슈팅, 액션 | Derin )
 #### [Trinity Survivors | 트리니티 서바이버즈]( https://store.steampowered.com/app/2686580/Trinity_Survivors/ ) ( 2024 | 액션 로그라이트 | Flyway Games, Inc. )
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
