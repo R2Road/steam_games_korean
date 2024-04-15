@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 281 개
+* 282 개
 
 
 
@@ -71,6 +71,7 @@
 #### [닌자 일섬 | Ninja Issen (忍者一閃)]( https://store.steampowered.com/app/1714550/__Ninja_Issen/ ) ( 2023 | 하이퍼 닌자 액션 | ASTEROID-J | CFK Co., Ltd. )
 #### ㄷ
 #### [다이 크리쳐 | Thy Creature]( https://store.steampowered.com/app/1603720/Thy_Creature/ ) ( 2022 | 어드벤처 | Growing Seeds )
+#### [다크워터 : 슬라임 인베이더 | Dark Water : Slime Invader]( https://store.steampowered.com/app/1235830/Dark_Water__Slime_Invader/ ) ( 2021 | 점프 액션 | DEVBOX | DEVBOX, HeartBeat Games )
 #### [댄싱 에로우 : 비트스매시 | Dancing Arrow : Beat Smash]( https://store.steampowered.com/app/1190310/Dancing_Arrow__Beat_Smash/ ) ( 2019 | VR 리듬게임 | Geniesoft Inc. )
 #### [더 램지 | The Ramsey]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
 #### [더 스파이크 | The Spike]( https://store.steampowered.com/app/1296840/The_Spike/ ) ( 2020 | 2D 배구 | SUNCYAN studio | PsychoFlux Entertainment )
@@ -227,6 +228,7 @@
 #### [DAGURI: Gambling Apocalypse | 도박묵시록 다구리: Remastered]( https://store.steampowered.com/app/2004180/DAGURI_Gambling_Apocalypse/ ) ( 2022 | 오픈 월드 도박 시뮬레이션 | DakeCraft | PsychoFlux Entertainment )
 #### [Dancing Arrow : Beat Smash | 댄싱 에로우 : 비트스매시]( https://store.steampowered.com/app/1190310/Dancing_Arrow__Beat_Smash/ ) ( 2019 | VR 리듬게임 | Geniesoft Inc. )
 #### [Dandelion - Wishes brought to you -]( https://store.steampowered.com/app/321290/Dandelion__Wishes_brought_to_you/ ) ( 2012 | 여성향 연애 육성 시뮬레이션 | Sujin Ri, Marcos Arroyo, Seona Lee, Somi Lee, Sohyeon Jeon | Cheritz )
+#### [Dark Water : Slime Invader | 다크워터 : 슬라임 인베이더]( https://store.steampowered.com/app/1235830/Dark_Water__Slime_Invader/ ) ( 2021 | 점프 액션 | DEVBOX | DEVBOX, HeartBeat Games )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
 #### [Day Island]( https://store.steampowered.com/app/1361150/Day_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Deep Dark Dungeon]( https://store.steampowered.com/app/496290/Deep_Dark_Dungeon/ ) ( 2018 | 로그라이트, 액션 | GlassCats | GlassCats, PsychoFlux Entertainment )
