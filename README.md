@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 282 개
+* 283 개
 
 
 
@@ -382,6 +382,7 @@
 #### [Pygmalion]( https://store.steampowered.com/app/2234960/Pygmalion/ ) ( 2023 | 퍼즐 | CandLE )
 #### Q
 #### [Qualification as Rogue | 용사의 자격]( https://store.steampowered.com/app/2308820/Qualification_as_Rogue/ ) ( 2023 | 액션 로그라이크, 플랫포머 | SUNBEESOFT )
+#### [QV(큐브이)]( https://store.steampowered.com/app/1494110/QV/ ) ( 2021 | 퍼즐 액션 어드벤쳐 | IZZLE | CFK Co., Ltd. )
 #### R
 #### [Rabbit Hole 3D: Steam Edition]( https://store.steampowered.com/app/283660/Rabbit_Hole_3D_Steam_Edition/ ) ( 2014 | 퍼즐 | Somi | Zero Rock Entertainment )
 #### [RaidTitans]( https://store.steampowered.com/app/1203140/RaidTitans/ ) ( 2020 | 실시간 전략 RPG | RainbowStudio )
