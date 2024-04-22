@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 286 개
+* 287 개
 
 
 
@@ -77,6 +77,7 @@
 #### [더 스파이크 | The Spike]( https://store.steampowered.com/app/1296840/The_Spike/ ) ( 2020 | 2D 배구 | SUNCYAN studio | PsychoFlux Entertainment )
 #### [더스티 더비 | Dusty Derby]( https://store.steampowered.com/app/2536600/Dusty_Derby/ ) ( ? | 멀티플레이어 파티 로얄 | Geniesoft Inc. )
 #### [던전 로드 | Dungeon Lord]( https://store.steampowered.com/app/1429670/Dungeon_Lord/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. )
+#### [던전 슬래셔 | DUNGEON SLASHER]( https://store.steampowered.com/app/2712460/DUNGEON_SLASHER/ ) ( ? | 횡스크롤 로그라이크 | 96Percent | CFK Co., Ltd. )
 #### [데네브: 별을 건너서 | Deneb: Across the Stars]( https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars/ ) ( 2022 | 탑다운 하드코어 플랫포머 | SEROSOO )
 #### [데블위딘 삿갓 | The Devil Within: Satgat]( https://store.steampowered.com/app/1802880/The_Devil_Within_Satgat/ ) ( ? | 횡스크롤 액션 | Newcore Games | Newcore Games, Astrolabe Games )
 #### [데이브 더 다이버 | DAVE THE DIVER]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
@@ -246,6 +247,7 @@
 #### [Dreamals]( https://store.steampowered.com/app/480770/Dreamals/ ) ( 2017 | 퍼즐 | XINESS Co,. Ltd. )
 #### [Dungeon Inn]( https://store.steampowered.com/app/2552310/Dungeon_Inn/ ) ( 2024 | 턴제 전략 매니지먼트 | Cat Society )
 #### [Dungeon Lord | 던전 로드]( https://store.steampowered.com/app/1429670/Dungeon_Lord/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. )
+#### [DUNGEON SLASHER | 던전 슬래셔]( https://store.steampowered.com/app/2712460/DUNGEON_SLASHER/ ) ( ? | 횡스크롤 로그라이크 | 96Percent | CFK Co., Ltd. )
 #### [Dungeon Warfare]( https://store.steampowered.com/app/355980/Dungeon_Warfare/ ) ( 2015 | 타워 디펜스 | Valsar )
 #### [Dungeon Warfare 2]( https://store.steampowered.com/app/698540/Dungeon_Warfare_2/ ) ( 2018 | 타워 디펜스 | Valsar )
 #### [Dungreed]( https://store.steampowered.com/app/753420/Dungreed/ ) ( 2018 | 2D, 로그라이트, 횡스크롤 액션 | TEAM HORAY )
