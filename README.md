@@ -47,7 +47,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 287 개
+* 288 개
 
 
 
@@ -176,6 +176,7 @@
 #### _
 #### [_전언: | _message:]( https://store.steampowered.com/app/2659150/_message/ ) ( 2023 | 공포, 텍스트 어드벤처 | TEAM 217 | PsychoFlux Entertainment )
 #### 3
+#### [30일 어나더 | 30 Days Another]( https://store.steampowered.com/app/2125870/30_Days_Another/ ) ( 2024Q4 | 멀티 엔딩 스토리 어드벤처 | THE BRICKS GAMES )
 #### [3분 영웅 | 3 Minute Heroes]( https://store.steampowered.com/app/1475460/3_Minute_Heroes/ ) ( 2020 | 타워 디펜스, 덱 빌딩, 로그라이크, 실시간 전략 | Sinkhole Studio )
 #### P
 #### [P의 거짓 | Lies of P]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ )
@@ -495,6 +496,7 @@
 #### [21 Days]( https://store.steampowered.com/app/607660/21_Days/ ) ( 2017 | 난민 시뮬레이션 | Hardtalk Studio )
 #### 3
 #### [3 Minute Heroes | 3분 영웅]( https://store.steampowered.com/app/1475460/3_Minute_Heroes/ ) ( 2020 | 타워 디펜스, 덱 빌딩, 로그라이크, 실시간 전략 | Sinkhole Studio )
+#### [30 Days Another | 30일 어나더]( https://store.steampowered.com/app/2125870/30_Days_Another/ ) ( 2024Q4 | 멀티 엔딩 스토리 어드벤처 | THE BRICKS GAMES )
 #### [3000th Duel]( https://store.steampowered.com/app/1098080/3000th_Duel/ ) ( 2019 | 메트로베니아, 소울라이크 | NEOPOPCORN Corp )
 #### 6
 #### [6180 the moon]( https://store.steampowered.com/app/299660/6180_the_moon/ ) ( 2014 | 2D, 퍼즐, 플랫폼 | Turtle Cream, PokPoong Games | Turtle Cream )
