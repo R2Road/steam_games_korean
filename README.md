@@ -58,7 +58,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 288 개
+* 289 개
 
 
 
@@ -98,6 +98,7 @@
 #### [라이트 오디세이 | Light Odyssey]( https://store.steampowered.com/app/1902860/Light_Odyssey/ ) ( 2024Q4 | 보스러시 액션게임 | SSUN GAMES | GRAVITY )
 #### [라핀 | LAPIN]( https://store.steampowered.com/app/1454540/LAPIN/ ) ( 2023 | 2D 정밀 플랫포머 | Studio Doodal )
 #### [러브 딜리버리 | Love Delivery]( https://store.steampowered.com/app/1817940/Love_Delivery/ ) ( 2022 | 미소녀 연애 시뮬레이션 | Onfire Games )
+#### [레이저존 | LaserZone]( https://store.steampowered.com/app/1125880/LaserZone/ ) ( 2021 | 퍼즐 | GameCanvas Inc. )
 #### [로드 오브 파티 | The Lord of the Parties]( https://store.steampowered.com/app/1602880/The_Lord_of_the_Parties/ ) ( 2022 | 2D 종스크롤 파티 슈팅 RPG | Magic Cube, Dizcon | HIKE Inc. )
 #### [루나 : 차원의 감시자 | Luna : The Dimension Watcher]( https://store.steampowered.com/app/1218360/Luna__The_Dimension_Watcher/ ) ( 2020 | 대규모 군단 전략 디펜스 RPG | Dave Studio )
 #### [루바토: 오리지널 콤플렉스 | Ruvato: Original Complex]( https://store.steampowered.com/app/1464500/Ruvato_Original_Complex/ ) ( 2020 | 액션, 플랫폼, 핵앤슬래시 | REMIMORY )
@@ -315,6 +316,7 @@
 #### [Kusan : City of Wolves]( https://store.steampowered.com/app/1714510/Kusan__City_of_Wolves/ ) ( 2024Q3 | 탑다운 슈터 | CIRCLEfromDOT )
 #### L
 #### [LAPIN | 라핀]( https://store.steampowered.com/app/1454540/LAPIN/ ) ( 2023 | 2D 정밀 플랫포머 | Studio Doodal )
+#### [LaserZone | 레이저존]( https://store.steampowered.com/app/1125880/LaserZone/ ) ( 2021 | 퍼즐 | GameCanvas Inc. )
 #### [Last Light]( https://store.steampowered.com/app/1675620/Last_Light ) ( 2021 | 호러 어드벤쳐 | Team Corn Field | HIKE Inc. )
 #### [Legal Dungeon]( https://store.steampowered.com/app/1013750/Legal_Dungeon/ ) ( 2019 | 시뮬레이션, 어드벤처 | Somi )
 #### [Library Of Ruina]( https://store.steampowered.com/app/1256670/Library_Of_Ruina ) ( 2021 | 도서관 배틀 시뮬레이션 | ProjectMoon )
