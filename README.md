@@ -57,7 +57,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 291 개
+* 292 개
 
 
 
@@ -498,6 +498,7 @@
 #### [Wicce]( https://store.steampowered.com/app/465130/Wicce/ ) ( 2016 | 2D, 액션, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
 #### [WitchSpring R | 마녀의샘R]( https://store.steampowered.com/app/1958220/WitchSpring_R/ ) ( 2023 | 스토리형 육성 RPG | KIWIWALKS )
 #### [WitchSpring3 Re:Fine - The Story of Eirudy - | 마녀의샘3 Re:Fine －인형 마녀 아이루디의 이야기－]( https://store.steampowered.com/app/1592520/WitchSpring3_ReFine__The_Story_of_Eirudy/ ) ( 2021 | RPG | KIWIWALKS, IKINAGAMES | KIWIWALKS )
+#### [Wolf and Pigs]( https://store.steampowered.com/app/1198810/Wolf_and_Pigs/ ) ( 2020 | VR 슈터 | Visual Light )
 #### [World of Mines Creator's Edition]( https://store.steampowered.com/app/1945560/World_of_Mines_Creators_Edition/ ) ( 2022 | 지뢰찾기 | Cogoo )
 #### X
 #### [X Invader | 엑스 인베이더]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
