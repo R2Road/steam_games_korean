@@ -57,7 +57,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 294 개
+* 295 개
 
 
 
@@ -333,6 +333,7 @@
 #### [Love in Login]( https://store.steampowered.com/app/2661620/Love_in_Login/ ) ( ? | 비주얼 노벨 | Metacraft, Onfire Games | Smilegate Stove )
 #### [Love Too Easily | 과몰입금지]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
 #### [Lu Bu Maker | 여포키우기]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
+#### [Lucky Fish Bread]( https://store.steampowered.com/app/1695400/Lucky_Fish_Bread/ ) ( 2022 | VR, 경영, 생활 시뮬레이션 | Visual Light )
 #### [Lullaby Days | 라라바이 데이즈]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
 #### [Luna : The Dimension Watcher | 루나 : 차원의 감시자]( https://store.steampowered.com/app/1218360/Luna__The_Dimension_Watcher/ ) ( 2020 | 대규모 군단 전략 디펜스 RPG | Dave Studio )
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
