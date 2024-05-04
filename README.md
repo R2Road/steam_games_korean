@@ -57,7 +57,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 298 개
+* 299 개
 
 
 
@@ -427,6 +427,7 @@
 #### [ROOMS: The Toymaker's Mansion]( https://store.steampowered.com/app/331460/ROOMS_The_Toymakers_Mansion/ ) ( 2015 | 퍼즐 | HandMade Game )
 #### [Rose and Lotus: Petals of Memories | 장화홍련: 기억의 조각]( https://store.steampowered.com/app/699710/Rose_and_Lotus_Petals_of_Memories/ ) ( 2023 | 2D, 포인트앤클릭 | 5minlab Corp. )
 #### [Route8]( https://store.steampowered.com/app/2889460/Route8/ ) ( 2024 | 공포 | PLAY Mephistowaltz )
+#### [RP7]( https://store.steampowered.com/app/1334500/RP7/ ) ( 2024 | 슬롯-매니징 로그라이크 | Turtle Cream | IndieArk )
 #### [RUNES Magica]( https://store.steampowered.com/app/1908500/RUNES_Magica/ ) ( 2023 | 2D 로그라이크 마법 액션 | BONE MADE )
 #### [Ruvato: Original Complex | 루바토: 오리지널 콤플렉스]( https://store.steampowered.com/app/1464500/Ruvato_Original_Complex/ ) ( 2020 | 액션, 플랫폼, 핵앤슬래시 | REMIMORY )
 #### S
