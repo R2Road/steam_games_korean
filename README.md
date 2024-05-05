@@ -57,7 +57,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 299 개
+* 300 개
 
 
 
@@ -402,6 +402,7 @@
 #### [Polar Penguin Post | 폴라 펭귄 포스트]( https://store.steampowered.com/app/1934020/Polar_Penguin_Post/ ) ( 2022 | 퍼즐 시뮬레이션 | Little Lemon Bulb )
 #### [Potty Knight Saga]( https://store.steampowered.com/app/2728950/Potty_Knight_Saga/ ) ( 2024 | 액션어드벤쳐 | PLAY Mephistowaltz )
 #### [Project Rhombus]( https://store.steampowered.com/app/735570/Project_Rhombus/ ) ( 2017 | 리듬기반 캐주얼 액션 | SEROSOO | PsychoFlux Entertainment )
+#### [PROJECT TACHYON]( https://store.steampowered.com/app/2905790/PROJECT_TACHYON/ ) ( 2024 | 런 앤 건 액션 슈팅 | STUDIO N9 | HIKE Inc. )
 #### [PUBG: BATTLEGROUNDS]( https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/ ) ( 2017 | 배틀로얄 건플레이 | KRAFTON, Inc. )
 #### [Pygmalion]( https://store.steampowered.com/app/2234960/Pygmalion/ ) ( 2023 | 퍼즐 | CandLE )
 #### Q
