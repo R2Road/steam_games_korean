@@ -115,7 +115,7 @@
 #### ㅂ
 #### [배고픈 원시인 | Hungry Caveman]( https://store.steampowered.com/app/2166250/Hungry_Caveman/ ) ( 2023 | 어드벤처 | RainbowStudio )
 #### [베리드 스타즈 | BURIED STARS]( https://store.steampowered.com/app/1025960/BURIED_STARS/ ) ( 2021 | 어드벤처 | LINE Games Corporation )
-#### [베일드 엣지 | Veiled Edge]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio, 오뉴월스튜디오 )
+#### [베일드 엣지 | Veiled Edge]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio )
 #### [별이되어라2: 베다의 기사들 | ASTRA: Knights of Veda]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( 2024 | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
 #### [블랙홀 이스케이프 | Black hole Escape]( https://store.steampowered.com/app/2897270/Black_hole_Escape/ ) ( 2024 | 물리기반 코믹 우주유영 | Teleportsoft )
 #### [블루 웬즈데이 | Blue Wednesday]( https://store.steampowered.com/app/2129160/Blue_Wednesday/ ) ( 2023 | 스토리 어드벤처 | Buff Studio )
@@ -491,7 +491,7 @@
 #### [Vambrace: Cold Soul]( https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/ ) ( 2019 | 로그라이트, 어드벤처 | Devespresso Games | Headup, WhisperGames )
 #### [Vapor World: Over The Mind]( https://store.steampowered.com/app/1996090/Vapor_World_Over_The_Mind/ ) ( ? | 액션 어드벤처 플랫포머 | ALIVE Inc. | TBA )
 #### [Vectorium]( https://store.steampowered.com/app/712870/Vectorium/ ) ( 2018 | 아케이드 슈팅 | IndigoBlue Game Studio )
-#### [Veiled Edge | 베일드 엣지]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio, 오뉴월스튜디오 )
+#### [Veiled Edge | 베일드 엣지]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio )
 #### [VELASTER]( https://store.steampowered.com/app/1897060/VELASTER/ ) ( ? | 2.5D 횡스크롤 액션 전투 게임 | ODYSSEYER )
 #### [Vindictus: Defying Fate | 빈딕투스: 디파잉 페이트]( https://store.steampowered.com/app/2814860/Vindictus_Defying_Fate/ ) ( ? | 액션RPG | NEXON )
 #### [VINE]( https://store.steampowered.com/app/1832130/VINE/ ) ( 2023 | 퍼즐, 로프액션 | FrogParty | OurTurn Games )
