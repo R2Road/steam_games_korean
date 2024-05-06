@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 301 개
+* 302 개
 
 
 
@@ -459,6 +459,7 @@
 #### [Subterrain: Mines of Titan]( https://store.steampowered.com/app/1573100/Subterrain_Mines_of_Titan/ ) ( 2024 | 턴제 서바이벌 RPG | Pixellore Inc | Freedom Games )
 #### [Sudoku RPG | 스도쿠 알피지]( https://store.steampowered.com/app/1474200/Sudoku_RPG/ ) ( 2021 | 퍼즐, RPG | RainbowStudio )
 #### [Sugar Cube: Bittersweet Factory]( https://store.steampowered.com/app/212110/Sugar_Cube_Bittersweet_Factory/ ) ( 2012 | 플랫포머 | Turtle Cream )
+#### [Super Hamster Ball]( https://store.steampowered.com/app/2131920/Super_Hamster_Ball/ ) ( 2022 | 퍼즐 액션 | IKINAGAMES )
 #### T
 #### [Teamfight Manager | 팀파이트 매니저]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
 #### [Terminus: Zombie Survivors | 터미너스: 좀비 생존자들]( https://store.steampowered.com/app/1534980/Terminus_Zombie_Survivors/ ) ( 2021 | 턴제 생존 로그라이크 | Ingeon Games )
