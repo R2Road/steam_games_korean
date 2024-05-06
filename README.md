@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 300 개
+* 301 개
 
 
 
@@ -160,6 +160,7 @@
 #### [조선 좀비 디펜스 | Chosun Zombie Defense]( https://store.steampowered.com/app/2265760/Chosun_Zombie_Defense/ ) ( 2023 | 디펜스, VR | Geniesoft Inc. )
 #### [조선메타실록 | Korea Dynasty]( https://store.steampowered.com/app/2216600/Korea_Dynasty/ ) ( 2023 | 오픈월드 생존 탐험 | (주)행복한다람쥐단( Happy Daram Inc. ) )
 #### [지구멸망 60초전! -운석배구 편- | Meteor Volleyball!]( https://store.steampowered.com/app/1816080/Meteor_Volleyball/ ) ( 2022 | 횡스크롤 2d 배구 게임 | AvoCavo )
+#### [지금 우리 학교는 | All of Us Are Dead…]( https://store.steampowered.com/app/2177170/All_of_Us_Are_Dead/ ) ( 2023 | 드라마틱 비주얼 노벨 | IKINAGAMES )
 #### ㅊ
 #### [첫눈 | First Snow]( https://store.steampowered.com/app/2232200/First_Snow/ ) ( 2022 | 비주얼노벨 | Studio Ly | PsychoFlux Entertainment )
 #### [청구야담: 팔도견문록 | Dynasty Detective]( https://store.steampowered.com/app/2329060/Dynasty_Detective/ ) ( 2024 | 비주얼 노벨, 추리 | COSDOTS )
@@ -204,6 +205,7 @@
 #### [ACTION SANDBOX]( https://store.steampowered.com/app/1381650/ACTION_SANDBOX/ ) ( 2022 | 샌드박스, 시뮬레이션, 물리 | Vona Soft )
 #### [Adolescent Santa Claus | 산타는 교복을 입을 수 밖에 없어]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
 #### [Alchemist of Pipi Forest | 피피숲의 연금술사]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
+#### [All of Us Are Dead… | 지금 우리 학교는]( https://store.steampowered.com/app/2177170/All_of_Us_Are_Dead/ ) ( 2023 | 드라마틱 비주얼 노벨 | IKINAGAMES )
 #### [ALTF4]( https://store.steampowered.com/app/1137460/ALTF4/ ) ( 2021 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM )
 #### [ALTF42]( https://store.steampowered.com/app/2187230/ALTF42/ ) ( 2023 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM | GRAVITY )
 #### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
