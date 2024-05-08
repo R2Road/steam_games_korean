@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 302 개
+* 303 개
 
 
 
@@ -64,6 +64,7 @@
 
 #### ㄱ
 #### [가짜 하트 | FAKE HEART]( https://store.steampowered.com/app/2109360/FAKE_HEART/ ) ( 2023 | 인터렉티브 비주얼 노벨 | BLANBEE )
+#### [갤럭시 테일즈: 스토리 오브 라푼젤 | Galaxy Tales: Story of Rapunzel]( https://store.steampowered.com/app/1497710/Galaxy_Tales_Story_of_Rapunzel/ ) ( 2022 | 2D 액션 플랫포머 | IKINAGAMES, Nanali Studios | IKINAGAMES, Nanali Studios )
 #### [골든 레코드 리트리버 | Golden Record Retriever]( https://store.steampowered.com/app/2119580/Golden_Record_Retriever/ ) ( 2023 | 로그라이크 "다이스" 빌딩 | Hoochoo Game Studios )
 #### [공간을 먹는 악어 | The Space-Eating Croc]( https://store.steampowered.com/app/2020090/The_SpaceEating_Croc/ ) ( 2023 | 미스터리 어드벤처 | Chalkseagull | PsychoFlux Entertainment )
 #### [과몰입금지 | Love Too Easily]( https://store.steampowered.com/app/2274500/Love_Too_Easily/ ) ( 2023 | 인터렉티브 무비 | Monster Guide inc. | MediBang Games )
@@ -291,6 +292,7 @@
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
 #### [Frostory | 프로스토리]( https://store.steampowered.com/app/1737520/Frostory/ ) ( ? | 액션 어드벤처 | Team OOPArts )
 #### G
+#### [Galaxy Tales: Story of Rapunzel | 갤럭시 테일즈: 스토리 오브 라푼젤]( https://store.steampowered.com/app/1497710/Galaxy_Tales_Story_of_Rapunzel/ ) ( 2022 | 2D 액션 플랫포머 | IKINAGAMES, Nanali Studios | IKINAGAMES, Nanali Studios )
 #### [Golden Record Retriever | 골든 레코드 리트리버]( https://store.steampowered.com/app/2119580/Golden_Record_Retriever/ ) ( 2023 | 로그라이크 "다이스" 빌딩 | Hoochoo Game Studios )
 #### [GoodbyeSeoul : Itaewon | 안녕서울 : 이태원편]( https://store.steampowered.com/app/2551550/GoodbyeSeoul__Itaewon/ ) ( ? | 퍼즐 플랫포머 | JINO Games )
 #### [Gravity Castle | 그래비티 캐슬]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
