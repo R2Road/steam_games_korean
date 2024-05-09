@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 303 개
+* 304 개
 
 
 
@@ -347,6 +347,7 @@
 #### [Marco Entertainment | 마르코 엔터테인먼트]( https://store.steampowered.com/app/2277370/Marco_Entertainment/ ) ( 예정 2025 | 소셜 샌드박스 서비스 | RisingWings )
 #### [Memory Fragment]( https://store.steampowered.com/app/2546170/Memory_Fragment/ ) ( 2023 | 시뮬레이션, 퍼즐 | THEAND Co. )
 #### [Merge & Blade]( https://store.steampowered.com/app/1446930/Merge__Blade/ ) ( 2023 | 세계 최초 퍼즐 오토 배틀러 | Magic Cube )
+#### [METAL SUITS]( https://store.steampowered.com/app/2093800/METAL_SUITS/ ) ( 2024 | 횡스크롤 액션 | Eggtart Inc )
 #### [Metal Unit]( https://store.steampowered.com/app/1173200/Metal_Unit/ ) ( 2021 | 액션, 플랫폼, 로그라이트 | JellySnow Studio | NEOWIZ )
 #### [METALLIC CHILD | 메탈릭 차일드]( https://store.steampowered.com/app/1490610/METALLIC_CHILD/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
 #### [Metavusking | 메타버스킹]( https://store.steampowered.com/app/1690040/Metavusking/ ) ( 2022 | 가창 게임 | innoVENTOR Inc. )
