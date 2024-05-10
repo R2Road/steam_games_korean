@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 304 개
+* 305 개
 
 
 
@@ -241,6 +241,7 @@
 #### [Corrupted: Dawn of Havoc]( https://store.steampowered.com/app/2007770/Corrupted_Dawn_of_Havoc/ ) ( 2024 | 하드코어 오토배틀 로그라이크 덱빌딩 | 36Litters )
 #### [CRANGA!: Harbor Frenzy]( https://store.steampowered.com/app/517970/CRANGA_Harbor_Frenzy/ ) ( 2016 | VR 퍼즐 | HandMade Game )
 #### [Crazy Farm : VRGROUND]( https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/ ) ( 2018 | 파티 게임 | Jamong Inc. )
+#### [Cubians: Combine]( https://store.steampowered.com/app/1005470/Cubians_Combine/ ) ( 2019 | VR, 디펜스 | IKINAGAMES )
 #### [Cush's Amazin' Adventure!! | 쿠시의 엄천난 모험!!]( https://store.steampowered.com/app/2276110/Cushs_Amazin_Adventure/ ) ( 2023 | RPG, 어드벤처 | CushKim | PsychoFlux Entertainment )
 #### [Cute Invaders]( https://store.steampowered.com/app/1709780/Cute_Invaders/ ) ( 2022 | 2D, 슈팅, 어드벤쳐 | Magic Cube )
 #### D
