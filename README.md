@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 305 개
+* 306 개
 
 
 
@@ -249,6 +249,7 @@
 #### [Dancing Arrow : Beat Smash | 댄싱 에로우 : 비트스매시]( https://store.steampowered.com/app/1190310/Dancing_Arrow__Beat_Smash/ ) ( 2019 | VR 리듬게임 | Geniesoft Inc. )
 #### [Dandelion - Wishes brought to you -]( https://store.steampowered.com/app/321290/Dandelion__Wishes_brought_to_you/ ) ( 2012 | 여성향 연애 육성 시뮬레이션 | Sujin Ri, Marcos Arroyo, Seona Lee, Somi Lee, Sohyeon Jeon | Cheritz )
 #### [Dark Water : Slime Invader | 다크워터 : 슬라임 인베이더]( https://store.steampowered.com/app/1235830/Dark_Water__Slime_Invader/ ) ( 2021 | 점프 액션 | DEVBOX | DEVBOX, HeartBeat Games )
+#### [Darkest Mana : Master of the Table]( https://store.steampowered.com/app/851040/Darkest_Mana__Master_of_the_Table/ ) ( 2018 | VR, 카드 대전 | IKINAGAMES )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
 #### [Day Island]( https://store.steampowered.com/app/1361150/Day_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Deep Dark Dungeon]( https://store.steampowered.com/app/496290/Deep_Dark_Dungeon/ ) ( 2018 | 로그라이트, 액션 | GlassCats | GlassCats, PsychoFlux Entertainment )
