@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 310 개
+* 311 개
 
 
 
@@ -146,6 +146,7 @@
 #### [아크레티아 전기 | Acretia - Guardians of Lian]( https://store.steampowered.com/app/2164200/Acretia__Guardians_of_Lian/ ) ( 2022 | 턴제 전략 RPG | Ozaak, inc. )
 #### [안녕서울 : 이태원편 | GoodbyeSeoul : Itaewon]( https://store.steampowered.com/app/2551550/GoodbyeSeoul__Itaewon/ ) ( ? | 퍼즐 플랫포머 | JINO Games )
 #### [언폴디드 : 동백이야기 | Unfolded : Camellia Tales]( https://store.steampowered.com/app/1357990/Unfolded__Camellia_Tales/ ) ( 2021 | 2D 포인트 앤 클릭 어드벤처 | COSDOTS )
+#### [에이지 오브 솔리테어 : 문명 건설 | Age of Solitaire : Build Civilization]( https://store.steampowered.com/app/2050530/Age_of_Solitaire__Build_Civilization/ ) ( 2022 | 솔리테어 | Eggtart Inc )
 #### [엑스 인베이더 | X Invader]( https://store.steampowered.com/app/2090760/X_Invader/ ) ( 2023 | 액션, 로그라이트, 핵앤슬래시 | ALLAF GAMES )
 #### [엔스펠 | Enspell]( https://store.steampowered.com/app/2396900/Enspell/ ) ( 2024 | 덱빌딩 로그라이크 | GoldPumpkin Inc. )
 #### [엠버스 러브: 잔불의 사랑 | Ember's Love]( https://store.steampowered.com/app/2153900/Embers_Love/ ) ( 2023 | 덱 빌딩 RPG | LeeBbunsik | PsychoFlux Entertainment )
@@ -207,6 +208,7 @@
 #### [Acretia - Guardians of Lian | 아크레티아 전기]( https://store.steampowered.com/app/2164200/Acretia__Guardians_of_Lian/ ) ( 2022 | 턴제 전략 RPG | Ozaak, inc. )
 #### [ACTION SANDBOX]( https://store.steampowered.com/app/1381650/ACTION_SANDBOX/ ) ( 2022 | 샌드박스, 시뮬레이션, 물리 | Vona Soft )
 #### [Adolescent Santa Claus | 산타는 교복을 입을 수 밖에 없어]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
+#### [Age of Solitaire : Build Civilization | 에이지 오브 솔리테어 : 문명 건설]( https://store.steampowered.com/app/2050530/Age_of_Solitaire__Build_Civilization/ ) ( 2022 | 솔리테어 | Eggtart Inc )
 #### [Alchemist of Pipi Forest | 피피숲의 연금술사]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
 #### [All of Us Are Dead… | 지금 우리 학교는]( https://store.steampowered.com/app/2177170/All_of_Us_Are_Dead/ ) ( 2023 | 드라마틱 비주얼 노벨 | IKINAGAMES )
 #### [ALTF4]( https://store.steampowered.com/app/1137460/ALTF4/ ) ( 2021 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM )
