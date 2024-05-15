@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 309 개
+* 310 개
 
 
 
@@ -88,6 +88,7 @@
 #### [던전 로드 | Dungeon Lord]( https://store.steampowered.com/app/1429670/Dungeon_Lord/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. )
 #### [던전 슬래셔 | DUNGEON SLASHER]( https://store.steampowered.com/app/2712460/DUNGEON_SLASHER/ ) ( ? | 횡스크롤 로그라이크 | 96Percent | CFK Co., Ltd. )
 #### [데네브: 별을 건너서 | Deneb: Across the Stars]( https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars/ ) ( 2022 | 탑다운 하드코어 플랫포머 | SEROSOO )
+#### [데몽헌터 | Demong Hunter]( https://store.steampowered.com/app/2089460/Demong_Hunter/ ) ( 2022 | 액션, RPG | LinkTown, Eggtart Inc | Eggtart Inc )
 #### [데블위딘 삿갓 | The Devil Within: Satgat]( https://store.steampowered.com/app/1802880/The_Devil_Within_Satgat/ ) ( 2024 | 횡스크롤 액션 | Newcore Games | Newcore Games, Astrolabe Games )
 #### [데이브 더 다이버 | DAVE THE DIVER]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
 #### [도박묵시록 다구리: Remastered | DAGURI: Gambling Apocalypse]( https://store.steampowered.com/app/2004180/DAGURI_Gambling_Apocalypse/ ) ( 2022 | 오픈 월드 도박 시뮬레이션 | DakeCraft | PsychoFlux Entertainment )
@@ -259,6 +260,7 @@
 #### [Deep Dark Dungeon]( https://store.steampowered.com/app/496290/Deep_Dark_Dungeon/ ) ( 2018 | 로그라이트, 액션 | GlassCats | GlassCats, PsychoFlux Entertainment )
 #### [DEFECTIVE]( https://store.steampowered.com/app/2153850/DEFECTIVE/ ) ( 2023 | 어드벤처 | CushKim | PsychoFlux Entertainment )
 #### [DEFENDUN : Hero Defense]( https://store.steampowered.com/app/2323810/DEFENDUN__Hero_Defense/ ) ( 2023 | 전략 머지 디펜스 | Gonggamorecontents Inc. )
+#### [Demong Hunter | 데몽헌터]( https://store.steampowered.com/app/2089460/Demong_Hunter/ ) ( 2022 | 액션, RPG | LinkTown, Eggtart Inc | Eggtart Inc )
 #### [Deneb: Across the Stars | 데네브: 별을 건너서]( https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars/ ) ( 2022 | 탑다운 하드코어 플랫포머 | SEROSOO )
 #### [Diary of Lucie | 루시의 일기]( https://store.steampowered.com/app/1454010/Diary_of_Lucie/ ) ( 2023 | 액션, 로그라이트 | Parange Project )
 #### [Diaspora]( https://store.steampowered.com/app/1821970/Diaspora/ ) ( 2023 | 3D 횡스크롤 어드벤처 | Acts29games )
