@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 311 개
+* 312 개
 
 
 
@@ -270,6 +270,7 @@
 #### [DOTORI]( https://store.steampowered.com/app/1109720/DOTORI/ ) ( 2020 | 액션, 플랫폼,  | Indev-studio | CFK Co., Ltd. )
 #### [DOWNFALLEN]( https://store.steampowered.com/app/2153920/DOWNFALLEN/ ) ( 2023 | 어드벤처 | DOWNFALLEN Team | PsychoFlux Entertainment )
 #### [Dreamals]( https://store.steampowered.com/app/480770/Dreamals/ ) ( 2017 | 퍼즐 | XINESS Co,. Ltd. )
+#### [Dreamals: Dream Quest]( https://store.steampowered.com/app/658770/Dreamals_Dream_Quest/ ) ( 2017 | 액션, 퍼즐 | XINESS Co,. Ltd. )
 #### [Duckumentary]( https://store.steampowered.com/app/1042290/Duckumentary/ ) ( 2019 | 플랫포머 | Alpheratz* )
 #### [Dungeon Inn]( https://store.steampowered.com/app/2552310/Dungeon_Inn/ ) ( 2024 | 턴제 전략 매니지먼트 | Cat Society )
 #### [Dungeon Lord | 던전 로드]( https://store.steampowered.com/app/1429670/Dungeon_Lord/ ) ( 2020 | 비주얼노벨 | TALESSHOP Co., Ltd. )
