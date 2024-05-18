@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 312 개
+* 313 개
 
 
 
@@ -181,6 +181,7 @@
 #### [팀파이트 매니저 | Teamfight Manager]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
 #### ㅍ
 #### [파이널나이트 | FINAL KNIGHT]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2024Q2 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
+#### [퍼스트 버서커: 카잔 | The First Berserker: Khazan]( https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/ ) ( ? | 하드코어 액션 롤플레잉 | Neople | NEXON )
 #### [페치카 | Pechka: Historical Story Adventure]( https://store.steampowered.com/app/2210700/Pechka_Historical_Story_Adventure/ ) ( 2023 | 2D 어드벤처 | Growing Seeds )
 #### [편집장 | THE EDITOR]( https://store.steampowered.com/app/2310920/THE_EDITOR/ ) ( 2023 | 신문 편집 어드벤처 | DECATREE GAMES )
 #### [폴라 펭귄 포스트 | Polar Penguin Post]( https://store.steampowered.com/app/1934020/Polar_Penguin_Post/ ) ( 2022 | 퍼즐 시뮬레이션 | Little Lemon Bulb )
@@ -484,6 +485,7 @@
 #### [The Dew]( https://store.steampowered.com/app/692950/The_Dew/ ) ( 2017 | 스토리텔링, 퍼즐 | ZZICON | PsychoFlux Entertainment )
 #### [THE EDITOR | 편집장]( https://store.steampowered.com/app/2310920/THE_EDITOR/ ) ( 2023 | 신문 편집 어드벤처 | DECATREE GAMES )
 #### [THE FINALS]( https://store.steampowered.com/app/2073850/THE_FINALS/ ) ( 2023 | 멀티플레이어, 슈팅, PVP | Embark Studios )
+#### [The First Berserker: Khazan | 퍼스트 버서커: 카잔]( https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/ ) ( ? | 하드코어 액션 롤플레잉 | Neople | NEXON )
 #### [The Lord of the Parties | 로드 오브 파티]( https://store.steampowered.com/app/1602880/The_Lord_of_the_Parties/ ) ( 2022 | 2D 종스크롤 파티 슈팅 RPG | Magic Cube, Dizcon | HIKE Inc. )
 #### [The Ramsey | 더 램지]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
 #### [The Space-Eating Croc | 공간을 먹는 악어]( https://store.steampowered.com/app/2020090/The_SpaceEating_Croc/ ) ( 2023 | 미스터리 어드벤처 | Chalkseagull | PsychoFlux Entertainment )
