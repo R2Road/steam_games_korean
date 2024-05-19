@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 313 개
+* 314 개
 
 
 
@@ -357,6 +357,7 @@
 #### [Mad World - Age of Darkness – MMORPG]( https://store.steampowered.com/app/771580/Mad_World___Age_of_Darkness__MMORPG/ ) ( 2024 | MMORPG | Jandisoft )
 #### [Magic Paper]( https://store.steampowered.com/app/2387310/Magic_Paper/ ) ( 2023 | 핵 앤 슬래시, 로그라이크 | Teleportsoft )
 #### [Marco Entertainment | 마르코 엔터테인먼트]( https://store.steampowered.com/app/2277370/Marco_Entertainment/ ) ( 예정 2025 | 소셜 샌드박스 서비스 | RisingWings )
+#### [MazM: Jekyll and Hyde]( https://store.steampowered.com/app/1178150/MazM_Jekyll_and_Hyde/ ) ( 2020 | 어드벤쳐  | Growing Seeds | CFK Co., Ltd. )
 #### [Memory Fragment]( https://store.steampowered.com/app/2546170/Memory_Fragment/ ) ( 2023 | 시뮬레이션, 퍼즐 | THEAND Co. )
 #### [Merge & Blade]( https://store.steampowered.com/app/1446930/Merge__Blade/ ) ( 2023 | 세계 최초 퍼즐 오토 배틀러 | Magic Cube )
 #### [METAL SUITS]( https://store.steampowered.com/app/2093800/METAL_SUITS/ ) ( 2024 | 횡스크롤 액션 | Eggtart Inc )
