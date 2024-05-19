@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 314 개
+* 315 개
 
 
 
@@ -195,6 +195,8 @@
 #### 3
 #### [30일 어나더 | 30 Days Another]( https://store.steampowered.com/app/2125870/30_Days_Another/ ) ( 2024Q4 | 멀티 엔딩 스토리 어드벤처 | THE BRICKS GAMES )
 #### [3분 영웅 | 3 Minute Heroes]( https://store.steampowered.com/app/1475460/3_Minute_Heroes/ ) ( 2020 | 타워 디펜스, 덱 빌딩, 로그라이크, 실시간 전략 | Sinkhole Studio )
+#### M
+#### [MazM: 오페라의 유령 | MazM: The Phantom of the Opera]( https://store.steampowered.com/app/1483300/MazM_The_Phantom_of_the_Opera/ ) ( 2021 | 어드벤쳐  | Growing Seeds | CFK Co., Ltd. )
 #### P
 #### [P의 거짓 | Lies of P]( https://store.steampowered.com/app/1627720/P__Lies_of_P/ ) ( 2023 | 액션RPG | NEOWIZ )
 
@@ -358,6 +360,7 @@
 #### [Magic Paper]( https://store.steampowered.com/app/2387310/Magic_Paper/ ) ( 2023 | 핵 앤 슬래시, 로그라이크 | Teleportsoft )
 #### [Marco Entertainment | 마르코 엔터테인먼트]( https://store.steampowered.com/app/2277370/Marco_Entertainment/ ) ( 예정 2025 | 소셜 샌드박스 서비스 | RisingWings )
 #### [MazM: Jekyll and Hyde]( https://store.steampowered.com/app/1178150/MazM_Jekyll_and_Hyde/ ) ( 2020 | 어드벤쳐  | Growing Seeds | CFK Co., Ltd. )
+#### [MazM: The Phantom of the Opera | MazM: 오페라의 유령]( https://store.steampowered.com/app/1483300/MazM_The_Phantom_of_the_Opera/ ) ( 2021 | 어드벤쳐  | Growing Seeds | CFK Co., Ltd. )
 #### [Memory Fragment]( https://store.steampowered.com/app/2546170/Memory_Fragment/ ) ( 2023 | 시뮬레이션, 퍼즐 | THEAND Co. )
 #### [Merge & Blade]( https://store.steampowered.com/app/1446930/Merge__Blade/ ) ( 2023 | 세계 최초 퍼즐 오토 배틀러 | Magic Cube )
 #### [METAL SUITS]( https://store.steampowered.com/app/2093800/METAL_SUITS/ ) ( 2024 | 횡스크롤 액션 | Eggtart Inc )
