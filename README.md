@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 315 개
+* 316 개
 
 
 
@@ -107,6 +107,7 @@
 #### [마녀의샘3 Re:Fine －인형 마녀 아이루디의 이야기－ | WitchSpring3 Re:Fine - The Story of Eirudy -]( https://store.steampowered.com/app/1592520/WitchSpring3_ReFine__The_Story_of_Eirudy/ ) ( 2021 | RPG | KIWIWALKS, IKINAGAMES | KIWIWALKS )
 #### [마녀의샘R | WitchSpring R]( https://store.steampowered.com/app/1958220/WitchSpring_R/ ) ( 2023 | 스토리형 육성 RPG | KIWIWALKS )
 #### [마르코 엔터테인먼트 | Marco Entertainment]( https://store.steampowered.com/app/2277370/Marco_Entertainment/ ) ( 예정 2025 | 소셜 샌드박스 서비스 | RisingWings )
+#### [마법소녀 카와이 러블리 즈큥도큥 바큥부큥 루루핑 | Magical Mic Duel: Senpai, Hear My Spell]( https://store.steampowered.com/app/2696400/Magical_Mic_Duel_Senpai_Hear_My_Spell/ ) ( 2024 | 음성 역할 시뮬레이션 | ReLU Games |  )
 #### [메타버스킹 | Metavusking]( https://store.steampowered.com/app/1690040/Metavusking/ ) ( 2022 | 가창 게임 | innoVENTOR Inc. )
 #### [메탈릭 차일드 | METALLIC CHILD]( https://store.steampowered.com/app/1490610/METALLIC_CHILD/ ) ( 2021 | 액션, 로그라이크 | Action Square(STUDIO HG) | CREST )
 #### [모나드의 겨울 | Monads]( https://store.steampowered.com/app/814870/Monads/ ) ( 2019 | SRPG | Team Monad )
@@ -358,6 +359,7 @@
 #### M
 #### [Mad World - Age of Darkness – MMORPG]( https://store.steampowered.com/app/771580/Mad_World___Age_of_Darkness__MMORPG/ ) ( 2024 | MMORPG | Jandisoft )
 #### [Magic Paper]( https://store.steampowered.com/app/2387310/Magic_Paper/ ) ( 2023 | 핵 앤 슬래시, 로그라이크 | Teleportsoft )
+#### [Magical Mic Duel: Senpai, Hear My Spell | 마법소녀 카와이 러블리 즈큥도큥 바큥부큥 루루핑]( https://store.steampowered.com/app/2696400/Magical_Mic_Duel_Senpai_Hear_My_Spell/ ) ( 2024 | 음성 역할 시뮬레이션 | ReLU Games |  )
 #### [Marco Entertainment | 마르코 엔터테인먼트]( https://store.steampowered.com/app/2277370/Marco_Entertainment/ ) ( 예정 2025 | 소셜 샌드박스 서비스 | RisingWings )
 #### [MazM: Jekyll and Hyde]( https://store.steampowered.com/app/1178150/MazM_Jekyll_and_Hyde/ ) ( 2020 | 어드벤쳐  | Growing Seeds | CFK Co., Ltd. )
 #### [MazM: The Phantom of the Opera | MazM: 오페라의 유령]( https://store.steampowered.com/app/1483300/MazM_The_Phantom_of_the_Opera/ ) ( 2021 | 어드벤쳐  | Growing Seeds | CFK Co., Ltd. )
