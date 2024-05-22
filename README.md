@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 316 개
+* 317 개
 
 
 
@@ -136,6 +136,7 @@
 #### [셔터냥! Enhanced Edition | Shutter Nyan! Enhanced Edition]( https://store.steampowered.com/app/1227320/Shutter_Nyan_Enhanced_Edition/ ) ( 2021 | 2D 횡스크롤 카메라 액션 | PROJECT MOREUM Inc. | CFK Co., Ltd. )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
 #### [스도쿠 알피지 | Sudoku RPG]( https://store.steampowered.com/app/1474200/Sudoku_RPG/ ) ( 2021 | 퍼즐, RPG | RainbowStudio )
+#### [스테퍼 케이스: 초능력 추리 어드벤처 | Staffer Case: A Supernatural Mystery Adventure]( https://store.steampowered.com/app/2128480/Staffer_Case_A_Supernatural_Mystery_Adventure/ ) ( 2023 | 추리 | Team Tetrapod )
 #### [스플릿 스퀘어 | Split square]( https://store.steampowered.com/app/2491130/Split_square/ ) ( 2023 | 덱 빌딩 로그라이크 | Shedin )
 #### [식스타 게이트: 스타트레일 | Sixtar Gate: STARTRAIL]( https://store.steampowered.com/app/1802720/Sixtar_Gate_STARTRAIL/ ) ( 2021 | 건반형 리듬 게임 | Lyrebird Studio, Starlike Inc. | CFK Co., Ltd. )
 #### [실망실업자]( https://store.steampowered.com/app/371120/_/ ) ( 2015 | 진보적 시각 소설 | YGGDRASIL STUDIO )
@@ -473,6 +474,7 @@
 #### [Space God]( https://store.steampowered.com/app/637120/Space_God/ ) ( 2018 | 탑 다운 슈팅 | Jellypig Games | Jellypig Games, PsychoFlux Entertainment )
 #### [SPLIT BULLET]( https://store.steampowered.com/app/449450/SPLIT_BULLET/ ) ( 2016 | 탄막슈팅 | IndigoBlue Game Studio | PsychoFlux Entertainment )
 #### [Split square | 스플릿 스퀘어]( https://store.steampowered.com/app/2491130/Split_square/ ) ( 2023 | 덱 빌딩 로그라이크 | Shedin )
+#### [Staffer Case: A Supernatural Mystery Adventure | 스테퍼 케이스: 초능력 추리 어드벤처]( https://store.steampowered.com/app/2128480/Staffer_Case_A_Supernatural_Mystery_Adventure/ ) ( 2023 | 추리 | Team Tetrapod )
 #### [STAND-ALONE]( https://store.steampowered.com/app/2226730/STANDALONE/ ) ( 2024 | 스킬 덱 빌딩의 액션 로그라이크 | LIFUEL )
 #### [Star Island]( https://store.steampowered.com/app/1391960/Star_Island/ ) ( 2020 | 홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Star Rabbits]( https://store.steampowered.com/app/2167600/Star_Rabbits/ ) ( 2024 | 액션 어드벤처 | ZeroToTenB )
