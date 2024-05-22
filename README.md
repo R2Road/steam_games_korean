@@ -260,7 +260,7 @@
 #### D
 #### [DAGURI: Gambling Apocalypse | 도박묵시록 다구리: Remastered]( https://store.steampowered.com/app/2004180/DAGURI_Gambling_Apocalypse/ ) ( 2022 | 오픈 월드 도박 시뮬레이션 | DakeCraft | PsychoFlux Entertainment )
 #### [Dancing Arrow : Beat Smash | 댄싱 에로우 : 비트스매시]( https://store.steampowered.com/app/1190310/Dancing_Arrow__Beat_Smash/ ) ( 2019 | VR 리듬게임 | Geniesoft Inc. )
-#### [Dandelion - Wishes brought to you -]( https://store.steampowered.com/app/321290/Dandelion__Wishes_brought_to_you/ ) ( 2012 | 여성향 연애 육성 시뮬레이션 | Sujin Ri, Marcos Arroyo, Seona Lee, Somi Lee, Sohyeon Jeon | Cheritz )
+#### [Dandelion - Wishes brought to you -]( https://store.steampowered.com/app/321290/Dandelion__Wishes_brought_to_you/ ) ( 2012 | 여성향 연애 육성 시뮬레이션 | Cheritz )
 #### [Dark Water : Slime Invader | 다크워터 : 슬라임 인베이더]( https://store.steampowered.com/app/1235830/Dark_Water__Slime_Invader/ ) ( 2021 | 점프 액션 | DEVBOX | DEVBOX, HeartBeat Games )
 #### [Darkest Mana : Master of the Table]( https://store.steampowered.com/app/851040/Darkest_Mana__Master_of_the_Table/ ) ( 2018 | VR, 카드 대전 | IKINAGAMES )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
@@ -398,7 +398,7 @@
 #### [MUA]( https://store.steampowered.com/app/2219150/MUA/ ) ( 2023 | FPS | BangsFactory )
 #### N
 #### [NAKWON: LAST PARADISE | 낙원: LAST PARADISE]( https://store.steampowered.com/app/2582960/NAKWON_LAST_PARADISE/ ) ( ? | 3인칭 좀비 아포칼립스 잠입 생존 | MINTROCKET )
-#### [Nameless ~The one thing you must recall~]( https://store.steampowered.com/app/337930/Nameless_The_one_thing_you_must_recall/ ) ( 2013 | 여성향 비주얼 노벨 | Sujin Ri, Yunjeong Yun, Hyein Go, Minsu Ock, Marcos Arroyo, Seona Lee, Sohyeon Jeon | Cheritz )
+#### [Nameless ~The one thing you must recall~]( https://store.steampowered.com/app/337930/Nameless_The_one_thing_you_must_recall/ ) ( 2013 | 여성향 비주얼 노벨 | Cheritz )
 #### [NEOVERSE]( https://store.steampowered.com/app/994220/NEOVERSE/ ) ( 2020 | 덱빌딩, 전략, 액션, 로그라이트 | Tinogames Inc. )
 #### [Nevaeh | 네바에]( https://store.steampowered.com/app/1222090/Nevaeh/ ) ( 2020 | 2D, 액션, 퍼즐, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
 #### [Next Hero]( https://store.steampowered.com/app/756490/Next_Hero/ ) ( 2018 | 로그라이크 슈팅 액션 RPG | LINE Games Corporation )
