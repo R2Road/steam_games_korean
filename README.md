@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 318 개
+* 319 개
 
 
 
@@ -155,6 +155,7 @@
 #### [엠버스 러브: 잔불의 사랑 | Ember's Love]( https://store.steampowered.com/app/2153900/Embers_Love/ ) ( 2023 | 덱 빌딩 RPG | LeeBbunsik | PsychoFlux Entertainment )
 #### [여름의 끝에 피는 꽃 | Flowers Blooming at the End of Summer]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [여포키우기 | Lu Bu Maker]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
+#### [영웅모집 | Heroes Wanted]( https://store.steampowered.com/app/2667410/Heroes_Wanted/ ) ( 2023 | 덱 빌딩 로그라이크 | Gameplete | NEOWIZ )
 #### [오구와 비밀의 숲 | Ogu and the Secret Forest]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
 #### [용사의 자격 | Qualification as Rogue]( https://store.steampowered.com/app/2308820/Qualification_as_Rogue/ ) ( 2023 | 액션 로그라이크, 플랫포머 | SUNBEESOFT )
 #### [유튜버 서바이버즈 | Youtuber Survivors]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
@@ -314,6 +315,7 @@
 #### [GoodbyeSeoul : Itaewon | 안녕서울 : 이태원편]( https://store.steampowered.com/app/2551550/GoodbyeSeoul__Itaewon/ ) ( ? | 퍼즐 플랫포머 | JINO Games )
 #### [Gravity Castle | 그래비티 캐슬]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
 #### H
+#### [Heroes Wanted | 영웅모집]( https://store.steampowered.com/app/2667410/Heroes_Wanted/ ) ( 2023 | 덱 빌딩 로그라이크 | Gameplete | NEOWIZ )
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
 #### [Hungry Caveman | 배고픈 원시인]( https://store.steampowered.com/app/2166250/Hungry_Caveman/ ) ( 2023 | 어드벤처 | RainbowStudio )
 #### [HunterX]( https://store.steampowered.com/app/1918450/HunterX/ ) ( 2022 | 액션 어드벤처 | ORANGE POPCORN )
