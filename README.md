@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 319 개
+* 320 개
 
 
 
@@ -488,6 +488,7 @@
 #### [Sugar Cube: Bittersweet Factory]( https://store.steampowered.com/app/212110/Sugar_Cube_Bittersweet_Factory/ ) ( 2012 | 플랫포머 | Turtle Cream )
 #### [Super Hamster Ball]( https://store.steampowered.com/app/2131920/Super_Hamster_Ball/ ) ( 2022 | 퍼즐 액션 | IKINAGAMES )
 #### T
+#### [TAPSONIC BOLD]( https://store.steampowered.com/app/938220/TAPSONIC_BOLD/ ) ( 2019 | 리듬 액션 | NEOWIZ )
 #### [Teamfight Manager | 팀파이트 매니저]( https://store.steampowered.com/app/1372810/Teamfight_Manager/ ) ( 2021 | 시뮬레이션, 경영, 오토배틀러 | Team Samoyed )
 #### [Terminus: Zombie Survivors | 터미너스: 좀비 생존자들]( https://store.steampowered.com/app/1534980/Terminus_Zombie_Survivors/ ) ( 2021 | 턴제 생존 로그라이크 | Ingeon Games )
 #### [The Callisto Protocol™]( https://store.steampowered.com/app/1544020/The_Callisto_Protocol/ ) ( 2022 | SF, 생존, 공포, 3인칭 슈팅 | Striking Distance Studios | KRAFTON, Inc. )
