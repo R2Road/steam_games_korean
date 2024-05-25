@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 320 개
+* 321 개
 
 
 
@@ -362,6 +362,7 @@
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
 #### M
 #### [Mad World - Age of Darkness – MMORPG]( https://store.steampowered.com/app/771580/Mad_World___Age_of_Darkness__MMORPG/ ) ( 2024 | MMORPG | Jandisoft )
+#### [Magia X]( https://store.steampowered.com/app/1427680/Magia_X/ ) ( 2020 | 횡스크롤 액션 RPG | Superacid, Manlev Games | Superacid )
 #### [Magic Paper]( https://store.steampowered.com/app/2387310/Magic_Paper/ ) ( 2023 | 핵 앤 슬래시, 로그라이크 | Teleportsoft )
 #### [Magical Mic Duel: Senpai, Hear My Spell | 마법소녀 카와이 러블리 즈큥도큥 바큥부큥 루루핑]( https://store.steampowered.com/app/2696400/Magical_Mic_Duel_Senpai_Hear_My_Spell/ ) ( 2024 | 음성 역할 시뮬레이션 | ReLU Games |  )
 #### [Marco Entertainment | 마르코 엔터테인먼트]( https://store.steampowered.com/app/2277370/Marco_Entertainment/ ) ( 예정 2025 | 소셜 샌드박스 서비스 | RisingWings )
