@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 323 개
+* 324 개
 
 
 
@@ -129,6 +129,7 @@
 #### [사그레스 | Sagres]( https://store.steampowered.com/app/2120310/sagres/ ) ( 2023 | 역사, 항해, 어드벤처 | ooze | Kakehashi Games )
 #### [사람 속에 피는 꽃 | Flower in Us]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
 #### [사망여각 | 8Doors: Arum's Afterlife Adventure]( https://store.steampowered.com/app/668550/_8Doors_Arums_Afterlife_Adventure/ ) ( 2021 | 메트로베니아 | Rootless Studio | NEOWIZ )
+#### [사이코데믹 ~특수 수사 사건부 X-FILE~ | TOKYO PSYCHODEMIC]( https://store.steampowered.com/app/2397140/TOKYO_PSYCHODEMIC/ ) ( 2024 | 2D×시네마틱・리얼 과학수사 시뮬레이션 게임 | GRAVITY GAME ARISE | GRAVITY )
 #### [산나비 | SANABI: The Revenant]( https://store.steampowered.com/app/1562700/SANABI/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
 #### [산타는 교복을 입을 수 밖에 없어 | Adolescent Santa Claus]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
 #### [세 장의 카드 | Three of Cards]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
@@ -513,6 +514,7 @@
 #### [Throw Anything]( https://store.steampowered.com/app/746660/Throw_Anything/ ) ( 2018 | VR 액션 디펜스 | Visual Light )
 #### [Thy Creature | 다이 크리쳐]( https://store.steampowered.com/app/1603720/Thy_Creature/ ) ( 2022 | 어드벤처 | Growing Seeds )
 #### [TOBOR]( https://store.steampowered.com/app/2081310/TOBOR/ ) ( 2023 | 스파이 시뮬레이션 | Cogoo )
+#### [TOKYO PSYCHODEMIC | 사이코데믹 ~특수 수사 사건부 X-FILE~]( https://store.steampowered.com/app/2397140/TOKYO_PSYCHODEMIC/ ) ( 2024 | 2D×시네마틱・리얼 과학수사 시뮬레이션 게임 | GRAVITY GAME ARISE | GRAVITY )
 #### [Too Many Zombies!]( https://store.steampowered.com/app/1551770/Too_Many_Zombies/ ) ( 2021 | PVE, 슈팅, 액션 | Derin )
 #### [Trinity Survivors | 트리니티 서바이버즈]( https://store.steampowered.com/app/2686580/Trinity_Survivors/ ) ( 2024 | 액션 로그라이트 | Flyway Games, Inc. )
 #### [TROUBLESHOOTER: Abandoned Children | 트러블슈터: 버려진 아이들]( https://store.steampowered.com/app/470310/TROUBLESHOOTER_Abandoned_Children/ ) ( 2020 | 턴제 전략 SRPG | Dandylion )
