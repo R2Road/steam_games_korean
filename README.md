@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 324 개
+* 325 개
 
 
 
@@ -331,6 +331,7 @@
 #### [Ira | 이라]( https://store.steampowered.com/app/1536210/Ira/ ) ( 2023 | 탄막 슈팅 로그라이트 | ABShot | Nicalis, Inc. )
 #### K
 #### [KALPA: Cosmic Symphony]( https://store.steampowered.com/app/2717010/KALPA_Cosmic_Symphony/ ) ( 2024 | 리듬 | QueseraGames Co., Ltd. )
+#### [KAMiBAKO - Mythology of Cube -]( https://store.steampowered.com/app/2081340/KAMiBAKO__Mythology_of_Cube/ ) ( ? | 맵크래프트×퍼즐×배틀×RPG | GRAVITY GAME ARISE | GRAVITY )
 #### [Karma Knight]( https://store.steampowered.com/app/1255740/Karma_Knight/ ) ( 2020 | 2D 횡스크롤 액션 | UltramarineSoft )
 #### [Kill The Crows]( https://store.steampowered.com/app/2441270/Kill_The_Crows/ ) ( 2023 | 탑다운 슈팅 | 5minlab Corp. )
 #### [Kill the Dictator]( https://store.steampowered.com/app/917200/Kill_the_Dictator/ ) ( 2018 | 캐쥬얼 전략 시뮬레이션 | Afeel inc, Magic Cube | Afeel inc )
