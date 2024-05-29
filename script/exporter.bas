@@ -167,6 +167,21 @@ End Function
 Function ExportList( sheet as Variant, active_area_start_y as Integer, active_area_end_y as Integer, key_index as Integer, sub_index as Integer, out_file as Variant )
 	
 	'
+	' Enum이 Cell 가져올 때 문제가 있다.
+	'
+	Dim eSI_STEAM_LINK as Long : eSI_STEAM_LINK = 3
+	Dim eSI_RELEASE_YEAR as Long : eSI_RELEASE_YEAR = 4
+	Dim eSI_GENRE as Long : eSI_GENRE = 5
+	
+	Dim eSI_DEVELOPER_1 as Long : eSI_DEVELOPER_1 = 6
+	Dim eSI_DEVELOPER_2 as Long : eSI_DEVELOPER_2 = 7
+	
+	Dim eSI_PUBLISHER_1 as Long : eSI_PUBLISHER_1 = 8
+	Dim eSI_PUBLISHER_2 as Long : eSI_PUBLISHER_2 = 9
+	Dim eSI_PUBLISHER_3 as Long : eSI_PUBLISHER_3 = 10
+	
+	
+	'
 	' 초성 분리및 출력용
 	'
 	Dim current_initial_consonant as Integer : current_initial_consonant = 0
@@ -279,28 +294,30 @@ Function ExportList( sheet as Variant, active_area_start_y as Integer, active_ar
 		'  > 개발사, 퍼블리셔 정보가 같다면
 		'  > 개발사 정보만 표시한다.
 		'
-		If sheet.getCellByPosition( 6, i ).String = sheet.getCellByPosition( 8, i ).String _
-			And ( sheet.getCellByPosition( 7, i ).String = "" ) _
-			And ( sheet.getCellByPosition( 9, i ).String = "" ) _
-			And ( sheet.getCellByPosition( 10, i ).String = "" ) Then
+		
+		
+		If sheet.getCellByPosition( eSI_DEVELOPER_1, i ).String = sheet.getCellByPosition( eSI_PUBLISHER_1, i ).String _
+			And ( sheet.getCellByPosition( eSI_DEVELOPER_2, i ).String = "" ) _
+			And ( sheet.getCellByPosition( eSI_PUBLISHER_2, i ).String = "" ) _
+			And ( sheet.getCellByPosition( eSI_PUBLISHER_3, i ).String = "" ) Then
 			
-			company = sheet.getCellByPosition( 6, i ).String
+			company = sheet.getCellByPosition( eSI_DEVELOPER_1, i ).String
 			
 		Else
 		
 			'
 			' 개발자 정보 1
 			'
-			company = sheet.getCellByPosition( 6, i ).String
+			company = sheet.getCellByPosition( eSI_DEVELOPER_1, i ).String
 			
 			'
 			' 개발자 정보 2
 			'
-			If sheet.getCellByPosition( 7, i ).String <> "" Then
+			If sheet.getCellByPosition( eSI_DEVELOPER_2, i ).String <> "" Then
 				company = _
 						company _
 					& 	", " _
-					& 	sheet.getCellByPosition( 7, i ).String
+					& 	sheet.getCellByPosition( eSI_DEVELOPER_2, i ).String
 			End If
 			
 			
@@ -311,26 +328,26 @@ Function ExportList( sheet as Variant, active_area_start_y as Integer, active_ar
 			company = _
 						company _
 					& 	" | " _
-					& 	sheet.getCellByPosition( 8, i ).String
+					& 	sheet.getCellByPosition( eSI_PUBLISHER_1, i ).String
 					
 			'
 			' 퍼블리셔 정보 2
 			'
-			If sheet.getCellByPosition( 9, i ).String <> "" Then
+			If sheet.getCellByPosition( eSI_PUBLISHER_2, i ).String <> "" Then
 				company = _
 						company _
 					& 	", " _
-					& 	sheet.getCellByPosition( 9, i ).String
+					& 	sheet.getCellByPosition( eSI_PUBLISHER_2, i ).String
 			End If
 			
 			'
 			' 퍼블리셔 정보 3
 			'
-			If sheet.getCellByPosition( 10, i ).String <> "" Then
+			If sheet.getCellByPosition( eSI_PUBLISHER_3, i ).String <> "" Then
 				company = _
 						company _
 					& 	", " _
-					& 	sheet.getCellByPosition( 10, i ).String
+					& 	sheet.getCellByPosition( eSI_PUBLISHER_3, i ).String
 			End If
 			
 		EndIf
@@ -345,12 +362,12 @@ Function ExportList( sheet as Variant, active_area_start_y as Integer, active_ar
 			& 	" " _
 			& 	title _
 			& 	"( " _
-			&  		sheet.getCellByPosition( 3, i ).String _
+			&  		sheet.getCellByPosition( eSI_STEAM_LINK, i ).String _
 			& 	" )" _
 			& 	" " _
 			&	"( " _
-				& 	sheet.getCellByPosition( 4, i ).String _
-				& 	" | " & sheet.getCellByPosition( 5, i ).String _
+				& 	        sheet.getCellByPosition( eSI_RELEASE_YEAR, i ).String _
+				& 	" | " & sheet.getCellByPosition( eSI_GENRE, i ).String _
 				& 	" | " & company _
 			& " )"
     	
