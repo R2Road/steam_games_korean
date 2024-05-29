@@ -320,7 +320,7 @@
 #### [Gravity Castle | 그래비티 캐슬]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
 #### H
 #### [Heroes Wanted | 영웅모집]( https://store.steampowered.com/app/2667410/Heroes_Wanted/ ) ( 2023 | 덱 빌딩 로그라이크 | Gameplete | NEOWIZ )
-#### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
+#### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_Sowls/ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
 #### [Hungry Caveman | 배고픈 원시인]( https://store.steampowered.com/app/2166250/Hungry_Caveman/ ) ( 2023 | 어드벤처 | RainbowStudio )
 #### [HunterX]( https://store.steampowered.com/app/1918450/HunterX/ ) ( 2022 | 액션 어드벤처 | ORANGE POPCORN )
 #### [HunterX: code name T]( https://store.steampowered.com/app/2680330/HunterX_code_name_T/ ) ( 2023 | 액션 어드벤처 | ORANGE POPCORN )
