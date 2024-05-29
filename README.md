@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 325 개
+* 326 개
 
 
 
@@ -315,6 +315,7 @@
 #### [Galaxy Tales: Story of Rapunzel | 갤럭시 테일즈: 스토리 오브 라푼젤]( https://store.steampowered.com/app/1497710/Galaxy_Tales_Story_of_Rapunzel/ ) ( 2022 | 2D 액션 플랫포머 | IKINAGAMES, Nanali Studios | IKINAGAMES, Nanali Studios )
 #### [Golden Record Retriever | 골든 레코드 리트리버]( https://store.steampowered.com/app/2119580/Golden_Record_Retriever/ ) ( 2023 | 로그라이크 "다이스" 빌딩 | Hoochoo Game Studios )
 #### [GoodbyeSeoul : Itaewon | 안녕서울 : 이태원편]( https://store.steampowered.com/app/2551550/GoodbyeSeoul__Itaewon/ ) ( ? | 퍼즐 플랫포머 | JINO Games )
+#### [GranAge]( https://store.steampowered.com/app/1412470/GranAge/ ) ( 2020 | 액션RPG | PICTOLOGI )
 #### [Gravity Castle | 그래비티 캐슬]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
 #### H
 #### [Heroes Wanted | 영웅모집]( https://store.steampowered.com/app/2667410/Heroes_Wanted/ ) ( 2023 | 덱 빌딩 로그라이크 | Gameplete | NEOWIZ )
