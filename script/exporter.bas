@@ -171,14 +171,14 @@ Function ExportList( sheet as Variant, active_area_start_y as Integer, active_ar
 	'
 	Dim eSI_STEAM_LINK as Long : eSI_STEAM_LINK = 3
 	Dim eSI_RELEASE_YEAR as Long : eSI_RELEASE_YEAR = 4
-	Dim eSI_GENRE as Long : eSI_GENRE = 5
+	Dim eSI_GENRE as Long : eSI_GENRE = 7
 	
-	Dim eSI_DEVELOPER_1 as Long : eSI_DEVELOPER_1 = 6
-	Dim eSI_DEVELOPER_2 as Long : eSI_DEVELOPER_2 = 7
+	Dim eSI_DEVELOPER_1 as Long : eSI_DEVELOPER_1 = 8
+	Dim eSI_DEVELOPER_2 as Long : eSI_DEVELOPER_2 = 9
 	
-	Dim eSI_PUBLISHER_1 as Long : eSI_PUBLISHER_1 = 8
-	Dim eSI_PUBLISHER_2 as Long : eSI_PUBLISHER_2 = 9
-	Dim eSI_PUBLISHER_3 as Long : eSI_PUBLISHER_3 = 10
+	Dim eSI_PUBLISHER_1 as Long : eSI_PUBLISHER_1 = 10
+	Dim eSI_PUBLISHER_2 as Long : eSI_PUBLISHER_2 = 11
+	Dim eSI_PUBLISHER_3 as Long : eSI_PUBLISHER_3 = 12
 	
 	
 	'
