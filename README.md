@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 329 개
+* 330 개
 
 
 
@@ -192,6 +192,7 @@
 #### [폴라 펭귄 포스트 | Polar Penguin Post]( https://store.steampowered.com/app/1934020/Polar_Penguin_Post/ ) ( 2022 | 퍼즐 시뮬레이션 | Little Lemon Bulb )
 #### [프로스토리 | Frostory]( https://store.steampowered.com/app/1737520/Frostory/ ) ( ? | 액션 어드벤처 | Team OOPArts )
 #### [플레비 퀘스트: 더 크루세이즈 | Plebby Quest: The Crusades]( https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/ ) ( 2020 | 턴제 전략 시뮬레이션 | PiedPipers Team | NEOWIZ )
+#### [플로리스 다크니스 | Flawless Darkness]( https://store.steampowered.com/app/2419020/Flawless_Darkness/ ) ( 2023 | 어드벤처, 액션, 내레이션, 퍼즐 | Oldice )
 #### [피그로맨스 | PIGROMANCE]( https://store.steampowered.com/app/1362120/PIGROMANCE/ ) ( 2022 | 잔혹동화 어드벤처 | OAA | GRAVITY )
 #### [피피숲의 연금술사 | Alchemist of Pipi Forest]( https://store.steampowered.com/app/1587240/Alchemist_of_Pipi_Forest/ ) ( 2021 | RPG, 어드벤처 | 깡토 스튜디오 )
 #### _
@@ -307,6 +308,7 @@
 #### [FAS: Fight Action Sandbox]( https://store.steampowered.com/app/2302820/FAS_Fight_Action_Sandbox/ ) ( 2023 | 시뮬레이션, 전략, 3D격투 | Vona Soft )
 #### [FINAL KNIGHT | 파이널나이트]( https://store.steampowered.com/app/2072980/FINAL_KNIGHT/ ) ( 2024Q2 예정 | 벨트스크롤, 액션RPG | 2oclocksoft | GRAVITY )
 #### [First Snow | 첫눈]( https://store.steampowered.com/app/2232200/First_Snow/ ) ( 2022 | 비주얼노벨 | Studio Ly | PsychoFlux Entertainment )
+#### [Flawless Darkness | 플로리스 다크니스]( https://store.steampowered.com/app/2419020/Flawless_Darkness/ ) ( 2023 | 어드벤처, 액션, 내레이션, 퍼즐 | Oldice )
 #### [Flipol]( https://store.steampowered.com/app/1548010/Flipol/ ) ( 2021 | 퍼즐 | Derin )
 #### [Flower in Us | 사람 속에 피는 꽃]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
 #### [Flowers Blooming at the End of Summer | 여름의 끝에 피는 꽃]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
