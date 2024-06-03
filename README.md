@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 330 개
+* 331 개
 
 
 
@@ -320,6 +320,7 @@
 #### [GoodbyeSeoul : Itaewon | 안녕서울 : 이태원편]( https://store.steampowered.com/app/2551550/GoodbyeSeoul__Itaewon/ ) ( ? | 퍼즐 플랫포머 | JINO Games )
 #### [GranAge]( https://store.steampowered.com/app/1412470/GranAge/ ) ( 2020 | 액션RPG | PICTOLOGI )
 #### [Gravity Castle | 그래비티 캐슬]( https://store.steampowered.com/app/2231170/Gravity_Castle/ ) ( 2023 | 2D 퍼즐 플랫포머 | Studio LEF | PsychoFlux Entertainment )
+#### [GREAT TOY SHOWDOWN]( https://store.steampowered.com/app/2319940/GREAT_TOY_SHOWDOWN/ ) ( 2024 | 캐주얼 슈팅 팀 대전 | SANDY FLOOR )
 #### H
 #### [Heroes Wanted | 영웅모집]( https://store.steampowered.com/app/2667410/Heroes_Wanted/ ) ( 2023 | 덱 빌딩 로그라이크 | Gameplete | NEOWIZ )
 #### [Hotel Sowls]( https://store.steampowered.com/app/968350/Hotel_Sowls/ ) ( 2019 | 2D, 미스테리 어드벤처 | Studio Sott )
