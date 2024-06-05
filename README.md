@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 332 개
+* 333 개
 
 
 
@@ -520,6 +520,7 @@
 #### [The Tainted Lands]( https://store.steampowered.com/app/2148590/The_Tainted_Lands/ ) ( ? | 2D 턴 기반 RPG | Arete Games )
 #### [The Tales of Imjin War | 난중설화]( https://store.steampowered.com/app/1963080/_The_Tales_of_Imjin_War/ ) ( 2022 | 벨트스크롤 액션 RPG | Devmaru Inc. )
 #### [The Wake: Mourning Father, Mourning Mother]( https://store.steampowered.com/app/1311540/The_Wake_Mourning_Father_Mourning_Mother/ ) ( 2020 | 텍스트, 퍼즐, 어드벤처 | Somi | Somi, indienova )
+#### [There is NO PLAN B]( https://store.steampowered.com/app/2928190/There_is_NO_PLAN_B/ ) ( 2025 | 내러티브 탐정 어드벤처 | SUPERWAVE STUDIO )
 #### [Three of Cards | 세 장의 카드]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
 #### [Throw Anything]( https://store.steampowered.com/app/746660/Throw_Anything/ ) ( 2018 | VR 액션 디펜스 | Visual Light )
 #### [Thy Creature | 다이 크리쳐]( https://store.steampowered.com/app/1603720/Thy_Creature/ ) ( 2022 | 어드벤처 | Growing Seeds )
