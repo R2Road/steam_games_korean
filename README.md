@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 333 개
+* 334 개
 
 
 
@@ -135,6 +135,7 @@
 #### [세 장의 카드 | Three of Cards]( https://store.steampowered.com/app/1552250/Three_of_Cards/ ) ( 2021 | 누아르 카드 액션 게임 | Sparky Studios | Sparky Studios, Sejong Univ. PandoraCube )
 #### [세븐데이즈 오리진 | 7Days Origins]( https://store.steampowered.com/app/1494140/7Days_Origins/ ) ( 2021 | 텍스트 어드벤처 | Buff Studio )
 #### [셔터냥! Enhanced Edition | Shutter Nyan! Enhanced Edition]( https://store.steampowered.com/app/1227320/Shutter_Nyan_Enhanced_Edition/ ) ( 2021 | 2D 횡스크롤 카메라 액션 | PROJECT MOREUM Inc. | CFK Co., Ltd. )
+#### [소울러즈 | SOULERS]( https://store.steampowered.com/app/2388920/SOULERS/ ) ( 2025 | 불렛타임 슈팅 | DRABIT STUDIO )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
 #### [스도쿠 알피지 | Sudoku RPG]( https://store.steampowered.com/app/1474200/Sudoku_RPG/ ) ( 2021 | 퍼즐, RPG | RainbowStudio )
 #### [스테퍼 리본 | Staffer Reborn]( https://store.steampowered.com/app/2658920/Staffer_Reborn/ ) ( 2024 | 초능력 추리 | Team Tetrapod )
@@ -486,6 +487,7 @@
 #### [Snow Island]( https://store.steampowered.com/app/1153840/Snow_Island/ ) ( 2019 |  홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
 #### [Some Some Convenience Store | 썸썸 편의점]( https://store.steampowered.com/app/1217390/Some_Some_Convenience_Store/ ) ( 2020 | 연애시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [Soul Guardians]( https://store.steampowered.com/app/2126010/Soul_Guardians/ ) ( 2023 | 2D 횡스크롤 액션 RPG | PICTOLOGI )
+#### [SOULERS | 소울러즈]( https://store.steampowered.com/app/2388920/SOULERS/ ) ( 2025 | 불렛타임 슈팅 | DRABIT STUDIO )
 #### [SOWON]( https://store.steampowered.com/app/2104560/SOWON/ ) ( 2024 | 어드벤처 | PUMPKIM )
 #### [Space God]( https://store.steampowered.com/app/637120/Space_God/ ) ( 2018 | 탑 다운 슈팅 | Jellypig Games | Jellypig Games, PsychoFlux Entertainment )
 #### [SPLIT BULLET]( https://store.steampowered.com/app/449450/SPLIT_BULLET/ ) ( 2016 | 탄막슈팅 | IndigoBlue Game Studio | PsychoFlux Entertainment )
