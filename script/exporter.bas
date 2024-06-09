@@ -175,10 +175,11 @@ Function ExportList( sheet as Variant, active_area_start_y as Integer, active_ar
 	
 	Dim eSI_DEVELOPER_1 as Long : eSI_DEVELOPER_1 = 8
 	Dim eSI_DEVELOPER_2 as Long : eSI_DEVELOPER_2 = 9
+	Dim eSI_DEVELOPER_3 as Long : eSI_DEVELOPER_3 = 10
 	
-	Dim eSI_PUBLISHER_1 as Long : eSI_PUBLISHER_1 = 10
-	Dim eSI_PUBLISHER_2 as Long : eSI_PUBLISHER_2 = 11
-	Dim eSI_PUBLISHER_3 as Long : eSI_PUBLISHER_3 = 12
+	Dim eSI_PUBLISHER_1 as Long : eSI_PUBLISHER_1 = 11
+	Dim eSI_PUBLISHER_2 as Long : eSI_PUBLISHER_2 = 12
+	Dim eSI_PUBLISHER_3 as Long : eSI_PUBLISHER_3 = 13
 	
 	
 	'
@@ -298,6 +299,7 @@ Function ExportList( sheet as Variant, active_area_start_y as Integer, active_ar
 		
 		If sheet.getCellByPosition( eSI_DEVELOPER_1, i ).String = sheet.getCellByPosition( eSI_PUBLISHER_1, i ).String _
 			And ( sheet.getCellByPosition( eSI_DEVELOPER_2, i ).String = "" ) _
+			And ( sheet.getCellByPosition( eSI_DEVELOPER_3, i ).String = "" ) _
 			And ( sheet.getCellByPosition( eSI_PUBLISHER_2, i ).String = "" ) _
 			And ( sheet.getCellByPosition( eSI_PUBLISHER_3, i ).String = "" ) Then
 			
@@ -318,6 +320,16 @@ Function ExportList( sheet as Variant, active_area_start_y as Integer, active_ar
 						company _
 					& 	", " _
 					& 	sheet.getCellByPosition( eSI_DEVELOPER_2, i ).String
+			End If
+			
+			'
+			' 개발자 정보 3
+			'
+			If sheet.getCellByPosition( eSI_DEVELOPER_3, i ).String <> "" Then
+				company = _
+						company _
+					& 	", " _
+					& 	sheet.getCellByPosition( eSI_DEVELOPER_3, i ).String
 			End If
 			
 			
