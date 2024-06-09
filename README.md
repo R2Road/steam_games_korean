@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 336 개
+* 337 개
 
 
 
@@ -138,6 +138,7 @@
 #### [소울러즈 | SOULERS]( https://store.steampowered.com/app/2388920/SOULERS/ ) ( 2025 | 불렛타임 슈팅 | DRABIT STUDIO )
 #### [숲속의 작은 마녀 | Little Witch in the Woods]( https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/ ) ( 2022 | 시뮬레이션 | SUNNY SIDE UP )
 #### [스도쿠 알피지 | Sudoku RPG]( https://store.steampowered.com/app/1474200/Sudoku_RPG/ ) ( 2021 | 퍼즐, RPG | RainbowStudio )
+#### [스매시 레전드 | SMASH LEGENDS]( https://store.steampowered.com/app/1352080/SMASH_LEGENDS/ ) ( 2021 | PVP 액션 | 5minlab Corp. )
 #### [스테퍼 리본 | Staffer Reborn]( https://store.steampowered.com/app/2658920/Staffer_Reborn/ ) ( 2024 | 초능력 추리 | Team Tetrapod )
 #### [스테퍼 케이스: 초능력 추리 어드벤처 | Staffer Case: A Supernatural Mystery Adventure]( https://store.steampowered.com/app/2128480/Staffer_Case_A_Supernatural_Mystery_Adventure/ ) ( 2023 | 추리 | Team Tetrapod )
 #### [스플릿 스퀘어 | Split square]( https://store.steampowered.com/app/2491130/Split_square/ ) ( 2023 | 덱 빌딩 로그라이크 | Shedin )
@@ -484,6 +485,7 @@
 #### [Silent World]( https://store.steampowered.com/app/1210670/Silent_World/ ) ( 2020 | 액션 어드벤처 | GniFrix | CFK Co., Ltd. )
 #### [Sixtar Gate: STARTRAIL | 식스타 게이트: 스타트레일]( https://store.steampowered.com/app/1802720/Sixtar_Gate_STARTRAIL/ ) ( 2021 | 건반형 리듬 게임 | Lyrebird Studio, Starlike Inc. | CFK Co., Ltd. )
 #### [Skul: The Hero Slayer]( https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/ ) ( 2021 | 2D, 로그라이트, 액션, 플랫포머 | Southpaw Games Co., Ltd. | NEOWIZ )
+#### [SMASH LEGENDS | 스매시 레전드]( https://store.steampowered.com/app/1352080/SMASH_LEGENDS/ ) ( 2021 | PVP 액션 | 5minlab Corp. )
 #### [SMASHING THE BATTLE]( https://store.steampowered.com/app/467930/SMASHING_THE_BATTLE/ ) ( 2016 | 핵앤슬래시 | Action Square(Studio HG) | Action Square )
 #### [Smilemo]( https://store.steampowered.com/app/1933700/Smilemo/ ) ( 2022 | 액션, 어드벤쳐, 플랫포머, 2D | REXECHO | CFK Co., Ltd. )
 #### [Snow Island]( https://store.steampowered.com/app/1153840/Snow_Island/ ) ( 2019 |  홀드 앤 건 & 보스 러쉬 방식의 작은 미니 게임 | MACKINN7 )
