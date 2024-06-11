@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 339 개
+* 340 개
 
 
 
@@ -523,6 +523,7 @@
 #### [The First Descendant | 퍼스트 디센던트]( https://store.steampowered.com/app/2074920/The_First_Descendant/ ) ( 2024 | 3인칭 루트슈터 | NEXON Games Co., Ltd. | NEXON )
 #### [The Lord of the Parties | 로드 오브 파티]( https://store.steampowered.com/app/1602880/The_Lord_of_the_Parties/ ) ( 2022 | 2D 종스크롤 파티 슈팅 RPG | Magic Cube, Dizcon | HIKE Inc. )
 #### [The Ramsey | 더 램지]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
+#### [The Reeve]( https://store.steampowered.com/app/2889980/The_Reeve/ ) ( 2024 | 중세, 경영, RPG, 시뮬레이션 | Gray Muscat |  )
 #### [The Space-Eating Croc | 공간을 먹는 악어]( https://store.steampowered.com/app/2020090/The_SpaceEating_Croc/ ) ( 2023 | 미스터리 어드벤처 | Chalkseagull | PsychoFlux Entertainment )
 #### [The Spike | 더 스파이크]( https://store.steampowered.com/app/1296840/The_Spike/ ) ( 2020 | 2D 배구 | SUNCYAN studio | PsychoFlux Entertainment )
 #### [The Tainted Lands]( https://store.steampowered.com/app/2148590/The_Tainted_Lands/ ) ( ? | 2D 턴 기반 RPG | Arete Games )
