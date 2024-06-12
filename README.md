@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 340 개
+* 341 개
 
 
 
@@ -320,6 +320,7 @@
 #### [Flower in Us | 사람 속에 피는 꽃]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
 #### [Flowers Blooming at the End of Summer | 여름의 끝에 피는 꽃]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
+#### [Frincess&Cnight]( https://store.steampowered.com/app/1452540/FrincessCnight/ ) ( 2021 | 퍼즐 플랫포머 | Singlecore Games )
 #### [Frostory | 프로스토리]( https://store.steampowered.com/app/1737520/Frostory/ ) ( ? | 액션 어드벤처 | Team OOPArts )
 #### G
 #### [Galaxy Tales: Story of Rapunzel | 갤럭시 테일즈: 스토리 오브 라푼젤]( https://store.steampowered.com/app/1497710/Galaxy_Tales_Story_of_Rapunzel/ ) ( 2022 | 2D 액션 플랫포머 | IKINAGAMES, Nanali Studios | IKINAGAMES, Nanali Studios )
