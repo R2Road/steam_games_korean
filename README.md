@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 342 개
+* 343 개
 
 
 
@@ -561,6 +561,7 @@
 #### W
 #### [Waltz and Jam]( https://store.steampowered.com/app/2686570/Waltz_and_Jam/ ) ( ? | 액션 어드벤처 | Flyway Games, Inc. )
 #### [Wetory]( https://store.steampowered.com/app/2054220/Wetory/ ) ( 2023 | 액션 로그라이크 | PepperStones | GRAVITY )
+#### [White Day VR: The Courage Test]( https://store.steampowered.com/app/1442650/White_Day_VR_The_Courage_Test/ ) ( 2020 | 1인칭, 공포 | SONNORI Corp | Pqube )
 #### [White Day: A Labyrinth Named School]( https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/ ) ( 2017 | 1인칭 공포 | SONNORI Corp | Pqube, SONNORI Corp )
 #### [White Day2: The Flower That Tells Lies]( https://store.steampowered.com/app/2078040/White_Day2_The_Flower_That_Tells_Lies__EP1/ ) ( 2023 | 1인칭 공포 | Rootnstudio Ltd. )
 #### [Wicce]( https://store.steampowered.com/app/465130/Wicce/ ) ( 2016 | 2D, 액션, 플랫폼 | Alpheratz* | CFK Co., Ltd. )
