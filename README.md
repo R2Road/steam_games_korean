@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 341 개
+* 342 개
 
 
 
@@ -287,6 +287,7 @@
 #### [DNF Duel]( https://store.steampowered.com/app/1216060/DNF_Duel/ ) ( 2022 | 격투 게임 | Neople, Arc System Works, EIGHTING Co., Ltd. | NEXON )
 #### [DOTORI]( https://store.steampowered.com/app/1109720/DOTORI/ ) ( 2020 | 액션, 플랫폼,  | Indev-studio | CFK Co., Ltd. )
 #### [DOWNFALLEN]( https://store.steampowered.com/app/2153920/DOWNFALLEN/ ) ( 2023 | 어드벤처 | DOWNFALLEN Team | PsychoFlux Entertainment )
+#### [Dragon Is Dead]( https://store.steampowered.com/app/2803280/Dragon_Is_Dead/ ) ( 2024 | 핵 앤 슬래쉬, 로그라이트, 액션 플랫포머 | TeamSuneat | PM Studios, inc. )
 #### [Dreamals]( https://store.steampowered.com/app/480770/Dreamals/ ) ( 2017 | 퍼즐 | XINESS Co,. Ltd. )
 #### [Dreamals: Dream Quest]( https://store.steampowered.com/app/658770/Dreamals_Dream_Quest/ ) ( 2017 | 액션, 퍼즐 | XINESS Co,. Ltd. )
 #### [Duckumentary]( https://store.steampowered.com/app/1042290/Duckumentary/ ) ( 2019 | 플랫포머 | Alpheratz* )
