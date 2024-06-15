@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 343 개
+* 344 개
 
 
 
@@ -149,6 +149,7 @@
 #### ㅇ
 #### [아라하 : 이은도의 저주 | Araha : Curse of Yieun Island]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
 #### [아리아 크로니클 | ARIA CHRONICLE]( https://store.steampowered.com/app/1229900/ARIA_CHRONICLE/ ) ( 2020 | 던전 탐색 RPG | STUDIO N9 | HIKE Inc. )
+#### [아케이드 파티 | Arcade Party]( https://store.steampowered.com/app/2104750/Arcade_Party/ ) ( 2023 | 협동 파티 게임 | OddOneGames )
 #### [아크레티아 전기 | Acretia - Guardians of Lian]( https://store.steampowered.com/app/2164200/Acretia__Guardians_of_Lian/ ) ( 2022 | 턴제 전략 RPG | Ozaak, inc. )
 #### [안녕서울 : 이태원편 | GoodbyeSeoul : Itaewon]( https://store.steampowered.com/app/2551550/GoodbyeSeoul__Itaewon/ ) ( ? | 퍼즐 플랫포머 | JINO Games )
 #### [언더스티드: 과거에서 온 편지 | Undusted: Letters from the Past]( https://store.steampowered.com/app/2891020/Undusted_Letters_from_the_Past/ ) ( ? | 낡은 물건을 복원하는 게임 | 5minlab Corp. )
@@ -229,6 +230,7 @@
 #### [ALTF4]( https://store.steampowered.com/app/1137460/ALTF4/ ) ( 2021 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM )
 #### [ALTF42]( https://store.steampowered.com/app/2187230/ALTF42/ ) ( 2023 | 3인칭, 영구죽음, 어드벤처 | PUMPKIM | GRAVITY )
 #### [Araha : Curse of Yieun Island | 아라하 : 이은도의 저주]( https://store.steampowered.com/app/1190130/Araha__Curse_of_Yieun_Island/ ) ( 2020 | 1인칭 공포 | Palmsoft )
+#### [Arcade Party | 아케이드 파티]( https://store.steampowered.com/app/2104750/Arcade_Party/ ) ( 2023 | 협동 파티 게임 | OddOneGames )
 #### [ARIA CHRONICLE | 아리아 크로니클]( https://store.steampowered.com/app/1229900/ARIA_CHRONICLE/ ) ( 2020 | 던전 탐색 RPG | STUDIO N9 | HIKE Inc. )
 #### [ASCENXION]( https://store.steampowered.com/app/1000000/ASCENXION/ ) ( 2021 | 2D 슈팅 액션 | IndigoBlue Game Studio | PsychoFlux Entertainment )
 #### [ASTRA: Knights of Veda | 별이되어라2: 베다의 기사들]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( 2024 | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
