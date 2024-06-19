@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 346 개
+* 347 개
 
 
 
@@ -484,6 +484,7 @@
 #### [Sally's Law]( https://store.steampowered.com/app/512230/Sallys_Law/ ) ( 2016 | 퍼즐, 플랫폼 | Nanali Studios )
 #### [SANABI: The Revenant | 산나비]( https://store.steampowered.com/app/1562700/SANABI/ ) ( 2022 | 액션, 어드벤처 | WONDER POTION | NEOWIZ )
 #### [Scarlet Hood and the Wicked Wood]( https://store.steampowered.com/app/1141120/Scarlet_Hood_and_the_Wicked_Wood/ ) ( 2021 | 퍼즐, 어드벤처 | Devespresso Games | Headup, WhisperGames )
+#### [Seal: WHAT the FUN]( https://store.steampowered.com/app/2347910/Seal_WHAT_the_FUN/ ) ( 2024 | 옴니버스 멀티게임 | PLAYWITH GAMES Inc. )
 #### [Second Second]( https://store.steampowered.com/app/918430/Second_Second/ ) ( 2018 | 로그라이크 카드 게임 | Sinkhole Studio )
 #### [Seonbi : Scholar of Joseon | 문경새재]( https://store.steampowered.com/app/1925860/Seonbi__Scholar_of_Joseon/ ) ( 2023 | 횡스크롤 액션 로그라이트 | Team ETTU )
 #### [Shambles]( https://store.steampowered.com/app/2289630/Shambles/ ) ( ? | 텍스트 RPG, 덱빌딩, 로그라이크 | EXLIX | GRAVITY )
