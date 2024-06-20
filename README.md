@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 347 개
+* 348 개
 
 
 
@@ -528,6 +528,7 @@
 #### [The First Berserker: Khazan | 퍼스트 버서커: 카잔]( https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/ ) ( ? | 하드코어 액션 롤플레잉 | Neople | NEXON )
 #### [The First Descendant | 퍼스트 디센던트]( https://store.steampowered.com/app/2074920/The_First_Descendant/ ) ( 2024 | 3인칭 루트슈터 | NEXON Games Co., Ltd. | NEXON )
 #### [The Lord of the Parties | 로드 오브 파티]( https://store.steampowered.com/app/1602880/The_Lord_of_the_Parties/ ) ( 2022 | 2D 종스크롤 파티 슈팅 RPG | Magic Cube, Dizcon | HIKE Inc. )
+#### [The Midnight Walkers]( https://store.steampowered.com/app/2795540/The_Midnight_Walkers/ ) ( 2024 | 호러 PVPVE FPS | Onewayticketstudio )
 #### [The Ramsey | 더 램지]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
 #### [The Reeve]( https://store.steampowered.com/app/2889980/The_Reeve/ ) ( 2024 | 중세, 경영, RPG, 시뮬레이션 | Gray Muscat |  )
 #### [The Space-Eating Croc | 공간을 먹는 악어]( https://store.steampowered.com/app/2020090/The_SpaceEating_Croc/ ) ( 2023 | 미스터리 어드벤처 | Chalkseagull | PsychoFlux Entertainment )
