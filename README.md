@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 349 개
+* 350 개
 
 
 
@@ -165,6 +165,7 @@
 #### [오구와 비밀의 숲 | Ogu and the Secret Forest]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
 #### [용사의 자격 | Qualification as Rogue]( https://store.steampowered.com/app/2308820/Qualification_as_Rogue/ ) ( 2023 | 액션 로그라이크, 플랫포머 | SUNBEESOFT )
 #### [울트라 에이지 | Ultra Age]( https://store.steampowered.com/app/1683100/Ultra_Age/ ) ( 2022 | 액션RPG | Next Stage Inc., Visual DART Co., Ltd | Intragames, DANGEN Entertainment )
+#### [유물의 숲 | Forest Of Relics]( https://store.steampowered.com/app/2235500/Forest_Of_Relics/ ) ( 2023 | 어드벤처, 3D 플랫폼 | eTIRUe )
 #### [유튜버 서바이버즈 | Youtuber Survivors]( https://store.steampowered.com/app/2098560/Youtuber_Survivors/ ) ( 2023 | 2D 액션 로그라이크 | AvoCavo )
 #### [이라 | Ira]( https://store.steampowered.com/app/1536210/Ira/ ) ( 2023 | 탄막 슈팅 로그라이트 | ABShot | Nicalis, Inc. )
 #### [이터널 리턴 | Eternal Return]( https://store.steampowered.com/app/1049590/Eternal_Return/ ) ( 2023 | 배틀로얄 건플레이 | Nimble Neuron | Kakao Games Europe B.V. (EU,NA,OCE), Nimble Neuron (Excluding EU,NA,OCE) )
@@ -325,6 +326,7 @@
 #### [Flower in Us | 사람 속에 피는 꽃]( https://store.steampowered.com/app/2482920/_/?l=koreana ) ( 2024 | 미스터리 어드벤처 | Chalkseagull, Team Gypsophila | PsychoFlux Entertainment )
 #### [Flowers Blooming at the End of Summer | 여름의 끝에 피는 꽃]( https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/ ) ( 2021 | 비주얼 노벨 | MidnightWorks | PsychoFlux Entertainment )
 #### [For the Revenge]( https://store.steampowered.com/app/893480/For_the_Revenge/ ) ( 2018 | 액션, 어드벤처 | MME )
+#### [Forest Of Relics | 유물의 숲]( https://store.steampowered.com/app/2235500/Forest_Of_Relics/ ) ( 2023 | 어드벤처, 3D 플랫폼 | eTIRUe )
 #### [Frincess&Cnight]( https://store.steampowered.com/app/1452540/FrincessCnight/ ) ( 2021 | 퍼즐 플랫포머 | Singlecore Games )
 #### [Frostory | 프로스토리]( https://store.steampowered.com/app/1737520/Frostory/ ) ( ? | 액션 어드벤처 | Team OOPArts )
 #### G
