@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 348 개
+* 349 개
 
 
 
@@ -80,6 +80,7 @@
 #### [닌자 일섬 | Ninja Issen (忍者一閃)]( https://store.steampowered.com/app/1714550/__Ninja_Issen/ ) ( 2023 | 하이퍼 닌자 액션 | ASTEROID-J | CFK Co., Ltd. )
 #### ㄷ
 #### [다이 크리쳐 | Thy Creature]( https://store.steampowered.com/app/1603720/Thy_Creature/ ) ( 2022 | 어드벤처 | Growing Seeds )
+#### [다크 세이렌 | Dark Siren]( https://store.steampowered.com/app/1575450/Dark_Siren/ ) ( 2022 | 3D 캐주얼 런 | eTIRUe )
 #### [다크워터 : 슬라임 인베이더 | Dark Water : Slime Invader]( https://store.steampowered.com/app/1235830/Dark_Water__Slime_Invader/ ) ( 2021 | 점프 액션 | DEVBOX | DEVBOX, HeartBeat Games )
 #### [댄싱 에로우 : 비트스매시 | Dancing Arrow : Beat Smash]( https://store.steampowered.com/app/1190310/Dancing_Arrow__Beat_Smash/ ) ( 2019 | VR 리듬게임 | Geniesoft Inc. )
 #### [더 램지 | The Ramsey]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
@@ -274,6 +275,7 @@
 #### [Dancing Arrow : Beat Smash | 댄싱 에로우 : 비트스매시]( https://store.steampowered.com/app/1190310/Dancing_Arrow__Beat_Smash/ ) ( 2019 | VR 리듬게임 | Geniesoft Inc. )
 #### [Dandelion - Wishes brought to you -]( https://store.steampowered.com/app/321290/Dandelion__Wishes_brought_to_you/ ) ( 2012 | 여성향 연애 육성 시뮬레이션 | Cheritz )
 #### [Dark and Darker]( https://store.steampowered.com/app/2016590/Dark_and_Darker/ ) ( 2023 | - | IRONMACE  )
+#### [Dark Siren | 다크 세이렌]( https://store.steampowered.com/app/1575450/Dark_Siren/ ) ( 2022 | 3D 캐주얼 런 | eTIRUe )
 #### [Dark Water : Slime Invader | 다크워터 : 슬라임 인베이더]( https://store.steampowered.com/app/1235830/Dark_Water__Slime_Invader/ ) ( 2021 | 점프 액션 | DEVBOX | DEVBOX, HeartBeat Games )
 #### [Darkest Mana : Master of the Table]( https://store.steampowered.com/app/851040/Darkest_Mana__Master_of_the_Table/ ) ( 2018 | VR, 카드 대전 | IKINAGAMES )
 #### [DAVE THE DIVER | 데이브 더 다이버]( https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/ ) ( 2022 | 어드벤처, RPG | MINTROCKET )
