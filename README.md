@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 350 개
+* 351 개
 
 
 
@@ -95,6 +95,7 @@
 #### [도박묵시록 다구리: Remastered | DAGURI: Gambling Apocalypse]( https://store.steampowered.com/app/2004180/DAGURI_Gambling_Apocalypse/ ) ( 2022 | 오픈 월드 도박 시뮬레이션 | DakeCraft | PsychoFlux Entertainment )
 #### ㄹ
 #### [라라바이 데이즈 | Lullaby Days]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
+#### [라스트 세인티스 | The Last Saintess]( https://store.steampowered.com/app/2280540/The_Last_Saintess/ ) ( 2023 | 시뮬레이션, 전략, 타워 디펜스 | eTIRUe )
 #### [라이트 오디세이 | Light Odyssey]( https://store.steampowered.com/app/1902860/Light_Odyssey/ ) ( 2024Q4 | 보스러시 액션게임 | SSUN GAMES | GRAVITY )
 #### [라핀 | LAPIN]( https://store.steampowered.com/app/1454540/LAPIN/ ) ( 2023 | 2D 정밀 플랫포머 | Studio Doodal )
 #### [러브 딜리버리 | Love Delivery]( https://store.steampowered.com/app/1817940/Love_Delivery/ ) ( 2022 | 미소녀 연애 시뮬레이션 | Onfire Games )
@@ -531,6 +532,7 @@
 #### [THE FINALS]( https://store.steampowered.com/app/2073850/THE_FINALS/ ) ( 2023 | 멀티플레이어, 슈팅, PVP | Embark Studios )
 #### [The First Berserker: Khazan | 퍼스트 버서커: 카잔]( https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/ ) ( ? | 하드코어 액션 롤플레잉 | Neople | NEXON )
 #### [The First Descendant | 퍼스트 디센던트]( https://store.steampowered.com/app/2074920/The_First_Descendant/ ) ( 2024 | 3인칭 루트슈터 | NEXON Games Co., Ltd. | NEXON )
+#### [The Last Saintess | 라스트 세인티스]( https://store.steampowered.com/app/2280540/The_Last_Saintess/ ) ( 2023 | 시뮬레이션, 전략, 타워 디펜스 | eTIRUe )
 #### [The Lord of the Parties | 로드 오브 파티]( https://store.steampowered.com/app/1602880/The_Lord_of_the_Parties/ ) ( 2022 | 2D 종스크롤 파티 슈팅 RPG | Magic Cube, Dizcon | HIKE Inc. )
 #### [The Midnight Walkers]( https://store.steampowered.com/app/2795540/The_Midnight_Walkers/ ) ( 2024 | 호러 PVPVE FPS | Onewayticketstudio )
 #### [The Ramsey | 더 램지]( https://store.steampowered.com/app/2108060/The_Ramsey/ ) ( 2023 | 액션, 퍼즐, 플랫폼 | IKINAGAMES )
