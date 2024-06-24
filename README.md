@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 351 개
+* 352 개
 
 
 
@@ -119,6 +119,7 @@
 #### [미제사건은 끝내야 하니까 | No Case Should Remain Unsolved]( https://store.steampowered.com/app/2676840/No_Case_Should_Remain_Unsolved/ ) ( 2024 | 어드벤처, 포인트 앤 클릭 | Somi )
 #### ㅂ
 #### [배고픈 원시인 | Hungry Caveman]( https://store.steampowered.com/app/2166250/Hungry_Caveman/ ) ( 2023 | 어드벤처 | RainbowStudio )
+#### [뱀파이어 맨션 | Vampire Mansion]( https://store.steampowered.com/app/2280520/Vampire_Mansion/ ) ( 2023 | 잠입 | eTIRUe )
 #### [베리드 스타즈 | BURIED STARS]( https://store.steampowered.com/app/1025960/BURIED_STARS/ ) ( 2021 | 어드벤처 | LINE Games Corporation )
 #### [베일드 엣지 | Veiled Edge]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio )
 #### [별이되어라2: 베다의 기사들 | ASTRA: Knights of Veda]( https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/ ) ( 2024 | 벨트 스크롤 2D 액션 MORPG | FLINT | HYBE IM )
@@ -563,6 +564,7 @@
 #### V
 #### [V.E.D.A]( https://store.steampowered.com/app/2659980/VEDA/ ) ( ? | 소울라이크 트레이닝 게임 | Tripearl Games )
 #### [Vambrace: Cold Soul]( https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/ ) ( 2019 | 로그라이트, 어드벤처 | Devespresso Games | Headup, WhisperGames )
+#### [Vampire Mansion | 뱀파이어 맨션]( https://store.steampowered.com/app/2280520/Vampire_Mansion/ ) ( 2023 | 잠입 | eTIRUe )
 #### [Vapor World: Over The Mind]( https://store.steampowered.com/app/1996090/Vapor_World_Over_The_Mind/ ) ( ? | 액션 어드벤처 플랫포머 | ALIVE Inc. | TBA )
 #### [Vectorium]( https://store.steampowered.com/app/712870/Vectorium/ ) ( 2018 | 아케이드 슈팅 | IndigoBlue Game Studio )
 #### [Veiled Edge | 베일드 엣지]( https://store.steampowered.com/app/2447120/Veiled_Edge/ ) ( 2024Q4 | 해킹액션 플랫포머 | Onw Studio )
