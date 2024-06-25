@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 352 개
+* 353 개
 
 
 
@@ -155,6 +155,7 @@
 #### [아케이드 파티 | Arcade Party]( https://store.steampowered.com/app/2104750/Arcade_Party/ ) ( 2023 | 협동 파티 게임 | OddOneGames )
 #### [아크레티아 전기 | Acretia - Guardians of Lian]( https://store.steampowered.com/app/2164200/Acretia__Guardians_of_Lian/ ) ( 2022 | 턴제 전략 RPG | Ozaak, inc. )
 #### [안녕서울 : 이태원편 | GoodbyeSeoul : Itaewon]( https://store.steampowered.com/app/2551550/GoodbyeSeoul__Itaewon/ ) ( ? | 퍼즐 플랫포머 | JINO Games )
+#### [어비스 스쿨 | Abyss School]( https://store.steampowered.com/app/2473710/Abyss_School/ ) ( 2024 | 어드벤처, 퍼즐 | eTIRUe )
 #### [언더스티드: 과거에서 온 편지 | Undusted: Letters from the Past]( https://store.steampowered.com/app/2891020/Undusted_Letters_from_the_Past/ ) ( ? | 낡은 물건을 복원하는 게임 | 5minlab Corp. )
 #### [언폴디드 : 동백이야기 | Unfolded : Camellia Tales]( https://store.steampowered.com/app/1357990/Unfolded__Camellia_Tales/ ) ( 2021 | 2D 포인트 앤 클릭 어드벤처 | COSDOTS )
 #### [에이지 오브 솔리테어 : 문명 건설 | Age of Solitaire : Build Civilization]( https://store.steampowered.com/app/2050530/Age_of_Solitaire__Build_Civilization/ ) ( 2022 | 솔리테어 | Eggtart Inc )
@@ -225,6 +226,7 @@
 #### A
 #### [A Street Cat's Tale | 길고양이 이야기]( https://store.steampowered.com/app/1140570/A_Street_Cats_Tale/ ) ( 2019 | 어드벤처, 시뮬레이션 | feemodev | CFK Co., Ltd. )
 #### [A Street Cat's Tale 2: Out side is dangerous | 길고양이 이야기 2: 집밖은 위험해]( https://store.steampowered.com/app/2356450/A_Street_Cats_Tale_2_Out_side_is_dangerous/ ) ( 2023 | 어드벤쳐  | PPIYO STUDIO | CFK Co., Ltd. )
+#### [Abyss School | 어비스 스쿨]( https://store.steampowered.com/app/2473710/Abyss_School/ ) ( 2024 | 어드벤처, 퍼즐 | eTIRUe )
 #### [Acretia - Guardians of Lian | 아크레티아 전기]( https://store.steampowered.com/app/2164200/Acretia__Guardians_of_Lian/ ) ( 2022 | 턴제 전략 RPG | Ozaak, inc. )
 #### [ACTION SANDBOX]( https://store.steampowered.com/app/1381650/ACTION_SANDBOX/ ) ( 2022 | 샌드박스, 시뮬레이션, 물리 | Vona Soft )
 #### [Adolescent Santa Claus | 산타는 교복을 입을 수 밖에 없어]( https://store.steampowered.com/app/628730/Adolescent_Santa_Claus/ ) ( 2018 | 비주얼노블 | TALESSHOP Co., Ltd. )
