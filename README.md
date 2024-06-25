@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 353 개
+* 354 개
 
 
 
@@ -187,6 +187,7 @@
 #### [쿠시의 엄천난 모험!! | Cush's Amazin' Adventure!!]( https://store.steampowered.com/app/2276110/Cushs_Amazin_Adventure/ ) ( 2023 | RPG, 어드벤처 | CushKim | PsychoFlux Entertainment )
 #### [퀸즈 아이돌 | Idol Queens Production]( https://store.steampowered.com/app/1865080/Idol_Queens_Production/ ) ( 2022 | 아이돌 육성 시뮬레이션 | SUNBEESOFT )
 #### [크로노 아크 | Chrono Ark]( https://store.steampowered.com/app/1188930/Chrono_Ark/ ) ( 2019 | 로그라이크, 덱빌딩 | Al Fine )
+#### [크롤링 랩 | Crawling Lab]( https://store.steampowered.com/app/2637070/Crawling_Lab/ ) ( 2024 | 액션로그라이크 | eTIRUe )
 #### [킹덤 언더 파이어 : 더 크루세이더 | Kingdom Under Fire: The Crusaders]( https://store.steampowered.com/app/1121420/Kingdom_Under_Fire_The_Crusaders/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### [킹덤언더파이어: 히어로즈 | Kingdom Under Fire: Heroes]( https://store.steampowered.com/app/1315200/Kingdom_Under_Fire_Heroes/ ) ( 2020 | 액션전략 | Blueside | Blueside, Incredi Soft )
 #### ㅌ
@@ -269,6 +270,7 @@
 #### [Contract]( https://store.steampowered.com/app/1219300/Contract/ ) ( 2020 | 2D 플랫포머 | Metamong )
 #### [Corrupted: Dawn of Havoc]( https://store.steampowered.com/app/2007770/Corrupted_Dawn_of_Havoc/ ) ( 2024 | 하드코어 오토배틀 로그라이크 덱빌딩 | 36Litters )
 #### [CRANGA!: Harbor Frenzy]( https://store.steampowered.com/app/517970/CRANGA_Harbor_Frenzy/ ) ( 2016 | VR 퍼즐 | HandMade Game )
+#### [Crawling Lab | 크롤링 랩]( https://store.steampowered.com/app/2637070/Crawling_Lab/ ) ( 2024 | 액션로그라이크 | eTIRUe )
 #### [Crazy Farm : VRGROUND]( https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/ ) ( 2018 | 파티 게임 | Jamong Inc. )
 #### [Cubians : Rescue Princess]( https://store.steampowered.com/app/712910/Cubians__Rescue_Princess/ ) ( 2017 | VR 액션 디펜스 | IKINAGAMES )
 #### [Cubians VR]( https://store.steampowered.com/app/576370/Cubians_VR/ ) ( 2017 | VR, 테이블 전략 디펜스 | IKINAGAMES )
