@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 355 개
+* 356 개
 
 
 
@@ -499,6 +499,7 @@
 #### [Seal: WHAT the FUN]( https://store.steampowered.com/app/2347910/Seal_WHAT_the_FUN/ ) ( 2024 | 옴니버스 멀티게임 | PLAYWITH GAMES Inc. )
 #### [Second Second]( https://store.steampowered.com/app/918430/Second_Second/ ) ( 2018 | 로그라이크 카드 게임 | Sinkhole Studio )
 #### [Seonbi : Scholar of Joseon | 문경새재]( https://store.steampowered.com/app/1925860/Seonbi__Scholar_of_Joseon/ ) ( 2023 | 횡스크롤 액션 로그라이트 | Team ETTU )
+#### [Sephiria]( https://store.steampowered.com/app/2436940/Sephiria/ ) ( ? | 탑 다운 액션 로그라이트 | TEAM HORAY )
 #### [Shambles]( https://store.steampowered.com/app/2289630/Shambles/ ) ( ? | 텍스트 RPG, 덱빌딩, 로그라이크 | EXLIX | GRAVITY )
 #### [Shikhondo(食魂徒) - Soul Eater]( https://store.steampowered.com/app/720150/Shikhondo__Soul_Eater/ ) ( 2017 | 탄막 슈팅게임 | DeerFarm )
 #### [Shutter Nyan! Enhanced Edition | 셔터냥! Enhanced Edition]( https://store.steampowered.com/app/1227320/Shutter_Nyan_Enhanced_Edition/ ) ( 2021 | 2D 횡스크롤 카메라 액션 | PROJECT MOREUM Inc. | CFK Co., Ltd. )
