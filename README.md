@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 354 개
+* 355 개
 
 
 
@@ -102,6 +102,7 @@
 #### [레이저존 | LaserZone]( https://store.steampowered.com/app/1125880/LaserZone/ ) ( 2021 | 퍼즐 | GameCanvas Inc. )
 #### [로드 오브 파티 | The Lord of the Parties]( https://store.steampowered.com/app/1602880/The_Lord_of_the_Parties/ ) ( 2022 | 2D 종스크롤 파티 슈팅 RPG | Magic Cube, Dizcon | HIKE Inc. )
 #### [루나 : 차원의 감시자 | Luna : The Dimension Watcher]( https://store.steampowered.com/app/1218360/Luna__The_Dimension_Watcher/ ) ( 2020 | 대규모 군단 전략 디펜스 RPG | Dave Studio )
+#### [루미네나이트 | LumineNight]( https://store.steampowered.com/app/2544570/LumineNight/ ) ( 2024 | 추리 어드벤처 | Spickasoft )
 #### [루바토: 오리지널 콤플렉스 | Ruvato: Original Complex]( https://store.steampowered.com/app/1464500/Ruvato_Original_Complex/ ) ( 2020 | 액션, 플랫폼, 핵앤슬래시 | REMIMORY )
 #### [루시의 일기 | Diary of Lucie]( https://store.steampowered.com/app/1454010/Diary_of_Lucie/ ) ( 2023 | 액션, 로그라이트 | Parange Project )
 #### [린, 퍼즐에 그려진 소녀 이야기 | Lynn , The Girl Drawn On Puzzles]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
@@ -388,6 +389,7 @@
 #### [Lu Bu Maker | 여포키우기]( https://store.steampowered.com/app/882900/Lu_Bu_Maker/ ) ( 2018 | 육성 시뮬레이션 | TALESSHOP Co., Ltd. )
 #### [Lucky Fish Bread]( https://store.steampowered.com/app/1695400/Lucky_Fish_Bread/ ) ( 2022 | VR, 경영, 생활 시뮬레이션 | Visual Light )
 #### [Lullaby Days | 라라바이 데이즈]( https://store.steampowered.com/app/1274710/Lullaby_Days/ ) ( 2022 | 메르헨 판타지 육성시뮬레이션 | Sunflo Labs )
+#### [LumineNight | 루미네나이트]( https://store.steampowered.com/app/2544570/LumineNight/ ) ( 2024 | 추리 어드벤처 | Spickasoft )
 #### [Luna : The Dimension Watcher | 루나 : 차원의 감시자]( https://store.steampowered.com/app/1218360/Luna__The_Dimension_Watcher/ ) ( 2020 | 대규모 군단 전략 디펜스 RPG | Dave Studio )
 #### [Lynn , The Girl Drawn On Puzzles | 린, 퍼즐에 그려진 소녀 이야기]( https://store.steampowered.com/app/1249080/Lynn__The_Girl_Drawn_On_Puzzles/ ) ( 2021 | 퍼즐 | DOTORIS )
 #### M
