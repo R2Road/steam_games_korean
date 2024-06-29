@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 357 개
+* 358 개
 
 
 
@@ -565,6 +565,7 @@
 #### [Twinkle Hunter]( https://store.steampowered.com/app/2266740/Twinkle_Hunter/ ) ( 2024 | 2D 액션 | Silver Cat )
 #### U
 #### [Ultra Age | 울트라 에이지]( https://store.steampowered.com/app/1683100/Ultra_Age/ ) ( 2022 | 액션RPG | Next Stage Inc., Visual DART Co., Ltd | Intragames, DANGEN Entertainment )
+#### [Uncover the Smoking Gun]( https://store.steampowered.com/app/2492290/Uncover_the_Smoking_Gun/ ) ( 2024 | ChatGPT 기반 추리 게임 | ReLU Games )
 #### [Under Water : Abyss Survival VR]( https://store.steampowered.com/app/1042130/Under_Water__Abyss_Survival_VR/ ) ( 2019 | VR, FPS, 생존, 공포 | Visual Light )
 #### [Undusted: Letters from the Past | 언더스티드: 과거에서 온 편지]( https://store.steampowered.com/app/2891020/Undusted_Letters_from_the_Past/ ) ( ? | 낡은 물건을 복원하는 게임 | 5minlab Corp. )
 #### [Unfolded : Camellia Tales | 언폴디드 : 동백이야기]( https://store.steampowered.com/app/1357990/Unfolded__Camellia_Tales/ ) ( 2021 | 2D 포인트 앤 클릭 어드벤처 | COSDOTS )
