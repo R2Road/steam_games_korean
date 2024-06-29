@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 356 개
+* 357 개
 
 
 
@@ -445,6 +445,7 @@
 #### [NOTE]( https://store.steampowered.com/app/1039330/NOTE/ ) ( 2019 | 2D플랫포머 | PLAY Mephistowaltz )
 #### [Nyan-Nyan Punch! | 냥냥펀치!]( https://store.steampowered.com/app/2312340/NyanNyan_Punch/ ) ( 2023 | 1vs1 액션 | Nomary | PsychoFlux Entertainment )
 #### O
+#### [OctoRaid VR]( https://store.steampowered.com/app/1795820/OctoRaid_VR/ ) ( 2023 | 비대칭 PvP VR 파티 게임 | BLENS )
 #### [Ogu and the Secret Forest | 오구와 비밀의 숲]( https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/ ) ( 2023 | 액션어드벤처, 퍼즐 | Moonlab Studio, Sinkhole Studio | Sinkhole Studio )
 #### [oldTail]( https://store.steampowered.com/app/813920/oldTail/ ) ( 2018 | 3인칭 액션 | BK dddDang )
 #### [One Day : The Sun Disappeared]( https://store.steampowered.com/app/492610/One_Day__The_Sun_Disappeared/ ) ( 2016 | 2D, 액션, 플랫폼, RPG | Teemo Soft )
