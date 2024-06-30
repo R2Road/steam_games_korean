@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 358 개
+* 359 개
 
 
 
@@ -273,6 +273,7 @@
 #### [CRANGA!: Harbor Frenzy]( https://store.steampowered.com/app/517970/CRANGA_Harbor_Frenzy/ ) ( 2016 | VR 퍼즐 | HandMade Game )
 #### [Crawling Lab | 크롤링 랩]( https://store.steampowered.com/app/2637070/Crawling_Lab/ ) ( 2024 | 액션로그라이크 | eTIRUe )
 #### [Crazy Farm : VRGROUND]( https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/ ) ( 2018 | 파티 게임 | Jamong Inc. )
+#### [Cryptic Route]( https://store.steampowered.com/app/2925010/Cryptic_Route/ ) ( 2024 | 공포, 어드벤처 | Callmerat | Callmerat Games )
 #### [Cubians : Rescue Princess]( https://store.steampowered.com/app/712910/Cubians__Rescue_Princess/ ) ( 2017 | VR 액션 디펜스 | IKINAGAMES )
 #### [Cubians VR]( https://store.steampowered.com/app/576370/Cubians_VR/ ) ( 2017 | VR, 테이블 전략 디펜스 | IKINAGAMES )
 #### [Cubians: Combine]( https://store.steampowered.com/app/1005470/Cubians_Combine/ ) ( 2019 | VR, 디펜스 | IKINAGAMES )
