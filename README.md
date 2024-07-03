@@ -55,7 +55,7 @@
 
 <br><br>
 ## 등록된 게임 수
-* 360 개
+* 361 개
 
 
 
@@ -500,6 +500,7 @@
 #### [Scarlet Hood and the Wicked Wood]( https://store.steampowered.com/app/1141120/Scarlet_Hood_and_the_Wicked_Wood/ ) ( 2021 | 퍼즐, 어드벤처 | Devespresso Games | Headup, WhisperGames )
 #### [Seal: WHAT the FUN]( https://store.steampowered.com/app/2347910/Seal_WHAT_the_FUN/ ) ( 2024 | 옴니버스 멀티게임 | PLAYWITH GAMES Inc. )
 #### [Second Second]( https://store.steampowered.com/app/918430/Second_Second/ ) ( 2018 | 로그라이크 카드 게임 | Sinkhole Studio )
+#### [SEOIRYE]( https://store.steampowered.com/app/2516280/SEOIRYE/ ) ( 2023 | 어드벤처 | Callmerat | Callmerat Games )
 #### [Seonbi : Scholar of Joseon | 문경새재]( https://store.steampowered.com/app/1925860/Seonbi__Scholar_of_Joseon/ ) ( 2023 | 횡스크롤 액션 로그라이트 | Team ETTU )
 #### [Sephiria]( https://store.steampowered.com/app/2436940/Sephiria/ ) ( ? | 탑 다운 액션 로그라이트 | TEAM HORAY )
 #### [Shambles]( https://store.steampowered.com/app/2289630/Shambles/ ) ( ? | 텍스트 RPG, 덱빌딩, 로그라이크 | EXLIX | GRAVITY )
